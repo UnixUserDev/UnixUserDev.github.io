@@ -1,0 +1,66 @@
+# Obsidian Vault
+
+> A published Obsidian vault: 54 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+
+## Machine-readable
+
+- [Full index (JSON, with note bodies)](https://unixuserdev.github.io/obsidian-vault/static/contentIndex.json)
+- [Light index (JSON, no bodies)](https://unixuserdev.github.io/obsidian-vault/static/contentIndex.light.json)
+- [Index (plain text)](https://unixuserdev.github.io/obsidian-vault/vault-index.txt)
+
+## Pages
+
+- [Agent Memory Map](https://unixuserdev.github.io/obsidian-vault/agent-memory-map.canvas): -
+- [Attachment Demo](https://unixuserdev.github.io/obsidian-vault/attachment-demo): note/attachment
+- [Automounting Drives at Boot](https://unixuserdev.github.io/obsidian-vault/cachyos/automounting-drives-at-boot): note/cachyos
+- [Boot Manager Configuration](https://unixuserdev.github.io/obsidian-vault/cachyos/boot-manager-configuration): note/cachyos
+- [Browser Hardware Acceleration](https://unixuserdev.github.io/obsidian-vault/cachyos/browser-hardware-acceleration): note/cachyos
+- [Btrfs Snapshots](https://unixuserdev.github.io/obsidian-vault/cachyos/btrfs-snapshots): note/cachyos
+- [cachy-chroot Recovery Helper](https://unixuserdev.github.io/obsidian-vault/cachyos/cachy-chroot-recovery-helper): note/cachyos
+- [CachyOS](https://unixuserdev.github.io/obsidian-vault/cachyos/index): -
+- [CachyOS Boot Managers](https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-boot-managers): note/cachyos
+- [CachyOS Desktop Environments](https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-desktop-environments): note/cachyos
+- [CachyOS Downloads and ISO Validation](https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-downloads-and-iso-validation): note/cachyos
+- [CachyOS FAQ and Troubleshooting](https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-faq-and-troubleshooting): note/cachyos
+- [CachyOS Filesystems](https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-filesystems): note/cachyos
+- [CachyOS Kernel Manager](https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-kernel-manager): note/cachyos
+- [CachyOS Kernels](https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-kernels): note/cachyos
+- [CachyOS Settings Package](https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-settings-package): note/cachyos
+- [CachyOS Wiki Notes](https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-wiki-notes): note/cachyos
+- [Dual GPU Setup](https://unixuserdev.github.io/obsidian-vault/cachyos/dual-gpu-setup): note/cachyos
+- [EGL Headless 3D Acceleration](https://unixuserdev.github.io/obsidian-vault/cachyos/egl-headless-3d-acceleration): note/cachyos
+- [Feynman's restaurant problem and how people actually decide](https://unixuserdev.github.io/obsidian-vault/memory/feynman's-restaurant-problem-and-how-people-actually-decide): memory/psychology
+- [Gaming on CachyOS](https://unixuserdev.github.io/obsidian-vault/cachyos/gaming-on-cachyos): note/cachyos
+- [General System Tweaks](https://unixuserdev.github.io/obsidian-vault/cachyos/general-system-tweaks): note/cachyos
+- [Graph Guide](https://unixuserdev.github.io/obsidian-vault/graph-guide): note/guide
+- [Home](https://unixuserdev.github.io/obsidian-vault/index): -
+- [Hyprland Setup and Keybinds](https://unixuserdev.github.io/obsidian-vault/cachyos/hyprland-setup-and-keybinds): note/cachyos
+- [i3 Keybinds and FAQ](https://unixuserdev.github.io/obsidian-vault/cachyos/i3-keybinds-and-faq): note/cachyos
+- [Inbox](https://unixuserdev.github.io/obsidian-vault/inbox): inbox
+- [inbox](https://unixuserdev.github.io/obsidian-vault/tags/inbox): -
+- [Installing CachyOS on a Desktop or Laptop](https://unixuserdev.github.io/obsidian-vault/cachyos/installing-cachyos-on-a-desktop-or-laptop): note/cachyos
+- [KDE Plasma on CachyOS](https://unixuserdev.github.io/obsidian-vault/cachyos/kde-plasma-on-cachyos): note/cachyos
+- [Managing Hardware with chwd](https://unixuserdev.github.io/obsidian-vault/cachyos/managing-hardware-with-chwd): note/cachyos
+- [memory](https://unixuserdev.github.io/obsidian-vault/memory/index): -
+- [memory](https://unixuserdev.github.io/obsidian-vault/tags/memory): -
+- [memory/psychology](https://unixuserdev.github.io/obsidian-vault/tags/memory/psychology): -
+- [Navigating the CachyOS Wiki](https://unixuserdev.github.io/obsidian-vault/cachyos/navigating-the-cachyos-wiki): note/cachyos
+- [Niri Keybinds and FAQ](https://unixuserdev.github.io/obsidian-vault/cachyos/niri-keybinds-and-faq): note/cachyos
+- [note](https://unixuserdev.github.io/obsidian-vault/tags/note): -
+- [note/attachment](https://unixuserdev.github.io/obsidian-vault/tags/note/attachment): -
+- [note/cachyos](https://unixuserdev.github.io/obsidian-vault/tags/note/cachyos): -
+- [note/guide](https://unixuserdev.github.io/obsidian-vault/tags/note/guide): -
+- [OpenCode-Sandbox Map](https://unixuserdev.github.io/obsidian-vault/opencode-sandbox-map.canvas): -
+- [Optimized Repositories and x86-64 Levels](https://unixuserdev.github.io/obsidian-vault/cachyos/optimized-repositories-and-x86-64-levels): note/cachyos
+- [Post Install Setup](https://unixuserdev.github.io/obsidian-vault/cachyos/post-install-setup): note/cachyos
+- [Preparing a CachyOS USB Installer](https://unixuserdev.github.io/obsidian-vault/cachyos/preparing-a-cachyos-usb-installer): note/cachyos
+- [QEMU and VMM Setup](https://unixuserdev.github.io/obsidian-vault/cachyos/qemu-and-vmm-setup): note/cachyos
+- [QEMU User Session](https://unixuserdev.github.io/obsidian-vault/cachyos/qemu-user-session): note/cachyos
+- [Qtile Keybinds and FAQ](https://unixuserdev.github.io/obsidian-vault/cachyos/qtile-keybinds-and-faq): note/cachyos
+- [sched-ext Schedulers](https://unixuserdev.github.io/obsidian-vault/cachyos/sched-ext-schedulers): note/cachyos
+- [Secure Boot Setup](https://unixuserdev.github.io/obsidian-vault/cachyos/secure-boot-setup): note/cachyos
+- [Switching Between NVIDIA and AMD GPUs](https://unixuserdev.github.io/obsidian-vault/cachyos/switching-between-nvidia-and-amd-gpus): note/cachyos
+- [Switching Desktop Environments](https://unixuserdev.github.io/obsidian-vault/cachyos/switching-desktop-environments): note/cachyos
+- [Tag Index](https://unixuserdev.github.io/obsidian-vault/tags/index): -
+- [Virtio-Venus 3D Acceleration](https://unixuserdev.github.io/obsidian-vault/cachyos/virtio-venus-3d-acceleration): note/cachyos
+- [Why CachyOS](https://unixuserdev.github.io/obsidian-vault/cachyos/why-cachyos): note/cachyos
