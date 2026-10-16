@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 62 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 63 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -655,6 +655,16 @@
       "url": "https://unixuserdev.github.io/tags/index",
       "tags": [],
       "links": []
+    },
+    {
+      "title": "Use the Agent-Opencode account for agent GitHub work",
+      "url": "https://unixuserdev.github.io/memory/use-the-agent-opencode-account-for-agent-github-work",
+      "tags": [
+        "memory/linux"
+      ],
+      "links": [
+        "inbox"
+      ]
     },
     {
       "title": "Virtio-Venus 3D Acceleration",

@@ -624,6 +624,17 @@
       "memory/linux"
     ]
   },
+  "memory/use-the-agent-opencode-account-for-agent-github-work": {
+    "slug": "memory/use-the-agent-opencode-account-for-agent-github-work",
+    "filePath": "memory/Use the Agent-Opencode account for agent GitHub work.md",
+    "title": "Use the Agent-Opencode account for agent GitHub work",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/linux"
+    ]
+  },
   "memory/fastfetch-tiny-core-logo-issue-and-pr": {
     "slug": "memory/fastfetch-tiny-core-logo-issue-and-pr",
     "filePath": "memory/fastfetch Tiny Core logo issue and PR.md",

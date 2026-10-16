@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 62 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 63 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -72,6 +72,7 @@
 - [Switching Between NVIDIA and AMD GPUs](https://unixuserdev.github.io/cachyos/switching-between-nvidia-and-amd-gpus): note/cachyos
 - [Switching Desktop Environments](https://unixuserdev.github.io/cachyos/switching-desktop-environments): note/cachyos
 - [Tag Index](https://unixuserdev.github.io/tags/index): -
+- [Use the Agent-Opencode account for agent GitHub work](https://unixuserdev.github.io/memory/use-the-agent-opencode-account-for-agent-github-work): memory/linux
 - [Virtio-Venus 3D Acceleration](https://unixuserdev.github.io/cachyos/virtio-venus-3d-acceleration): note/cachyos
 - [Web fetch by client](https://unixuserdev.github.io/web-fetch-by-client): note/agents
 - [Why CachyOS](https://unixuserdev.github.io/cachyos/why-cachyos): note/cachyos
