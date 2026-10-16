@@ -2,6 +2,9 @@
     <loc>https://unixuserdev.github.io/obsidian-vault/attachment-demo</loc>
     <lastmod>2026-10-15T05:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/boot-manager-configuration</loc>
+    <lastmod>2026-05-22T05:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-boot-managers</loc>
     <lastmod>2025-12-21T06:00:00.000Z</lastmod>
   </url><url>
@@ -35,11 +38,17 @@
     <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/installing-cachyos-on-a-desktop-or-laptop</loc>
     <lastmod>2026-05-20T05:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/managing-hardware-with-chwd</loc>
+    <lastmod>2026-03-22T05:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/navigating-the-cachyos-wiki</loc>
     <lastmod>2026-01-02T06:00:00.000Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/optimized-repositories-and-x86-64-levels</loc>
     <lastmod>2026-06-14T05:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/post-install-setup</loc>
+    <lastmod>2026-08-27T05:00:00.000Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/preparing-a-cachyos-usb-installer</loc>
     <lastmod>2025-12-03T06:00:00.000Z</lastmod>
@@ -50,6 +59,9 @@
     <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/qemu-and-vmm-setup</loc>
     <lastmod>2026-03-08T06:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/switching-between-nvidia-and-amd-gpus</loc>
+    <lastmod>2026-09-15T05:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/virtio-venus-3d-acceleration</loc>
     <lastmod>2025-11-24T06:00:00.000Z</lastmod>
   </url><url>
@@ -58,6 +70,9 @@
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/cachy-chroot-recovery-helper</loc>
     <lastmod>2026-07-25T05:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/sched-ext-schedulers</loc>
+    <lastmod>2026-09-07T05:00:00.000Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/graph-guide</loc>
     <lastmod>2026-10-15T05:00:00.000Z</lastmod>
@@ -69,35 +84,35 @@
     <lastmod>2026-10-16T00:14:40.000Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/agent-memory-map.canvas</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/opencode-sandbox-map.canvas</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/cachyos/</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/memory/</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/tags/note</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/tags/note/attachment</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/tags/note/cachyos</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/tags/note/guide</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/tags/memory</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/tags/memory/psychology</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/obsidian-vault/tags/</loc>
-    <lastmod>2026-10-16T02:28:33.573Z</lastmod>
+    <lastmod>2026-10-16T02:29:17.834Z</lastmod>
   </url></urlset>
