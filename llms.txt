@@ -9,6 +9,7 @@
 - [Light index (JSON, no bodies)](https://unixuserdev.github.io/static/contentIndex.light.json)
 - [Index (plain text)](https://unixuserdev.github.io/vault-index.txt)
 - Per-note JSON: `https://unixuserdev.github.io/static/notes/<slug>.json` (use this when the full index truncates)
+- Raw markdown source (`text/plain`): https://raw.githubusercontent.com/UnixUserDev/UnixUserDev.github.io/gh-pages/vault/<path>.md
 
 ## Pages
 

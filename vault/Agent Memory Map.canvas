@@ -1,0 +1,105 @@
+{
+  "nodes": [
+    {
+      "id": "agent",
+      "type": "text",
+      "text": "Agent",
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 200,
+      "color": "2"
+    },
+    {
+      "id": "vault",
+      "type": "text",
+      "text": "Obsidian Vault (markdown notes)",
+      "x": 0,
+      "y": 260,
+      "width": 320,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "viewer",
+      "type": "text",
+      "text": "Obsidian viewer + graph",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 200,
+      "color": "1"
+    },
+    {
+      "id": "tools",
+      "type": "text",
+      "text": "memory.remember / memory.recall",
+      "x": 380,
+      "y": 0,
+      "width": 320,
+      "height": 200,
+      "color": "5"
+    },
+    {
+      "id": "mem",
+      "type": "text",
+      "text": "mem.py -> SQLite FTS5 index",
+      "x": 860,
+      "y": 0,
+      "width": 320,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "bfced792f4ab4bfc",
+      "type": "file",
+      "file": "Inbox.md",
+      "x": 0,
+      "y": -340,
+      "width": 380,
+      "height": 220
+    }
+  ],
+  "edges": [
+    {
+      "id": "215f4c8b7f004d15",
+      "fromNode": "agent",
+      "fromSide": "right",
+      "toNode": "tools",
+      "toSide": "left",
+      "label": "calls"
+    },
+    {
+      "id": "2d7664ba512641a1",
+      "fromNode": "tools",
+      "fromSide": "right",
+      "toNode": "mem",
+      "toSide": "left",
+      "label": "reads/writes"
+    },
+    {
+      "id": "8af044a873af43a8",
+      "fromNode": "mem",
+      "fromSide": "right",
+      "toNode": "vault",
+      "toSide": "left",
+      "label": "indexes"
+    },
+    {
+      "id": "b5f3a2473af8444f",
+      "fromNode": "vault",
+      "fromSide": "right",
+      "toNode": "viewer",
+      "toSide": "left",
+      "label": "shown in"
+    },
+    {
+      "id": "05b21eac9f644a33",
+      "fromNode": "agent",
+      "fromSide": "top",
+      "toNode": "bfced792f4ab4bfc",
+      "toSide": "bottom",
+      "label": "inbox"
+    }
+  ]
+}
