@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 56 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 58 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -42,9 +42,11 @@
 - [inbox](https://unixuserdev.github.io/tags/inbox): -
 - [Installing CachyOS on a Desktop or Laptop](https://unixuserdev.github.io/cachyos/installing-cachyos-on-a-desktop-or-laptop): note/cachyos
 - [KDE Plasma on CachyOS](https://unixuserdev.github.io/cachyos/kde-plasma-on-cachyos): note/cachyos
+- [Larping another distro in fastfetch](https://unixuserdev.github.io/memory/larping-another-distro-in-fastfetch): memory/linux
 - [Managing Hardware with chwd](https://unixuserdev.github.io/cachyos/managing-hardware-with-chwd): note/cachyos
 - [memory](https://unixuserdev.github.io/memory/index): -
 - [memory](https://unixuserdev.github.io/tags/memory): -
+- [memory/linux](https://unixuserdev.github.io/tags/memory/linux): -
 - [memory/psychology](https://unixuserdev.github.io/tags/memory/psychology): -
 - [Navigating the CachyOS Wiki](https://unixuserdev.github.io/cachyos/navigating-the-cachyos-wiki): note/cachyos
 - [Niri Keybinds and FAQ](https://unixuserdev.github.io/cachyos/niri-keybinds-and-faq): note/cachyos

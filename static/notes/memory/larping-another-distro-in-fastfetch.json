@@ -1,0 +1,12 @@
+{
+  "slug": "memory/larping-another-distro-in-fastfetch",
+  "filePath": "memory/Larping another distro in fastfetch.md",
+  "title": "Larping another distro in fastfetch",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/linux"
+  ],
+  "content": "On the CachyOS box, fastfetch (2.70) can be made to display any other distro. There is no runtime override for the OS detection \u2014 paths are compile-time macros, no \u2014target-dir flag. Three ways: (1) fastfetch --logo &lt;name&gt; changes only the ASCII (544 built-ins via \u2014list-logos; the OS line still says CachyOS). (2) A JSON config with &quot;logo&quot;: {&quot;source&quot;: &quot;...&quot;} plus custom modules for faked key/values \u2014 note custom/command modules cannot be used via -s/\u2014structure, only in JSON. A working one lives at /OpenCode-Sandbox/Temp/larp.jsonc. (3) Full unprivileged spoof: fake an os-release file and bind-mount it with bwrap \u2014 bwrap --dev-bind / / --ro-bind Temp/fake-os-release /etc/os-release -- fastfetch -s title:os:logo \u2014 which auto-picks the logo and rewrites the OS line. Gotchas: Ubuntu flavour detection reads XDG_CONFIG_DIRS (KDE -&gt; reports Kubuntu; set \u2014setenv XDG_CONFIG_DIRS /etc/xdg for plain Ubuntu); the hostname still leaks via the title module; a fake ID=windows auto-picks the legacy tilted-flag logo, not the flat \u201cWindows 11\u201d one.\nInbox"
+}

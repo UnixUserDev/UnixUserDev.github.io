@@ -594,6 +594,17 @@
       "memory/psychology"
     ]
   },
+  "memory/larping-another-distro-in-fastfetch": {
+    "slug": "memory/larping-another-distro-in-fastfetch",
+    "filePath": "memory/Larping another distro in fastfetch.md",
+    "title": "Larping another distro in fastfetch",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/linux"
+    ]
+  },
   "agent-memory-map.canvas": {
     "slug": "agent-memory-map.canvas",
     "filePath": "agent-memory-map.canvas.md",
@@ -675,6 +686,13 @@
     "slug": "tags/memory/psychology",
     "filePath": "tags/memory/psychology.md",
     "title": "memory/psychology",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/linux": {
+    "slug": "tags/memory/linux",
+    "filePath": "tags/memory/linux.md",
+    "title": "memory/linux",
     "links": [],
     "tags": []
   },

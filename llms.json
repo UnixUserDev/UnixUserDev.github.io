@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 56 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 58 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -387,6 +387,16 @@
       ]
     },
     {
+      "title": "Larping another distro in fastfetch",
+      "url": "https://unixuserdev.github.io/memory/larping-another-distro-in-fastfetch",
+      "tags": [
+        "memory/linux"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
       "title": "Managing Hardware with chwd",
       "url": "https://unixuserdev.github.io/cachyos/managing-hardware-with-chwd",
       "tags": [
@@ -407,6 +417,12 @@
     {
       "title": "memory",
       "url": "https://unixuserdev.github.io/tags/memory",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "memory/linux",
+      "url": "https://unixuserdev.github.io/tags/memory/linux",
       "tags": [],
       "links": []
     },
