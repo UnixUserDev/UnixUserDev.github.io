@@ -559,6 +559,13 @@
       "inbox"
     ]
   },
+  "untitled-1": {
+    "slug": "untitled-1",
+    "filePath": "Untitled 1.md",
+    "title": "Untitled 1",
+    "links": [],
+    "tags": []
+  },
   "web-fetch-by-client": {
     "slug": "web-fetch-by-client",
     "filePath": "Web fetch by client.md",
