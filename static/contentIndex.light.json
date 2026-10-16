@@ -562,12 +562,24 @@
     "filePath": "Kimaki/Kimaki.md",
     "title": "Kimaki",
     "links": [
-      "other-remorses-projects",
+      "kimaki/other-remorses-projects",
       "kimaki/kimaki-internals",
       "inbox"
     ],
     "tags": [
       "note/kimaki"
+    ]
+  },
+  "kimaki/other-remorses-projects": {
+    "slug": "kimaki/other-remorses-projects",
+    "filePath": "Kimaki/Other Remorses Projects.md",
+    "title": "Other Remorses Projects",
+    "links": [
+      "kimaki",
+      "inbox"
+    ],
+    "tags": [
+      "note/remorses"
     ]
   },
   "web-fetch-by-client": {
@@ -587,6 +599,7 @@
     "title": "Home",
     "links": [
       "cachyos/cachyos-wiki-notes",
+      "kimaki",
       "graph-guide",
       "agent-memory-map.canvas",
       "opencode-sandbox-map.canvas",
@@ -745,6 +758,13 @@
     "slug": "tags/note/kimaki",
     "filePath": "tags/note/kimaki.md",
     "title": "note/kimaki",
+    "links": [],
+    "tags": []
+  },
+  "tags/note/remorses": {
+    "slug": "tags/note/remorses",
+    "filePath": "tags/note/remorses.md",
+    "title": "note/remorses",
     "links": [],
     "tags": []
   },

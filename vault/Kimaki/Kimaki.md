@@ -8,7 +8,7 @@ source: https://github.com/remorses/kimaki
 
 # Kimaki
 
-A **collaborative agent orchestrator that lives inside Discord**, by [[Other Remorses Projects|Remorses]] (Tommy D. Rossi). It drives every feature of [[Kimaki Internals|OpenCode]] from Discord: **each Discord channel is a project, each thread is a coding session.** Send a message, an agent edits code on your machine.
+A **collaborative agent orchestrator that lives inside Discord**, by [[Other Remorses Projects|Remorses]] (Tommy D. Rossi). It drives every feature of OpenCode (see [[Kimaki Internals]]) from Discord: **each Discord channel is a project, each thread is a coding session.** Send a message, an agent edits code on your machine.
 
 Not a chat toy — the author runs *all* his development through it. Docs: <https://kimaki.dev>. Source: <https://github.com/remorses/kimaki>. Try it: [Kimaki Discord](https://discord.gg/qz3hapKcMM).
 

@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 67 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 69 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -323,6 +323,7 @@
       ],
       "links": [
         "cachyos/cachyos-wiki-notes",
+        "kimaki",
         "graph-guide",
         "agent-memory-map.canvas",
         "opencode-sandbox-map.canvas",
@@ -403,7 +404,7 @@
         "note/kimaki"
       ],
       "links": [
-        "other-remorses-projects",
+        "kimaki/other-remorses-projects",
         "kimaki/kimaki-internals",
         "inbox"
       ]
@@ -530,6 +531,12 @@
       "links": []
     },
     {
+      "title": "note/remorses",
+      "url": "https://unixuserdev.github.io/tags/note/remorses",
+      "tags": [],
+      "links": []
+    },
+    {
       "title": "OpenCode-Sandbox Map",
       "url": "https://unixuserdev.github.io/opencode-sandbox-map.canvas",
       "tags": [],
@@ -554,6 +561,17 @@
       "links": [
         "cachyos/cachyos-wiki-notes",
         "cachyos/preparing-a-cachyos-usb-installer"
+      ]
+    },
+    {
+      "title": "Other Remorses Projects",
+      "url": "https://unixuserdev.github.io/kimaki/other-remorses-projects",
+      "tags": [
+        "note/remorses"
+      ],
+      "links": [
+        "kimaki",
+        "inbox"
       ]
     },
     {

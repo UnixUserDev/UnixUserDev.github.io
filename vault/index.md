@@ -11,6 +11,7 @@ Published notes from the vault.
 ## Notes
 
 - [[CachyOS Wiki Notes]]
+- [[Kimaki]]
 - [[Graph Guide]]
 
 ## Canvases
