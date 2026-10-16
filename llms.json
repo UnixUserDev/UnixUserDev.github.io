@@ -322,19 +322,21 @@
         "note/guide"
       ],
       "links": [
-        "welcome",
         "inbox"
       ]
     },
     {
       "title": "Home",
       "url": "https://unixuserdev.github.io/index",
-      "tags": [],
+      "tags": [
+        "index"
+      ],
       "links": [
         "cachyos/cachyos-wiki-notes",
         "graph-guide",
         "agent-memory-map.canvas",
         "opencode-sandbox-map.canvas",
+        "web-fetch-by-client",
         "inbox"
       ]
     },

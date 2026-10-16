@@ -528,7 +528,6 @@
     "filePath": "Graph Guide.md",
     "title": "Graph Guide",
     "links": [
-      "welcome",
       "inbox"
     ],
     "tags": [
@@ -566,9 +565,12 @@
       "graph-guide",
       "agent-memory-map.canvas",
       "opencode-sandbox-map.canvas",
+      "web-fetch-by-client",
       "inbox"
     ],
-    "tags": []
+    "tags": [
+      "index"
+    ]
   },
   "memory/appimage-leaks-ld_library_path-and-breaks-notify-send": {
     "slug": "memory/appimage-leaks-ld_library_path-and-breaks-notify-send",
@@ -721,6 +723,13 @@
     "links": [],
     "tags": []
   },
+  "tags/index": {
+    "slug": "tags/index",
+    "filePath": "tags/index.md",
+    "title": "Tag Index",
+    "links": [],
+    "tags": []
+  },
   "tags/memory": {
     "slug": "tags/memory",
     "filePath": "tags/memory.md",
@@ -746,13 +755,6 @@
     "slug": "tags/memory/project",
     "filePath": "tags/memory/project.md",
     "title": "memory/project",
-    "links": [],
-    "tags": []
-  },
-  "tags/index": {
-    "slug": "tags/index",
-    "filePath": "tags/index.md",
-    "title": "Tag Index",
     "links": [],
     "tags": []
   }

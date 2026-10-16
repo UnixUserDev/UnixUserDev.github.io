@@ -48,7 +48,7 @@ open a note  →  ask "what does this connect to?"  →  type [[target]]
      └──────────  click it, create it if missing  ←───────────┘
 ```
 
-That's the entire craft. Open [[Welcome]]. Think *"what's this related to?"* — type `[[`. Pick or create. Move to the new note. Repeat. Ten minutes of this and your graph looks alive.
+That's the entire craft. Open [[Inbox]]. Think *"what's this related to?"* — type `[[`. Pick or create. Move to the new note. Repeat. Ten minutes of this and your graph looks alive.
 
 ## 5. The graph view
 

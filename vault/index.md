@@ -1,5 +1,7 @@
 ---
 title: Home
+tags:
+  - index
 ---
 
 # Obsidian Vault
@@ -18,6 +20,6 @@ Published notes from the vault.
 
 ## Reference
 
-- [[CachyOS Wiki Notes]]
+- [[Web fetch by client]]
 
 [[Inbox]]

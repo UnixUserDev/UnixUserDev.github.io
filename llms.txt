@@ -38,7 +38,7 @@
 - [Gaming on CachyOS](https://unixuserdev.github.io/cachyos/gaming-on-cachyos): note/cachyos
 - [General System Tweaks](https://unixuserdev.github.io/cachyos/general-system-tweaks): note/cachyos
 - [Graph Guide](https://unixuserdev.github.io/graph-guide): note/guide
-- [Home](https://unixuserdev.github.io/index): -
+- [Home](https://unixuserdev.github.io/index): index
 - [Hyprland Setup and Keybinds](https://unixuserdev.github.io/cachyos/hyprland-setup-and-keybinds): note/cachyos
 - [i3 Keybinds and FAQ](https://unixuserdev.github.io/cachyos/i3-keybinds-and-faq): note/cachyos
 - [Inbox](https://unixuserdev.github.io/inbox): inbox

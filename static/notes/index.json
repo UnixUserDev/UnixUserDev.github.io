@@ -7,8 +7,11 @@
     "graph-guide",
     "agent-memory-map.canvas",
     "opencode-sandbox-map.canvas",
+    "web-fetch-by-client",
     "inbox"
   ],
-  "tags": [],
-  "content": "Obsidian Vault\nPublished notes from the vault.\nNotes\n\nCachyOS Wiki Notes\nGraph Guide\n\nCanvases\n\nAgent Memory Map.canvas\nOpenCode-Sandbox Map.canvas\n\nReference\n\nCachyOS Wiki Notes\n\nInbox"
+  "tags": [
+    "index"
+  ],
+  "content": "Obsidian Vault\nPublished notes from the vault.\nNotes\n\nCachyOS Wiki Notes\nGraph Guide\n\nCanvases\n\nAgent Memory Map.canvas\nOpenCode-Sandbox Map.canvas\n\nReference\n\nWeb fetch by client\n\nInbox"
 }
