@@ -559,6 +559,17 @@
       "inbox"
     ]
   },
+  "web-fetch-by-client": {
+    "slug": "web-fetch-by-client",
+    "filePath": "Web fetch by client.md",
+    "title": "Web fetch by client",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "note/agents"
+    ]
+  },
   "index": {
     "slug": "index",
     "filePath": "index.md",
@@ -643,6 +654,13 @@
     "slug": "tags/inbox",
     "filePath": "tags/inbox.md",
     "title": "inbox",
+    "links": [],
+    "tags": []
+  },
+  "tags/note/agents": {
+    "slug": "tags/note/agents",
+    "filePath": "tags/note/agents.md",
+    "title": "note/agents",
     "links": [],
     "tags": []
   },

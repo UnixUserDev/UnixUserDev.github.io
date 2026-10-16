@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 54 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 56 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -48,6 +48,7 @@
 - [Navigating the CachyOS Wiki](https://unixuserdev.github.io/obsidian-vault/cachyos/navigating-the-cachyos-wiki): note/cachyos
 - [Niri Keybinds and FAQ](https://unixuserdev.github.io/obsidian-vault/cachyos/niri-keybinds-and-faq): note/cachyos
 - [note](https://unixuserdev.github.io/obsidian-vault/tags/note): -
+- [note/agents](https://unixuserdev.github.io/obsidian-vault/tags/note/agents): -
 - [note/attachment](https://unixuserdev.github.io/obsidian-vault/tags/note/attachment): -
 - [note/cachyos](https://unixuserdev.github.io/obsidian-vault/tags/note/cachyos): -
 - [note/guide](https://unixuserdev.github.io/obsidian-vault/tags/note/guide): -
@@ -64,4 +65,5 @@
 - [Switching Desktop Environments](https://unixuserdev.github.io/obsidian-vault/cachyos/switching-desktop-environments): note/cachyos
 - [Tag Index](https://unixuserdev.github.io/obsidian-vault/tags/index): -
 - [Virtio-Venus 3D Acceleration](https://unixuserdev.github.io/obsidian-vault/cachyos/virtio-venus-3d-acceleration): note/cachyos
+- [Web fetch by client](https://unixuserdev.github.io/obsidian-vault/web-fetch-by-client): note/agents
 - [Why CachyOS](https://unixuserdev.github.io/obsidian-vault/cachyos/why-cachyos): note/cachyos

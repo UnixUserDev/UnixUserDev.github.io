@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 54 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 56 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/obsidian-vault/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/obsidian-vault/static/contentIndex.json",
@@ -445,6 +445,12 @@
       "links": []
     },
     {
+      "title": "note/agents",
+      "url": "https://unixuserdev.github.io/obsidian-vault/tags/note/agents",
+      "tags": [],
+      "links": []
+    },
+    {
       "title": "note/attachment",
       "url": "https://unixuserdev.github.io/obsidian-vault/tags/note/attachment",
       "tags": [],
@@ -607,6 +613,16 @@
       ],
       "links": [
         "cachyos/cachyos-wiki-notes"
+      ]
+    },
+    {
+      "title": "Web fetch by client",
+      "url": "https://unixuserdev.github.io/obsidian-vault/web-fetch-by-client",
+      "tags": [
+        "note/agents"
+      ],
+      "links": [
+        "inbox"
       ]
     },
     {
