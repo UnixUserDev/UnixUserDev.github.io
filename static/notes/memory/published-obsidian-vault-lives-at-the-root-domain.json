@@ -1,0 +1,12 @@
+{
+  "slug": "memory/published-obsidian-vault-lives-at-the-root-domain",
+  "filePath": "memory/Published Obsidian vault lives at the root domain.md",
+  "title": "Published Obsidian vault lives at the root domain",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/project"
+  ],
+  "content": "The user\u2019s Obsidian vault is published publicly with Quartz to GitHub Pages via the user-site repo UnixUserDev/UnixUserDev.github.io, served at the ROOT domain unixuserdev.github.io/ \u2014 not an /obsidian-vault/ subpath (that old repo name is dead and 404s). Machine-readable entry points: llms.txt / llms.json, static/contentIndex.json (with note bodies), static/contentIndex.light.json (no bodies), per-note static/notes/.json, vault-index.txt, and raw markdown via raw.githubusercontent.com/UnixUserDev/UnixUserDev.github.io/gh-pages/vault/.md. Vault convention: every note ends with Inbox so the link graph stays one connected component.\nInbox"
+}
