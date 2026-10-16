@@ -1,0 +1,12 @@
+{
+  "slug": "memory/distros-fastfetch-has-no-logo-for",
+  "filePath": "memory/Distros fastfetch has no logo for.md",
+  "title": "Distros fastfetch has no logo for",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/linux"
+  ],
+  "content": "fastfetch 2.70 ships 544 built-in logos but has no art for a long list of real distros. Verified by running fastfetch -s logo --logo &lt;name&gt; --show-errors true (non-zero output only appears with \u2014show-errors; without it fastfetch silently falls back to the current distro\u2019s logo and exits 0, which makes naive testing useless). Confirmed missing, on both the installed 2.70 and upstream dev (logos live per-letter in src/logo/ascii//): Tiny Core Linux (ID=tinycore \u2014 it does have /etc/os-release, so fastfetch identifies it as \u201cTinyCoreLinux\u201d and then draws Tux), Damn Small Linux, Bazzite (ID=bazzite, falls back to the Fedora logo \u2014 byte-identical), postmarketOS, Slax, Batocera, Lakka, grml, CrunchBang (its fork BunsenLabs IS supported), Red Hat Linux, Corel Linux, MEPIS, Kanotix, Zenwalk, VectorLinux, Sabayon, Yellow Dog, Turbolinux, Vine, DD-WRT, Smoothwall, MeeGo, Maemo, Moblin, Tizen, Firefox OS, ChromiumOS, Softlanding Linux System, MCC Interim Linux, and Winux/Wubuntu (the Windows 11 clone \u2014 while fastfetch does ship a Windows 11 logo). Tiny Core\u2019s absence has zero GitHub issues mentioning it. Also: --logo in -s/--structure prints a bogus \u201cLogo: Supported in JSON format only\u201d line regardless of distro.\nInbox"
+}

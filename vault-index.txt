@@ -583,6 +583,17 @@
     ],
     "tags": []
   },
+  "memory/distros-fastfetch-has-no-logo-for": {
+    "slug": "memory/distros-fastfetch-has-no-logo-for",
+    "filePath": "memory/Distros fastfetch has no logo for.md",
+    "title": "Distros fastfetch has no logo for",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/linux"
+    ]
+  },
   "memory/feynman's-restaurant-problem-and-how-people-actually-decide": {
     "slug": "memory/feynman's-restaurant-problem-and-how-people-actually-decide",
     "filePath": "memory/Feynman's restaurant problem and how people actually decide.md",
@@ -682,17 +693,17 @@
     "links": [],
     "tags": []
   },
-  "tags/memory/psychology": {
-    "slug": "tags/memory/psychology",
-    "filePath": "tags/memory/psychology.md",
-    "title": "memory/psychology",
-    "links": [],
-    "tags": []
-  },
   "tags/memory/linux": {
     "slug": "tags/memory/linux",
     "filePath": "tags/memory/linux.md",
     "title": "memory/linux",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/psychology": {
+    "slug": "tags/memory/psychology",
+    "filePath": "tags/memory/psychology.md",
+    "title": "memory/psychology",
     "links": [],
     "tags": []
   },
