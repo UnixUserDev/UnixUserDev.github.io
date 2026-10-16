@@ -539,7 +539,8 @@
     "filePath": "Graph Guide.md",
     "title": "Graph Guide",
     "links": [
-      "welcome"
+      "welcome",
+      "inbox"
     ],
     "tags": [
       "note/guide"
@@ -640,12 +641,10 @@
     "filePath": "memory/fastfetch Tiny Core logo issue and PR.md",
     "title": "fastfetch Tiny Core logo issue and PR",
     "links": [
-      "tags/n",
       "inbox"
     ],
     "tags": [
-      "memory/linux",
-      "n"
+      "memory/linux"
     ]
   },
   "agent-memory-map.canvas": {
@@ -736,13 +735,6 @@
     "slug": "tags/memory/psychology",
     "filePath": "tags/memory/psychology.md",
     "title": "memory/psychology",
-    "links": [],
-    "tags": []
-  },
-  "tags/n": {
-    "slug": "tags/n",
-    "filePath": "tags/n.md",
-    "title": "n",
     "links": [],
     "tags": []
   },

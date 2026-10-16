@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 63 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 62 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -285,11 +285,9 @@
       "title": "fastfetch Tiny Core logo issue and PR",
       "url": "https://unixuserdev.github.io/memory/fastfetch-tiny-core-logo-issue-and-pr",
       "tags": [
-        "memory/linux",
-        "n"
+        "memory/linux"
       ],
       "links": [
-        "tags/n",
         "inbox"
       ]
     },
@@ -334,7 +332,8 @@
         "note/guide"
       ],
       "links": [
-        "welcome"
+        "welcome",
+        "inbox"
       ]
     },
     {
@@ -458,12 +457,6 @@
     {
       "title": "memory/psychology",
       "url": "https://unixuserdev.github.io/tags/memory/psychology",
-      "tags": [],
-      "links": []
-    },
-    {
-      "title": "n",
-      "url": "https://unixuserdev.github.io/tags/n",
       "tags": [],
       "links": []
     },

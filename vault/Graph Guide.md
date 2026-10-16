@@ -97,3 +97,5 @@ Tags are how the color **Groups** know what to paint. Link = edge; tag = categor
 > [!warning] The trap
 > The graph is the most fun part of Obsidian and the least valuable. Pretty dots aren't knowledge — **links are**. A thousand linked notes is a brain; a thousand colored dots is a screensaver. Play for five minutes, then go write.
 
+[[Inbox]]
+
