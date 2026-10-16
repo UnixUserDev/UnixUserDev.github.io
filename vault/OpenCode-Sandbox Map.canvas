@@ -1,1247 +1,155 @@
 {
-  "nodes": [
-    {
-      "id": "d3537ff170324001",
-      "type": "text",
-      "text": "OpenCode-Sandbox/",
-      "x": 0,
-      "y": 0,
-      "width": 340,
-      "height": 100,
-      "color": "1"
-    },
-    {
-      "id": "bdacfb8454344177",
-      "type": "text",
-      "text": "beam/",
-      "x": 460,
-      "y": 140,
-      "width": 340,
-      "height": 100,
-      "color": "2"
-    },
-    {
-      "id": "f8e9823c746e4801",
-      "type": "text",
-      "text": "index.html",
-      "x": 920,
-      "y": 280,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "dcc33c701b7a47ce",
-      "type": "text",
-      "text": "README.md",
-      "x": 920,
-      "y": 420,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "035da5d8592a4d77",
-      "type": "text",
-      "text": "blackout/",
-      "x": 460,
-      "y": 560,
-      "width": 340,
-      "height": 100,
-      "color": "2"
-    },
-    {
-      "id": "77ec9b3a48a64af6",
-      "type": "text",
-      "text": "index.html",
-      "x": 920,
-      "y": 700,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "fbbd6acc4c854d2d",
-      "type": "text",
-      "text": "README.md",
-      "x": 920,
-      "y": 840,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "7e7ca4a045284365",
-      "type": "text",
-      "text": "obsidian-canvas/",
-      "x": 460,
-      "y": 980,
-      "width": 340,
-      "height": 100,
-      "color": "2"
-    },
-    {
-      "id": "3a1ad3a0899d44cb",
-      "type": "text",
-      "text": "canvas.py",
-      "x": 920,
-      "y": 1120,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "201db79a1dac4e9d",
-      "type": "text",
-      "text": "obsidian-memory/",
-      "x": 460,
-      "y": 1260,
-      "width": 340,
-      "height": 100,
-      "color": "2"
-    },
-    {
-      "id": "3b98cdc5c93c498d",
-      "type": "text",
-      "text": "mem.py",
-      "x": 920,
-      "y": 1400,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "bb0801e6485549a4",
-      "type": "text",
-      "text": "README.md",
-      "x": 920,
-      "y": 1540,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "65e45df51dc94086",
-      "type": "text",
-      "text": "opencode-config/",
-      "x": 460,
-      "y": 1680,
-      "width": 340,
-      "height": 100,
-      "color": "2"
-    },
-    {
-      "id": "26d48163db564fe3",
-      "type": "text",
-      "text": "agents/",
-      "x": 920,
-      "y": 1820,
-      "width": 340,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "fa64dfeae68448eb",
-      "type": "text",
-      "text": "cybersec.md",
-      "x": 1380,
-      "y": 1960,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "c5bcd7ebbfb24b63",
-      "type": "text",
-      "text": "debugger.md",
-      "x": 1380,
-      "y": 2100,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "5b6f343e1bcb413d",
-      "type": "text",
-      "text": "devops.md",
-      "x": 1380,
-      "y": 2240,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "767d1de6c0f54d33",
-      "type": "text",
-      "text": "migrator.md",
-      "x": 1380,
-      "y": 2380,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "0c0a1d2547f04a32",
-      "type": "text",
-      "text": "perf-analyzer.md",
-      "x": 1380,
-      "y": 2520,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "56345eb7f51a43af",
-      "type": "text",
-      "text": "planner.md",
-      "x": 1380,
-      "y": 2660,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "0cbe8089bcc94a27",
-      "type": "text",
-      "text": "reviewer.md",
-      "x": 1380,
-      "y": 2800,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "195ecd7481944457",
-      "type": "text",
-      "text": "tester.md",
-      "x": 1380,
-      "y": 2940,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "d28c5c57ec1f4e65",
-      "type": "text",
-      "text": "verifier.md",
-      "x": 1380,
-      "y": 3080,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "920d10e8f69f4c9d",
-      "type": "text",
-      "text": "config/",
-      "x": 920,
-      "y": 3220,
-      "width": 340,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "26c0bea583b04ace",
-      "type": "text",
-      "text": "cli.json",
-      "x": 1380,
-      "y": 3360,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "709c3cdd88a4413d",
-      "type": "text",
-      "text": "config-opencode.jsonc",
-      "x": 1380,
-      "y": 3500,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "d0c7a536221f461f",
-      "type": "text",
-      "text": "env.sh",
-      "x": 1380,
-      "y": 3640,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "3cb0ebb4483d4b65",
-      "type": "text",
-      "text": "service.json",
-      "x": 1380,
-      "y": 3780,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "9222dad5e7c8479f",
-      "type": "text",
-      "text": "plugins/",
-      "x": 920,
-      "y": 3920,
-      "width": 340,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "34e4cf8696664a64",
-      "type": "text",
-      "text": "engram/",
-      "x": 1380,
-      "y": 4060,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "afa9c244250d4cfe",
-      "type": "text",
-      "text": "instructions/",
-      "x": 1380,
-      "y": 4200,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "67640cf3966a418e",
-      "type": "text",
-      "text": "messages/",
-      "x": 1380,
-      "y": 4340,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "11d6d77a2c334cab",
-      "type": "text",
-      "text": "shell-shield/",
-      "x": 1380,
-      "y": 4480,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "52897b34c7514410",
-      "type": "text",
-      "text": "soundfx/",
-      "x": 1380,
-      "y": 4620,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "7e8c06bc88d848c6",
-      "type": "text",
-      "text": "toolbox/",
-      "x": 1380,
-      "y": 4760,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "a52389f77646407c",
-      "type": "text",
-      "text": "voice.ts",
-      "x": 1380,
-      "y": 4900,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "f58f2fcb47344671",
-      "type": "text",
-      "text": "skills/",
-      "x": 920,
-      "y": 5040,
-      "width": 340,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "0dc10d5b785444ad",
-      "type": "text",
-      "text": "batch/",
-      "x": 1380,
-      "y": 5180,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "f448b37c4e2e4852",
-      "type": "text",
-      "text": "cli-printing/",
-      "x": 1380,
-      "y": 5320,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "bcdd7557220e4ac8",
-      "type": "text",
-      "text": "electron-cdp/",
-      "x": 1380,
-      "y": 5460,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "4edbee3cb1be4163",
-      "type": "text",
-      "text": "force-quit-session/",
-      "x": 1380,
-      "y": 5600,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "acfc014552264473",
-      "type": "text",
-      "text": "gitchamber/",
-      "x": 1380,
-      "y": 5740,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "33f0e2e20c654656",
-      "type": "text",
-      "text": "github-admin/",
-      "x": 1380,
-      "y": 5880,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "aa378accab8c4019",
-      "type": "text",
-      "text": "github-posting/",
-      "x": 1380,
-      "y": 6020,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "f0240ef710f7493f",
-      "type": "text",
-      "text": "html-gui-builder/",
-      "x": 1380,
-      "y": 6160,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "f42aa306fa464058",
-      "type": "text",
-      "text": "kdeconnect-notify/",
-      "x": 1380,
-      "y": 6300,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "ffe805c5493441ea",
-      "type": "text",
-      "text": "mem0-fallback/",
-      "x": 1380,
-      "y": 6440,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "2ff74fda62ed491f",
-      "type": "text",
-      "text": "minecraft-automation/",
-      "x": 1380,
-      "y": 6580,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "6001ac5c4f8d4869",
-      "type": "text",
-      "text": "opencode-cli/",
-      "x": 1380,
-      "y": 6720,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "3bc9d690602842e7",
-      "type": "text",
-      "text": "opencode-serve-info/",
-      "x": 1380,
-      "y": 6860,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "00004075e42b4bf4",
-      "type": "text",
-      "text": "opencode-v2-awareness/",
-      "x": 1380,
-      "y": 7000,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "08371bda72cf47c3",
-      "type": "text",
-      "text": "pctr/",
-      "x": 1380,
-      "y": 7140,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "4e71a9f7fcc74d62",
-      "type": "text",
-      "text": "playwright/",
-      "x": 1380,
-      "y": 7280,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "6ffb29b34a3a4e21",
-      "type": "text",
-      "text": "playwriter/",
-      "x": 1380,
-      "y": 7420,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "d9000f61b8c14a34",
-      "type": "text",
-      "text": "plugin-builder/",
-      "x": 1380,
-      "y": 7560,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "b3f688afbc5145b8",
-      "type": "text",
-      "text": "profano/",
-      "x": 1380,
-      "y": 7700,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "c78316ee311c419c",
-      "type": "text",
-      "text": "pypi-posting/",
-      "x": 1380,
-      "y": 7840,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "fd9dcd53200b4a87",
-      "type": "text",
-      "text": "restart-opencode/",
-      "x": 1380,
-      "y": 7980,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "4a2019fcf4274a85",
-      "type": "text",
-      "text": "shell-education/",
-      "x": 1380,
-      "y": 8120,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "c8a35693dd8c4bda",
-      "type": "text",
-      "text": "tui-builder/",
-      "x": 1380,
-      "y": 8260,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "ed12d97473ca42bf",
-      "type": "text",
-      "text": "tuistory/",
-      "x": 1380,
-      "y": 8400,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "4a17ab779d004c5c",
-      "type": "text",
-      "text": "zele/",
-      "x": 1380,
-      "y": 8540,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "93c46a52d32e4301",
-      "type": "text",
-      "text": "README.md",
-      "x": 920,
-      "y": 8680,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "ed5aacb9016e46ff",
-      "type": "text",
-      "text": "stoat-greeter/",
-      "x": 460,
-      "y": 8820,
-      "width": 340,
-      "height": 100,
-      "color": "2"
-    },
-    {
-      "id": "76aef6d5e65545b9",
-      "type": "text",
-      "text": "index.js",
-      "x": 920,
-      "y": 8960,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "899d515722c24722",
-      "type": "text",
-      "text": "package.json",
-      "x": 920,
-      "y": 9100,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "006a24175f7d4db4",
-      "type": "text",
-      "text": "README.md",
-      "x": 920,
-      "y": 9240,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "253841bdd3334fd4",
-      "type": "text",
-      "text": "Temp/",
-      "x": 460,
-      "y": 9380,
-      "width": 340,
-      "height": 100,
-      "color": "2"
-    },
-    {
-      "id": "f44dfaacbe754b3f",
-      "type": "text",
-      "text": "rev/",
-      "x": 920,
-      "y": 9520,
-      "width": 340,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "f76ee36588db4890",
-      "type": "text",
-      "text": "r/",
-      "x": 1380,
-      "y": 9660,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "f8d157a97a2a4e62",
-      "type": "text",
-      "text": "v/",
-      "x": 1380,
-      "y": 9800,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "2cbcaf2a54924de9",
-      "type": "text",
-      "text": "w/",
-      "x": 1380,
-      "y": 9940,
-      "width": 340,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "36baaf63335f45d6",
-      "type": "text",
-      "text": "mem.py",
-      "x": 1380,
-      "y": 10080,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "2efb98f93982406e",
-      "type": "text",
-      "text": "AGENTS.md",
-      "x": 460,
-      "y": 10220,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "5be4b9ae37504dec",
-      "type": "file",
-      "file": "Inbox.md",
-      "x": 0,
-      "y": -340,
-      "width": 380,
-      "height": 220
-    }
-  ],
-  "edges": [
-    {
-      "id": "15fee3b0cafe41b0",
-      "fromNode": "d3537ff170324001",
-      "fromSide": "right",
-      "toNode": "bdacfb8454344177",
-      "toSide": "left"
-    },
-    {
-      "id": "d3cb3d643a9d4182",
-      "fromNode": "bdacfb8454344177",
-      "fromSide": "right",
-      "toNode": "f8e9823c746e4801",
-      "toSide": "left"
-    },
-    {
-      "id": "8c82d883498e498b",
-      "fromNode": "bdacfb8454344177",
-      "fromSide": "right",
-      "toNode": "dcc33c701b7a47ce",
-      "toSide": "left"
-    },
-    {
-      "id": "43cd881d09f0483a",
-      "fromNode": "035da5d8592a4d77",
-      "fromSide": "right",
-      "toNode": "77ec9b3a48a64af6",
-      "toSide": "left"
-    },
-    {
-      "id": "ed82f7a24568463a",
-      "fromNode": "035da5d8592a4d77",
-      "fromSide": "right",
-      "toNode": "fbbd6acc4c854d2d",
-      "toSide": "left"
-    },
-    {
-      "id": "751d0847c04d4ef6",
-      "fromNode": "d3537ff170324001",
-      "fromSide": "right",
-      "toNode": "7e7ca4a045284365",
-      "toSide": "left"
-    },
-    {
-      "id": "d8852fe4759b4895",
-      "fromNode": "7e7ca4a045284365",
-      "fromSide": "right",
-      "toNode": "3a1ad3a0899d44cb",
-      "toSide": "left"
-    },
-    {
-      "id": "a7eb3fde05a4406f",
-      "fromNode": "d3537ff170324001",
-      "fromSide": "right",
-      "toNode": "201db79a1dac4e9d",
-      "toSide": "left"
-    },
-    {
-      "id": "33880afcfc524b23",
-      "fromNode": "201db79a1dac4e9d",
-      "fromSide": "right",
-      "toNode": "3b98cdc5c93c498d",
-      "toSide": "left"
-    },
-    {
-      "id": "3c072acd49514d8f",
-      "fromNode": "201db79a1dac4e9d",
-      "fromSide": "right",
-      "toNode": "bb0801e6485549a4",
-      "toSide": "left"
-    },
-    {
-      "id": "c1ef7c4879f7436c",
-      "fromNode": "d3537ff170324001",
-      "fromSide": "right",
-      "toNode": "65e45df51dc94086",
-      "toSide": "left"
-    },
-    {
-      "id": "40c8344b59f64520",
-      "fromNode": "65e45df51dc94086",
-      "fromSide": "right",
-      "toNode": "26d48163db564fe3",
-      "toSide": "left"
-    },
-    {
-      "id": "36ab6d041028454e",
-      "fromNode": "26d48163db564fe3",
-      "fromSide": "right",
-      "toNode": "fa64dfeae68448eb",
-      "toSide": "left"
-    },
-    {
-      "id": "a1785fb5df374c87",
-      "fromNode": "26d48163db564fe3",
-      "fromSide": "right",
-      "toNode": "c5bcd7ebbfb24b63",
-      "toSide": "left"
-    },
-    {
-      "id": "2fb1d8ee88114bf6",
-      "fromNode": "26d48163db564fe3",
-      "fromSide": "right",
-      "toNode": "5b6f343e1bcb413d",
-      "toSide": "left"
-    },
-    {
-      "id": "3353885f65a245e0",
-      "fromNode": "26d48163db564fe3",
-      "fromSide": "right",
-      "toNode": "767d1de6c0f54d33",
-      "toSide": "left"
-    },
-    {
-      "id": "7414807362b54e18",
-      "fromNode": "26d48163db564fe3",
-      "fromSide": "right",
-      "toNode": "0c0a1d2547f04a32",
-      "toSide": "left"
-    },
-    {
-      "id": "ac0a890c52bc4489",
-      "fromNode": "26d48163db564fe3",
-      "fromSide": "right",
-      "toNode": "56345eb7f51a43af",
-      "toSide": "left"
-    },
-    {
-      "id": "45a1054513c042ac",
-      "fromNode": "26d48163db564fe3",
-      "fromSide": "right",
-      "toNode": "0cbe8089bcc94a27",
-      "toSide": "left"
-    },
-    {
-      "id": "37eef13c57d049cd",
-      "fromNode": "26d48163db564fe3",
-      "fromSide": "right",
-      "toNode": "195ecd7481944457",
-      "toSide": "left"
-    },
-    {
-      "id": "6f1011a6a927427e",
-      "fromNode": "26d48163db564fe3",
-      "fromSide": "right",
-      "toNode": "d28c5c57ec1f4e65",
-      "toSide": "left"
-    },
-    {
-      "id": "bcd4d6bd9f4a488f",
-      "fromNode": "65e45df51dc94086",
-      "fromSide": "right",
-      "toNode": "920d10e8f69f4c9d",
-      "toSide": "left"
-    },
-    {
-      "id": "2b6ee94178ce4d7c",
-      "fromNode": "920d10e8f69f4c9d",
-      "fromSide": "right",
-      "toNode": "26c0bea583b04ace",
-      "toSide": "left"
-    },
-    {
-      "id": "bc0a927d00dd4411",
-      "fromNode": "920d10e8f69f4c9d",
-      "fromSide": "right",
-      "toNode": "709c3cdd88a4413d",
-      "toSide": "left"
-    },
-    {
-      "id": "deca747941d949ff",
-      "fromNode": "920d10e8f69f4c9d",
-      "fromSide": "right",
-      "toNode": "d0c7a536221f461f",
-      "toSide": "left"
-    },
-    {
-      "id": "8d84bf1b4ab4426d",
-      "fromNode": "920d10e8f69f4c9d",
-      "fromSide": "right",
-      "toNode": "3cb0ebb4483d4b65",
-      "toSide": "left"
-    },
-    {
-      "id": "b7490080eb45431c",
-      "fromNode": "65e45df51dc94086",
-      "fromSide": "right",
-      "toNode": "9222dad5e7c8479f",
-      "toSide": "left"
-    },
-    {
-      "id": "fc0dee4296ad463d",
-      "fromNode": "9222dad5e7c8479f",
-      "fromSide": "right",
-      "toNode": "34e4cf8696664a64",
-      "toSide": "left"
-    },
-    {
-      "id": "194775ba010f47d9",
-      "fromNode": "9222dad5e7c8479f",
-      "fromSide": "right",
-      "toNode": "afa9c244250d4cfe",
-      "toSide": "left"
-    },
-    {
-      "id": "3382aab4cf2c4244",
-      "fromNode": "9222dad5e7c8479f",
-      "fromSide": "right",
-      "toNode": "67640cf3966a418e",
-      "toSide": "left"
-    },
-    {
-      "id": "b21a8ca1a56542d5",
-      "fromNode": "9222dad5e7c8479f",
-      "fromSide": "right",
-      "toNode": "11d6d77a2c334cab",
-      "toSide": "left"
-    },
-    {
-      "id": "ef3007a979d244be",
-      "fromNode": "9222dad5e7c8479f",
-      "fromSide": "right",
-      "toNode": "52897b34c7514410",
-      "toSide": "left"
-    },
-    {
-      "id": "9d6e376a98034999",
-      "fromNode": "9222dad5e7c8479f",
-      "fromSide": "right",
-      "toNode": "7e8c06bc88d848c6",
-      "toSide": "left"
-    },
-    {
-      "id": "9f95f95425d741e5",
-      "fromNode": "9222dad5e7c8479f",
-      "fromSide": "right",
-      "toNode": "a52389f77646407c",
-      "toSide": "left"
-    },
-    {
-      "id": "f907b9c99b2240c1",
-      "fromNode": "65e45df51dc94086",
-      "fromSide": "right",
-      "toNode": "f58f2fcb47344671",
-      "toSide": "left"
-    },
-    {
-      "id": "b78e961e970b4b17",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "0dc10d5b785444ad",
-      "toSide": "left"
-    },
-    {
-      "id": "ff5c1e9099af48be",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "f448b37c4e2e4852",
-      "toSide": "left"
-    },
-    {
-      "id": "a30f05228d744eec",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "bcdd7557220e4ac8",
-      "toSide": "left"
-    },
-    {
-      "id": "3b2988ba2bea4b49",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "4edbee3cb1be4163",
-      "toSide": "left"
-    },
-    {
-      "id": "2f7e9a719fb748a2",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "acfc014552264473",
-      "toSide": "left"
-    },
-    {
-      "id": "bfde3e5ab89f4ba2",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "33f0e2e20c654656",
-      "toSide": "left"
-    },
-    {
-      "id": "661c192d831741f0",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "aa378accab8c4019",
-      "toSide": "left"
-    },
-    {
-      "id": "ca5d9c46c143415b",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "f0240ef710f7493f",
-      "toSide": "left"
-    },
-    {
-      "id": "63fd2be025c9425d",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "f42aa306fa464058",
-      "toSide": "left"
-    },
-    {
-      "id": "a882b9bb81624f60",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "ffe805c5493441ea",
-      "toSide": "left"
-    },
-    {
-      "id": "8f7597a68e224ed4",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "2ff74fda62ed491f",
-      "toSide": "left"
-    },
-    {
-      "id": "e8629637ba0f4e53",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "6001ac5c4f8d4869",
-      "toSide": "left"
-    },
-    {
-      "id": "129d13701b744317",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "3bc9d690602842e7",
-      "toSide": "left"
-    },
-    {
-      "id": "04e29273021044b4",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "00004075e42b4bf4",
-      "toSide": "left"
-    },
-    {
-      "id": "8e52aa91558c4c70",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "08371bda72cf47c3",
-      "toSide": "left"
-    },
-    {
-      "id": "c6851e8733d4445c",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "4e71a9f7fcc74d62",
-      "toSide": "left"
-    },
-    {
-      "id": "39c92a74e4154c6d",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "6ffb29b34a3a4e21",
-      "toSide": "left"
-    },
-    {
-      "id": "c6c1274e54d446e4",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "d9000f61b8c14a34",
-      "toSide": "left"
-    },
-    {
-      "id": "df20af221ca2442a",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "b3f688afbc5145b8",
-      "toSide": "left"
-    },
-    {
-      "id": "c84629bf3091418e",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "c78316ee311c419c",
-      "toSide": "left"
-    },
-    {
-      "id": "f2c70aa01bb04b08",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "fd9dcd53200b4a87",
-      "toSide": "left"
-    },
-    {
-      "id": "0e6d180ffc8d4575",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "4a2019fcf4274a85",
-      "toSide": "left"
-    },
-    {
-      "id": "c7454cde8aba4ccd",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "c8a35693dd8c4bda",
-      "toSide": "left"
-    },
-    {
-      "id": "80161bd5145b4e3c",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "ed12d97473ca42bf",
-      "toSide": "left"
-    },
-    {
-      "id": "bd69b6fc79834c74",
-      "fromNode": "f58f2fcb47344671",
-      "fromSide": "right",
-      "toNode": "4a17ab779d004c5c",
-      "toSide": "left"
-    },
-    {
-      "id": "fb46d79b224343ec",
-      "fromNode": "65e45df51dc94086",
-      "fromSide": "right",
-      "toNode": "93c46a52d32e4301",
-      "toSide": "left"
-    },
-    {
-      "id": "49a45300880a4b26",
-      "fromNode": "d3537ff170324001",
-      "fromSide": "right",
-      "toNode": "ed5aacb9016e46ff",
-      "toSide": "left"
-    },
-    {
-      "id": "546613132dc747a4",
-      "fromNode": "ed5aacb9016e46ff",
-      "fromSide": "right",
-      "toNode": "76aef6d5e65545b9",
-      "toSide": "left"
-    },
-    {
-      "id": "2dbba1d4460044a8",
-      "fromNode": "ed5aacb9016e46ff",
-      "fromSide": "right",
-      "toNode": "899d515722c24722",
-      "toSide": "left"
-    },
-    {
-      "id": "e52f646f20714a76",
-      "fromNode": "ed5aacb9016e46ff",
-      "fromSide": "right",
-      "toNode": "006a24175f7d4db4",
-      "toSide": "left"
-    },
-    {
-      "id": "8535b2c982db4efc",
-      "fromNode": "d3537ff170324001",
-      "fromSide": "right",
-      "toNode": "253841bdd3334fd4",
-      "toSide": "left"
-    },
-    {
-      "id": "2ebadc63a28b4cc9",
-      "fromNode": "253841bdd3334fd4",
-      "fromSide": "right",
-      "toNode": "f44dfaacbe754b3f",
-      "toSide": "left"
-    },
-    {
-      "id": "dea0aeb1f9634a6f",
-      "fromNode": "f44dfaacbe754b3f",
-      "fromSide": "right",
-      "toNode": "f76ee36588db4890",
-      "toSide": "left"
-    },
-    {
-      "id": "01a8f62f4e8e4c09",
-      "fromNode": "f44dfaacbe754b3f",
-      "fromSide": "right",
-      "toNode": "f8d157a97a2a4e62",
-      "toSide": "left"
-    },
-    {
-      "id": "63b86e89fb9d45e3",
-      "fromNode": "f44dfaacbe754b3f",
-      "fromSide": "right",
-      "toNode": "2cbcaf2a54924de9",
-      "toSide": "left"
-    },
-    {
-      "id": "82330bc3c3764c8f",
-      "fromNode": "f44dfaacbe754b3f",
-      "fromSide": "right",
-      "toNode": "36baaf63335f45d6",
-      "toSide": "left"
-    },
-    {
-      "id": "19ec5d2bba524369",
-      "fromNode": "d3537ff170324001",
-      "fromSide": "right",
-      "toNode": "2efb98f93982406e",
-      "toSide": "left"
-    },
-    {
-      "id": "10a32a3d7d827a87",
-      "fromNode": "d3537ff170324001",
-      "fromSide": "right",
-      "toNode": "035da5d8592a4d77",
-      "toSide": "left"
-    },
-    {
-      "id": "90139bf265114666",
-      "fromNode": "d3537ff170324001",
-      "fromSide": "top",
-      "toNode": "5be4b9ae37504dec",
-      "toSide": "bottom",
-      "label": "inbox"
-    }
-  ]
+	"nodes":[
+		{"id":"d3537ff170324001","type":"text","text":"OpenCode-Sandbox/","x":0,"y":0,"width":340,"height":100,"color":"1"},
+		{"id":"bdacfb8454344177","type":"text","text":"beam/","x":460,"y":140,"width":340,"height":100,"color":"2"},
+		{"id":"f8e9823c746e4801","type":"text","text":"index.html","x":920,"y":280,"width":340,"height":100},
+		{"id":"dcc33c701b7a47ce","type":"text","text":"README.md","x":920,"y":420,"width":340,"height":100},
+		{"id":"035da5d8592a4d77","type":"text","text":"blackout/","x":460,"y":560,"width":340,"height":100,"color":"2"},
+		{"id":"77ec9b3a48a64af6","type":"text","text":"index.html","x":920,"y":700,"width":340,"height":100},
+		{"id":"fbbd6acc4c854d2d","type":"text","text":"README.md","x":920,"y":840,"width":340,"height":100},
+		{"id":"7e7ca4a045284365","type":"text","text":"obsidian-canvas/","x":460,"y":980,"width":340,"height":100,"color":"2"},
+		{"id":"3a1ad3a0899d44cb","type":"text","text":"canvas.py","x":920,"y":1120,"width":340,"height":100},
+		{"id":"201db79a1dac4e9d","type":"text","text":"obsidian-memory/","x":460,"y":1260,"width":340,"height":100,"color":"2"},
+		{"id":"3b98cdc5c93c498d","type":"text","text":"mem.py","x":920,"y":1400,"width":340,"height":100},
+		{"id":"bb0801e6485549a4","type":"text","text":"README.md","x":920,"y":1540,"width":340,"height":100},
+		{"id":"65e45df51dc94086","type":"text","text":"opencode-config/","x":460,"y":1680,"width":340,"height":100,"color":"2"},
+		{"id":"26d48163db564fe3","type":"text","text":"agents/","x":920,"y":1820,"width":340,"height":100,"color":"3"},
+		{"id":"fa64dfeae68448eb","type":"text","text":"cybersec.md","x":1380,"y":1960,"width":340,"height":100},
+		{"id":"c5bcd7ebbfb24b63","type":"text","text":"debugger.md","x":1380,"y":2100,"width":340,"height":100},
+		{"id":"5b6f343e1bcb413d","type":"text","text":"devops.md","x":1380,"y":2240,"width":340,"height":100},
+		{"id":"767d1de6c0f54d33","type":"text","text":"migrator.md","x":1380,"y":2380,"width":340,"height":100},
+		{"id":"0c0a1d2547f04a32","type":"text","text":"perf-analyzer.md","x":1380,"y":2520,"width":340,"height":100},
+		{"id":"56345eb7f51a43af","type":"text","text":"planner.md","x":1380,"y":2660,"width":340,"height":100},
+		{"id":"0cbe8089bcc94a27","type":"text","text":"reviewer.md","x":1380,"y":2800,"width":340,"height":100},
+		{"id":"195ecd7481944457","type":"text","text":"tester.md","x":1380,"y":2940,"width":340,"height":100},
+		{"id":"d28c5c57ec1f4e65","type":"text","text":"verifier.md","x":1380,"y":3080,"width":340,"height":100},
+		{"id":"920d10e8f69f4c9d","type":"text","text":"config/","x":920,"y":3220,"width":340,"height":100,"color":"3"},
+		{"id":"26c0bea583b04ace","type":"text","text":"cli.json","x":1380,"y":3360,"width":340,"height":100},
+		{"id":"709c3cdd88a4413d","type":"text","text":"config-opencode.jsonc","x":1380,"y":3500,"width":340,"height":100},
+		{"id":"d0c7a536221f461f","type":"text","text":"env.sh","x":1380,"y":3640,"width":340,"height":100},
+		{"id":"3cb0ebb4483d4b65","type":"text","text":"service.json","x":1380,"y":3780,"width":340,"height":100},
+		{"id":"9222dad5e7c8479f","type":"text","text":"plugins/","x":920,"y":3920,"width":340,"height":100,"color":"3"},
+		{"id":"34e4cf8696664a64","type":"text","text":"engram/","x":1380,"y":4060,"width":340,"height":100,"color":"4"},
+		{"id":"afa9c244250d4cfe","type":"text","text":"instructions/","x":1380,"y":4200,"width":340,"height":100,"color":"4"},
+		{"id":"67640cf3966a418e","type":"text","text":"messages/","x":1380,"y":4340,"width":340,"height":100,"color":"4"},
+		{"id":"11d6d77a2c334cab","type":"text","text":"shell-shield/","x":1380,"y":4480,"width":340,"height":100,"color":"4"},
+		{"id":"52897b34c7514410","type":"text","text":"soundfx/","x":1380,"y":4620,"width":340,"height":100,"color":"4"},
+		{"id":"7e8c06bc88d848c6","type":"text","text":"toolbox/","x":1380,"y":4760,"width":340,"height":100,"color":"4"},
+		{"id":"a52389f77646407c","type":"text","text":"voice.ts","x":1380,"y":4900,"width":340,"height":100},
+		{"id":"f58f2fcb47344671","type":"text","text":"skills/","x":920,"y":5040,"width":340,"height":100,"color":"3"},
+		{"id":"0dc10d5b785444ad","type":"text","text":"batch/","x":1380,"y":5180,"width":340,"height":100,"color":"4"},
+		{"id":"f448b37c4e2e4852","type":"text","text":"cli-printing/","x":1380,"y":5320,"width":340,"height":100,"color":"4"},
+		{"id":"bcdd7557220e4ac8","type":"text","text":"electron-cdp/","x":1380,"y":5460,"width":340,"height":100,"color":"4"},
+		{"id":"4edbee3cb1be4163","type":"text","text":"force-quit-session/","x":1380,"y":5600,"width":340,"height":100,"color":"4"},
+		{"id":"acfc014552264473","type":"text","text":"gitchamber/","x":1380,"y":5740,"width":340,"height":100,"color":"4"},
+		{"id":"33f0e2e20c654656","type":"text","text":"github-admin/","x":1380,"y":5880,"width":340,"height":100,"color":"4"},
+		{"id":"aa378accab8c4019","type":"text","text":"github-posting/","x":1380,"y":6020,"width":340,"height":100,"color":"4"},
+		{"id":"f0240ef710f7493f","type":"text","text":"html-gui-builder/","x":1380,"y":6160,"width":340,"height":100,"color":"4"},
+		{"id":"f42aa306fa464058","type":"text","text":"kdeconnect-notify/","x":1380,"y":6300,"width":340,"height":100,"color":"4"},
+		{"id":"ffe805c5493441ea","type":"text","text":"mem0-fallback/","x":1380,"y":6440,"width":340,"height":100,"color":"4"},
+		{"id":"2ff74fda62ed491f","type":"text","text":"minecraft-automation/","x":1380,"y":6580,"width":340,"height":100,"color":"4"},
+		{"id":"6001ac5c4f8d4869","type":"text","text":"opencode-cli/","x":1380,"y":6720,"width":340,"height":100,"color":"4"},
+		{"id":"3bc9d690602842e7","type":"text","text":"opencode-serve-info/","x":1380,"y":6860,"width":340,"height":100,"color":"4"},
+		{"id":"00004075e42b4bf4","type":"text","text":"opencode-v2-awareness/","x":1380,"y":7000,"width":340,"height":100,"color":"4"},
+		{"id":"08371bda72cf47c3","type":"text","text":"pctr/","x":1380,"y":7140,"width":340,"height":100,"color":"4"},
+		{"id":"4e71a9f7fcc74d62","type":"text","text":"playwright/","x":1380,"y":7280,"width":340,"height":100,"color":"4"},
+		{"id":"6ffb29b34a3a4e21","type":"text","text":"playwriter/","x":1380,"y":7420,"width":340,"height":100,"color":"4"},
+		{"id":"d9000f61b8c14a34","type":"text","text":"plugin-builder/","x":1380,"y":7560,"width":340,"height":100,"color":"4"},
+		{"id":"b3f688afbc5145b8","type":"text","text":"profano/","x":1380,"y":7700,"width":340,"height":100,"color":"4"},
+		{"id":"c78316ee311c419c","type":"text","text":"pypi-posting/","x":1380,"y":7840,"width":340,"height":100,"color":"4"},
+		{"id":"fd9dcd53200b4a87","type":"text","text":"restart-opencode/","x":1380,"y":7980,"width":340,"height":100,"color":"4"},
+		{"id":"4a2019fcf4274a85","type":"text","text":"shell-education/","x":1380,"y":8120,"width":340,"height":100,"color":"4"},
+		{"id":"c8a35693dd8c4bda","type":"text","text":"tui-builder/","x":1380,"y":8260,"width":340,"height":100,"color":"4"},
+		{"id":"ed12d97473ca42bf","type":"text","text":"tuistory/","x":1380,"y":8400,"width":340,"height":100,"color":"4"},
+		{"id":"4a17ab779d004c5c","type":"text","text":"zele/","x":1380,"y":8540,"width":340,"height":100,"color":"4"},
+		{"id":"93c46a52d32e4301","type":"text","text":"README.md","x":920,"y":8680,"width":340,"height":100},
+		{"id":"ed5aacb9016e46ff","type":"text","text":"stoat-greeter/","x":460,"y":8820,"width":340,"height":100,"color":"2"},
+		{"id":"76aef6d5e65545b9","type":"text","text":"index.js","x":920,"y":8960,"width":340,"height":100},
+		{"id":"899d515722c24722","type":"text","text":"package.json","x":920,"y":9100,"width":340,"height":100},
+		{"id":"006a24175f7d4db4","type":"text","text":"README.md","x":920,"y":9240,"width":340,"height":100},
+		{"id":"253841bdd3334fd4","type":"text","text":"Temp/","x":460,"y":9380,"width":340,"height":100,"color":"2"},
+		{"id":"f44dfaacbe754b3f","type":"text","text":"rev/","x":920,"y":9520,"width":340,"height":100,"color":"3"},
+		{"id":"f76ee36588db4890","type":"text","text":"r/","x":1380,"y":9660,"width":340,"height":100,"color":"4"},
+		{"id":"f8d157a97a2a4e62","type":"text","text":"v/","x":1380,"y":9800,"width":340,"height":100,"color":"4"},
+		{"id":"2cbcaf2a54924de9","type":"text","text":"w/","x":1380,"y":9940,"width":340,"height":100,"color":"4"},
+		{"id":"36baaf63335f45d6","type":"text","text":"mem.py","x":1380,"y":10080,"width":340,"height":100},
+		{"id":"2efb98f93982406e","type":"text","text":"AGENTS.md","x":460,"y":10220,"width":340,"height":100},
+		{"id":"5be4b9ae37504dec","type":"file","file":"Inbox.md","x":0,"y":-340,"width":380,"height":220}
+	],
+	"edges":[
+		{"id":"15fee3b0cafe41b0","fromNode":"d3537ff170324001","fromSide":"right","toNode":"bdacfb8454344177","toSide":"left"},
+		{"id":"d3cb3d643a9d4182","fromNode":"bdacfb8454344177","fromSide":"right","toNode":"f8e9823c746e4801","toSide":"left"},
+		{"id":"8c82d883498e498b","fromNode":"bdacfb8454344177","fromSide":"right","toNode":"dcc33c701b7a47ce","toSide":"left"},
+		{"id":"43cd881d09f0483a","fromNode":"035da5d8592a4d77","fromSide":"right","toNode":"77ec9b3a48a64af6","toSide":"left"},
+		{"id":"ed82f7a24568463a","fromNode":"035da5d8592a4d77","fromSide":"right","toNode":"fbbd6acc4c854d2d","toSide":"left"},
+		{"id":"751d0847c04d4ef6","fromNode":"d3537ff170324001","fromSide":"right","toNode":"7e7ca4a045284365","toSide":"left"},
+		{"id":"d8852fe4759b4895","fromNode":"7e7ca4a045284365","fromSide":"right","toNode":"3a1ad3a0899d44cb","toSide":"left"},
+		{"id":"a7eb3fde05a4406f","fromNode":"d3537ff170324001","fromSide":"right","toNode":"201db79a1dac4e9d","toSide":"left"},
+		{"id":"33880afcfc524b23","fromNode":"201db79a1dac4e9d","fromSide":"right","toNode":"3b98cdc5c93c498d","toSide":"left"},
+		{"id":"3c072acd49514d8f","fromNode":"201db79a1dac4e9d","fromSide":"right","toNode":"bb0801e6485549a4","toSide":"left"},
+		{"id":"c1ef7c4879f7436c","fromNode":"d3537ff170324001","fromSide":"right","toNode":"65e45df51dc94086","toSide":"left"},
+		{"id":"40c8344b59f64520","fromNode":"65e45df51dc94086","fromSide":"right","toNode":"26d48163db564fe3","toSide":"left"},
+		{"id":"36ab6d041028454e","fromNode":"26d48163db564fe3","fromSide":"right","toNode":"fa64dfeae68448eb","toSide":"left"},
+		{"id":"a1785fb5df374c87","fromNode":"26d48163db564fe3","fromSide":"right","toNode":"c5bcd7ebbfb24b63","toSide":"left"},
+		{"id":"2fb1d8ee88114bf6","fromNode":"26d48163db564fe3","fromSide":"right","toNode":"5b6f343e1bcb413d","toSide":"left"},
+		{"id":"3353885f65a245e0","fromNode":"26d48163db564fe3","fromSide":"right","toNode":"767d1de6c0f54d33","toSide":"left"},
+		{"id":"7414807362b54e18","fromNode":"26d48163db564fe3","fromSide":"right","toNode":"0c0a1d2547f04a32","toSide":"left"},
+		{"id":"ac0a890c52bc4489","fromNode":"26d48163db564fe3","fromSide":"right","toNode":"56345eb7f51a43af","toSide":"left"},
+		{"id":"45a1054513c042ac","fromNode":"26d48163db564fe3","fromSide":"right","toNode":"0cbe8089bcc94a27","toSide":"left"},
+		{"id":"37eef13c57d049cd","fromNode":"26d48163db564fe3","fromSide":"right","toNode":"195ecd7481944457","toSide":"left"},
+		{"id":"6f1011a6a927427e","fromNode":"26d48163db564fe3","fromSide":"right","toNode":"d28c5c57ec1f4e65","toSide":"left"},
+		{"id":"bcd4d6bd9f4a488f","fromNode":"65e45df51dc94086","fromSide":"right","toNode":"920d10e8f69f4c9d","toSide":"left"},
+		{"id":"2b6ee94178ce4d7c","fromNode":"920d10e8f69f4c9d","fromSide":"right","toNode":"26c0bea583b04ace","toSide":"left"},
+		{"id":"bc0a927d00dd4411","fromNode":"920d10e8f69f4c9d","fromSide":"right","toNode":"709c3cdd88a4413d","toSide":"left"},
+		{"id":"deca747941d949ff","fromNode":"920d10e8f69f4c9d","fromSide":"right","toNode":"d0c7a536221f461f","toSide":"left"},
+		{"id":"8d84bf1b4ab4426d","fromNode":"920d10e8f69f4c9d","fromSide":"right","toNode":"3cb0ebb4483d4b65","toSide":"left"},
+		{"id":"b7490080eb45431c","fromNode":"65e45df51dc94086","fromSide":"right","toNode":"9222dad5e7c8479f","toSide":"left"},
+		{"id":"fc0dee4296ad463d","fromNode":"9222dad5e7c8479f","fromSide":"right","toNode":"34e4cf8696664a64","toSide":"left"},
+		{"id":"194775ba010f47d9","fromNode":"9222dad5e7c8479f","fromSide":"right","toNode":"afa9c244250d4cfe","toSide":"left"},
+		{"id":"3382aab4cf2c4244","fromNode":"9222dad5e7c8479f","fromSide":"right","toNode":"67640cf3966a418e","toSide":"left"},
+		{"id":"b21a8ca1a56542d5","fromNode":"9222dad5e7c8479f","fromSide":"right","toNode":"11d6d77a2c334cab","toSide":"left"},
+		{"id":"ef3007a979d244be","fromNode":"9222dad5e7c8479f","fromSide":"right","toNode":"52897b34c7514410","toSide":"left"},
+		{"id":"9d6e376a98034999","fromNode":"9222dad5e7c8479f","fromSide":"right","toNode":"7e8c06bc88d848c6","toSide":"left"},
+		{"id":"9f95f95425d741e5","fromNode":"9222dad5e7c8479f","fromSide":"right","toNode":"a52389f77646407c","toSide":"left"},
+		{"id":"f907b9c99b2240c1","fromNode":"65e45df51dc94086","fromSide":"right","toNode":"f58f2fcb47344671","toSide":"left"},
+		{"id":"b78e961e970b4b17","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"0dc10d5b785444ad","toSide":"left"},
+		{"id":"ff5c1e9099af48be","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"f448b37c4e2e4852","toSide":"left"},
+		{"id":"a30f05228d744eec","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"bcdd7557220e4ac8","toSide":"left"},
+		{"id":"3b2988ba2bea4b49","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"4edbee3cb1be4163","toSide":"left"},
+		{"id":"2f7e9a719fb748a2","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"acfc014552264473","toSide":"left"},
+		{"id":"bfde3e5ab89f4ba2","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"33f0e2e20c654656","toSide":"left"},
+		{"id":"661c192d831741f0","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"aa378accab8c4019","toSide":"left"},
+		{"id":"ca5d9c46c143415b","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"f0240ef710f7493f","toSide":"left"},
+		{"id":"63fd2be025c9425d","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"f42aa306fa464058","toSide":"left"},
+		{"id":"a882b9bb81624f60","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"ffe805c5493441ea","toSide":"left"},
+		{"id":"8f7597a68e224ed4","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"2ff74fda62ed491f","toSide":"left"},
+		{"id":"e8629637ba0f4e53","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"6001ac5c4f8d4869","toSide":"left"},
+		{"id":"129d13701b744317","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"3bc9d690602842e7","toSide":"left"},
+		{"id":"04e29273021044b4","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"00004075e42b4bf4","toSide":"left"},
+		{"id":"8e52aa91558c4c70","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"08371bda72cf47c3","toSide":"left"},
+		{"id":"c6851e8733d4445c","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"4e71a9f7fcc74d62","toSide":"left"},
+		{"id":"39c92a74e4154c6d","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"6ffb29b34a3a4e21","toSide":"left"},
+		{"id":"c6c1274e54d446e4","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"d9000f61b8c14a34","toSide":"left"},
+		{"id":"df20af221ca2442a","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"b3f688afbc5145b8","toSide":"left"},
+		{"id":"c84629bf3091418e","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"c78316ee311c419c","toSide":"left"},
+		{"id":"f2c70aa01bb04b08","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"fd9dcd53200b4a87","toSide":"left"},
+		{"id":"0e6d180ffc8d4575","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"4a2019fcf4274a85","toSide":"left"},
+		{"id":"c7454cde8aba4ccd","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"c8a35693dd8c4bda","toSide":"left"},
+		{"id":"80161bd5145b4e3c","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"ed12d97473ca42bf","toSide":"left"},
+		{"id":"bd69b6fc79834c74","fromNode":"f58f2fcb47344671","fromSide":"right","toNode":"4a17ab779d004c5c","toSide":"left"},
+		{"id":"fb46d79b224343ec","fromNode":"65e45df51dc94086","fromSide":"right","toNode":"93c46a52d32e4301","toSide":"left"},
+		{"id":"49a45300880a4b26","fromNode":"d3537ff170324001","fromSide":"right","toNode":"ed5aacb9016e46ff","toSide":"left"},
+		{"id":"546613132dc747a4","fromNode":"ed5aacb9016e46ff","fromSide":"right","toNode":"76aef6d5e65545b9","toSide":"left"},
+		{"id":"2dbba1d4460044a8","fromNode":"ed5aacb9016e46ff","fromSide":"right","toNode":"899d515722c24722","toSide":"left"},
+		{"id":"e52f646f20714a76","fromNode":"ed5aacb9016e46ff","fromSide":"right","toNode":"006a24175f7d4db4","toSide":"left"},
+		{"id":"8535b2c982db4efc","fromNode":"d3537ff170324001","fromSide":"right","toNode":"253841bdd3334fd4","toSide":"left"},
+		{"id":"2ebadc63a28b4cc9","fromNode":"253841bdd3334fd4","fromSide":"right","toNode":"f44dfaacbe754b3f","toSide":"left"},
+		{"id":"dea0aeb1f9634a6f","fromNode":"f44dfaacbe754b3f","fromSide":"right","toNode":"f76ee36588db4890","toSide":"left"},
+		{"id":"01a8f62f4e8e4c09","fromNode":"f44dfaacbe754b3f","fromSide":"right","toNode":"f8d157a97a2a4e62","toSide":"left"},
+		{"id":"63b86e89fb9d45e3","fromNode":"f44dfaacbe754b3f","fromSide":"right","toNode":"2cbcaf2a54924de9","toSide":"left"},
+		{"id":"82330bc3c3764c8f","fromNode":"f44dfaacbe754b3f","fromSide":"right","toNode":"36baaf63335f45d6","toSide":"left"},
+		{"id":"19ec5d2bba524369","fromNode":"d3537ff170324001","fromSide":"right","toNode":"2efb98f93982406e","toSide":"left"},
+		{"id":"10a32a3d7d827a87","fromNode":"d3537ff170324001","fromSide":"right","toNode":"035da5d8592a4d77","toSide":"left"},
+		{"id":"90139bf265114666","fromNode":"d3537ff170324001","fromSide":"top","toNode":"5be4b9ae37504dec","toSide":"bottom","label":"inbox"}
+	]
 }
