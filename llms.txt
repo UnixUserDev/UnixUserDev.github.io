@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 66 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 67 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -45,6 +45,7 @@
 - [Installing CachyOS on a Desktop or Laptop](https://unixuserdev.github.io/cachyos/installing-cachyos-on-a-desktop-or-laptop): note/cachyos
 - [KDE Plasma on CachyOS](https://unixuserdev.github.io/cachyos/kde-plasma-on-cachyos): note/cachyos
 - [Kimaki](https://unixuserdev.github.io/kimaki/index): note/kimaki
+- [Kimaki Internals](https://unixuserdev.github.io/kimaki/kimaki-internals): note/kimaki
 - [Larping another distro in fastfetch](https://unixuserdev.github.io/memory/larping-another-distro-in-fastfetch): memory/linux
 - [Managing Hardware with chwd](https://unixuserdev.github.io/cachyos/managing-hardware-with-chwd): note/cachyos
 - [memory](https://unixuserdev.github.io/memory/index): -

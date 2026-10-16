@@ -545,13 +545,25 @@
       "inbox"
     ]
   },
+  "kimaki/kimaki-internals": {
+    "slug": "kimaki/kimaki-internals",
+    "filePath": "Kimaki/Kimaki Internals.md",
+    "title": "Kimaki Internals",
+    "links": [
+      "kimaki",
+      "inbox"
+    ],
+    "tags": [
+      "note/kimaki"
+    ]
+  },
   "kimaki/index": {
     "slug": "kimaki/index",
     "filePath": "Kimaki/Kimaki.md",
     "title": "Kimaki",
     "links": [
       "other-remorses-projects",
-      "kimaki-internals",
+      "kimaki/kimaki-internals",
       "inbox"
     ],
     "tags": [

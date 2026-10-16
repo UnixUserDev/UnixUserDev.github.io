@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 66 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 67 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -404,7 +404,18 @@
       ],
       "links": [
         "other-remorses-projects",
-        "kimaki-internals",
+        "kimaki/kimaki-internals",
+        "inbox"
+      ]
+    },
+    {
+      "title": "Kimaki Internals",
+      "url": "https://unixuserdev.github.io/kimaki/kimaki-internals",
+      "tags": [
+        "note/kimaki"
+      ],
+      "links": [
+        "kimaki",
         "inbox"
       ]
     },
