@@ -4,6 +4,7 @@
 
 ## Machine-readable
 
+- [Index (HTML, followable links)](https://unixuserdev.github.io/obsidian-vault/vault-index.html)
 - [Full index (JSON, with note bodies)](https://unixuserdev.github.io/obsidian-vault/static/contentIndex.json)
 - [Light index (JSON, no bodies)](https://unixuserdev.github.io/obsidian-vault/static/contentIndex.light.json)
 - [Index (plain text)](https://unixuserdev.github.io/obsidian-vault/vault-index.txt)
