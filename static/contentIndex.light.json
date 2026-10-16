@@ -649,17 +649,6 @@
       "memory/linux"
     ]
   },
-  "memory/fastfetch-tiny-core-logo-issue-and-pr": {
-    "slug": "memory/fastfetch-tiny-core-logo-issue-and-pr",
-    "filePath": "memory/fastfetch Tiny Core logo issue and PR.md",
-    "title": "fastfetch Tiny Core logo issue and PR",
-    "links": [
-      "inbox"
-    ],
-    "tags": [
-      "memory/linux"
-    ]
-  },
   "agent-memory-map.canvas": {
     "slug": "agent-memory-map.canvas",
     "filePath": "agent-memory-map.canvas.md",
