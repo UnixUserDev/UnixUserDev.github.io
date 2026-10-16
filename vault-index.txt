@@ -539,10 +539,7 @@
     "filePath": "Graph Guide.md",
     "title": "Graph Guide",
     "links": [
-      "welcome",
-      "untitled",
-      "untitled-1",
-      "inbox"
+      "welcome"
     ],
     "tags": [
       "note/guide"
@@ -558,13 +555,6 @@
     "tags": [
       "inbox"
     ]
-  },
-  "untitled-1": {
-    "slug": "untitled-1",
-    "filePath": "Untitled 1.md",
-    "title": "Untitled 1",
-    "links": [],
-    "tags": []
   },
   "web-fetch-by-client": {
     "slug": "web-fetch-by-client",

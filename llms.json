@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 60 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 59 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -312,10 +312,7 @@
         "note/guide"
       ],
       "links": [
-        "welcome",
-        "untitled",
-        "untitled-1",
-        "inbox"
+        "welcome"
       ]
     },
     {
@@ -628,12 +625,6 @@
     {
       "title": "Tag Index",
       "url": "https://unixuserdev.github.io/tags/index",
-      "tags": [],
-      "links": []
-    },
-    {
-      "title": "Untitled 1",
-      "url": "https://unixuserdev.github.io/untitled-1",
       "tags": [],
       "links": []
     },
