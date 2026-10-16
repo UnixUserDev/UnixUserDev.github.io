@@ -26,6 +26,9 @@
 </li>
 </ul>
 <h1 id="2-firewall-ufw">2. Firewall (ufw)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-firewall-ufw" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<blockquote>
+<p><strong>Caution:</strong> improperly configured firewall rules can lock you out of your own system. Be careful here.</p>
+</blockquote>
 <p>Enabled by default after installation.</p>
 <figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="bash" data-theme="github-light github-dark"><code data-language="bash" data-theme="github-light github-dark" style="display:grid;"><span data-line><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;" data-token-type="function">sudo</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;" data-token-type="string"> ufw</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;" data-token-type="string"> enable</span></span>
 <span data-line><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;" data-token-type="function">sudo</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;" data-token-type="string"> ufw</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;" data-token-type="string"> disable</span></span>
@@ -54,7 +57,7 @@
 <p><strong>Samba shares</strong> — assumes a working Samba server. Back up <code>/etc/samba/smb.conf</code>, install <code>sudo pacman -S cachyos-samba-settings</code> on the client, copy its <code>smb.conf</code> to the server, edit shares, then <code>sudo systemctl restart --now samba</code>. Access via <code>smb://&lt;your_server_ip>/&lt;share_name></code>.</p>
 </li>
 <li>
-<p><strong>AppArmor (apparmor.d profiles)</strong> — add the kernel parameter <code>lsm=landlock,lockdown,yama,integrity,apparmor,bpf</code> in the boot manager; <code>sudo pacman -S apparmor apparmor.d</code>; <code>systemctl enable --now apparmor.service</code>; add <code>write-cache</code>, <code>Optimize=compress-fast</code>, <code>cache-loc /etc/apparmor/earlypolicy/</code> to <code>/etc/apparmor/parser.conf</code>; save and reboot.</p>
+<p><strong>AppArmor (apparmor.d profiles)</strong> — the wiki is explicit: <strong>do not proceed without understanding the implications.</strong> Add the kernel parameter <code>lsm=landlock,lockdown,yama,integrity,apparmor,bpf</code> in the boot manager; <code>sudo pacman -S apparmor apparmor.d</code>; <code>systemctl enable --now apparmor.service</code>; add <code>write-cache</code>, <code>Optimize=compress-fast</code>, <code>cache-loc /etc/apparmor/earlypolicy/</code> to <code>/etc/apparmor/parser.conf</code>; save and reboot.</p>
 </li>
 <li>
 <p><strong>TRIM on encrypted (LUKS) devices</strong> — CachyOS enables <code>fstrim.timer</code> by default, but <strong>dm-crypt/LUKS blocks discard unless passthrough is explicitly enabled</strong>, so periodic TRIM silently does nothing on encrypted partitions. Security caveat: someone with physical access could infer approximate used space, filesystem layout, or data patterns. Find the mapper with <code>lsblk</code> (look for the <code>crypt</code> type entry, e.g. <code>luks-1e647929-...</code>), then:</p>
