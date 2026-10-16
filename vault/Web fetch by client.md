@@ -9,11 +9,11 @@ created: 2026-10-16
 
 Which URL-fetch / web-fetch tools each model will actually accept. Learned the hard way.
 
-| Client | `.html` | `.txt` | `.json` | Notes |
-| --- | --- | --- | --- | --- |
-| **Gemini** | ✅ | ❌ | ❌ | Non-HTML fails with `URL_FETCH_STATUS_MISC_ERROR`. A plain `.txt` and a `.json` both failed; the root HTML URL went through immediately. Its fetcher only accepts `text/html`. |
-| **ChatGPT** | ✅ | ✅ | ✅ | **Corrected 2026-10-16 — the original claim was WRONG.** ChatGPT read `/static/contentIndex.json` (note bodies and all), the light JSON, *and* the plain-text index. Not restricted to HTML. |
-| **DeepSeek** | ✅ | ✅ | ✅ | Accepts **all three**. No format restriction observed. |
+| Client       | `.html` | `.txt` | `.json` | Notes                                                                                                                                                                                                            |
+| ------------ | ------- | ------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gemini**   | ✅       | ❌      | ❌       | Non-HTML fails with `URL_FETCH_STATUS_MISC_ERROR`. A plain `.txt` and a `.json` both failed; the root HTML URL went through immediately. Its fetcher only accepts `text/html`.                                   |
+| **ChatGPT**  | ✅       | ✅      | ✅       | **Corrected 2026-10-16 — the original claim was WRONG.** ChatGPT read `/static/contentIndex.json` (note bodies and all), the light JSON, *and* the plain-text index. Not restricted to HTML. However, its flaky. |
+| **DeepSeek** | ✅       | ✅      | ✅       | Accepts **all three**. No format restriction observed.                                                                                                                                                           |
 
 ## Correction (2026-10-16)
 
