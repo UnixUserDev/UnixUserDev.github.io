@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 62 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 64 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -443,6 +443,12 @@
       "links": []
     },
     {
+      "title": "memory/projects",
+      "url": "https://unixuserdev.github.io/tags/memory/projects",
+      "tags": [],
+      "links": []
+    },
+    {
       "title": "memory/psychology",
       "url": "https://unixuserdev.github.io/tags/memory/psychology",
       "tags": [],
@@ -499,6 +505,16 @@
       "url": "https://unixuserdev.github.io/opencode-sandbox-map.canvas",
       "tags": [],
       "links": []
+    },
+    {
+      "title": "OpenTUI runs on Node 26 without Bun for the roguelike",
+      "url": "https://unixuserdev.github.io/memory/opentui-runs-on-node-26-without-bun-for-the-roguelike",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
+      ]
     },
     {
       "title": "Optimized Repositories and x86-64 Levels",

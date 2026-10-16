@@ -616,6 +616,17 @@
       "memory/linux"
     ]
   },
+  "memory/opentui-runs-on-node-26-without-bun-for-the-roguelike": {
+    "slug": "memory/opentui-runs-on-node-26-without-bun-for-the-roguelike",
+    "filePath": "memory/OpenTUI runs on Node 26 without Bun for the roguelike.md",
+    "title": "OpenTUI runs on Node 26 without Bun for the roguelike",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "memory/published-obsidian-vault-lives-at-the-root-domain": {
     "slug": "memory/published-obsidian-vault-lives-at-the-root-domain",
     "filePath": "memory/Published Obsidian vault lives at the root domain.md",
@@ -737,6 +748,13 @@
     "slug": "tags/memory/psychology",
     "filePath": "tags/memory/psychology.md",
     "title": "memory/psychology",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/projects": {
+    "slug": "tags/memory/projects",
+    "filePath": "tags/memory/projects.md",
+    "title": "memory/projects",
     "links": [],
     "tags": []
   },

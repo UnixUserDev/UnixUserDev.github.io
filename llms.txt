@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 62 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 64 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -50,6 +50,7 @@
 - [memory](https://unixuserdev.github.io/tags/memory): -
 - [memory/linux](https://unixuserdev.github.io/tags/memory/linux): -
 - [memory/project](https://unixuserdev.github.io/tags/memory/project): -
+- [memory/projects](https://unixuserdev.github.io/tags/memory/projects): -
 - [memory/psychology](https://unixuserdev.github.io/tags/memory/psychology): -
 - [Navigating the CachyOS Wiki](https://unixuserdev.github.io/cachyos/navigating-the-cachyos-wiki): note/cachyos
 - [Niri Keybinds and FAQ](https://unixuserdev.github.io/cachyos/niri-keybinds-and-faq): note/cachyos
@@ -58,6 +59,7 @@
 - [note/cachyos](https://unixuserdev.github.io/tags/note/cachyos): -
 - [note/guide](https://unixuserdev.github.io/tags/note/guide): -
 - [OpenCode-Sandbox Map](https://unixuserdev.github.io/opencode-sandbox-map.canvas): -
+- [OpenTUI runs on Node 26 without Bun for the roguelike](https://unixuserdev.github.io/memory/opentui-runs-on-node-26-without-bun-for-the-roguelike): memory/projects
 - [Optimized Repositories and x86-64 Levels](https://unixuserdev.github.io/cachyos/optimized-repositories-and-x86-64-levels): note/cachyos
 - [Post Install Setup](https://unixuserdev.github.io/cachyos/post-install-setup): note/cachyos
 - [Preparing a CachyOS USB Installer](https://unixuserdev.github.io/cachyos/preparing-a-cachyos-usb-installer): note/cachyos
