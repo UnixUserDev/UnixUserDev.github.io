@@ -1,0 +1,626 @@
+{
+  "title": "Obsidian Vault",
+  "summary": "A published Obsidian vault: 54 markdown notes. Pages cross-link.",
+  "machine_readable": {
+    "index_html": "https://unixuserdev.github.io/obsidian-vault/vault-index.html",
+    "index_json_full": "https://unixuserdev.github.io/obsidian-vault/static/contentIndex.json",
+    "index_json_light": "https://unixuserdev.github.io/obsidian-vault/static/contentIndex.light.json",
+    "index_txt": "https://unixuserdev.github.io/obsidian-vault/vault-index.txt"
+  },
+  "pages": [
+    {
+      "title": "Agent Memory Map",
+      "url": "https://unixuserdev.github.io/obsidian-vault/agent-memory-map.canvas",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "Attachment Demo",
+      "url": "https://unixuserdev.github.io/obsidian-vault/attachment-demo",
+      "tags": [
+        "note/attachment"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "Automounting Drives at Boot",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/automounting-drives-at-boot",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes"
+      ]
+    },
+    {
+      "title": "Boot Manager Configuration",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/boot-manager-configuration",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/cachyos-boot-managers",
+        "cachyos/btrfs-snapshots",
+        "cachyos/secure-boot-setup",
+        "cachyos/cachyos-faq-and-troubleshooting"
+      ]
+    },
+    {
+      "title": "Browser Hardware Acceleration",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/browser-hardware-acceleration",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/dual-gpu-setup",
+        "cachyos/cachyos-filesystems"
+      ]
+    },
+    {
+      "title": "Btrfs Snapshots",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/btrfs-snapshots",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/boot-manager-configuration",
+        "cachyos/cachyos-filesystems",
+        "cachyos/cachyos-boot-managers"
+      ]
+    },
+    {
+      "title": "cachy-chroot Recovery Helper",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachy-chroot-recovery-helper",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/cachyos-faq-and-troubleshooting"
+      ]
+    },
+    {
+      "title": "CachyOS",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/index",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "CachyOS Boot Managers",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-boot-managers",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/boot-manager-configuration",
+        "cachyos/cachyos-filesystems",
+        "cachyos/btrfs-snapshots"
+      ]
+    },
+    {
+      "title": "CachyOS Desktop Environments",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-desktop-environments",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/kde-plasma-on-cachyos",
+        "cachyos/niri-keybinds-and-faq",
+        "cachyos/hyprland-setup-and-keybinds",
+        "cachyos/i3-keybinds-and-faq",
+        "cachyos/qtile-keybinds-and-faq",
+        "cachyos/switching-desktop-environments"
+      ]
+    },
+    {
+      "title": "CachyOS Downloads and ISO Validation",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-downloads-and-iso-validation",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/cachyos-faq-and-troubleshooting",
+        "cachyos/preparing-a-cachyos-usb-installer"
+      ]
+    },
+    {
+      "title": "CachyOS FAQ and Troubleshooting",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-faq-and-troubleshooting",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/cachy-chroot-recovery-helper",
+        "cachyos/cachyos-boot-managers"
+      ]
+    },
+    {
+      "title": "CachyOS Filesystems",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-filesystems",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/btrfs-snapshots",
+        "cachyos/cachyos-boot-managers"
+      ]
+    },
+    {
+      "title": "CachyOS Kernel Manager",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-kernel-manager",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/sched-ext-schedulers"
+      ]
+    },
+    {
+      "title": "CachyOS Kernels",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-kernels",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/cachyos-kernel-manager",
+        "cachyos/optimized-repositories-and-x86-64-levels",
+        "cachyos/sched-ext-schedulers"
+      ]
+    },
+    {
+      "title": "CachyOS Settings Package",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-settings-package",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/cachyos-kernels",
+        "cachyos/general-system-tweaks"
+      ]
+    },
+    {
+      "title": "CachyOS Wiki Notes",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-wiki-notes",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/why-cachyos",
+        "cachyos/cachyos-faq-and-troubleshooting",
+        "cachyos/cachyos-downloads-and-iso-validation",
+        "cachyos/preparing-a-cachyos-usb-installer",
+        "cachyos/installing-cachyos-on-a-desktop-or-laptop",
+        "cachyos/navigating-the-cachyos-wiki",
+        "cachyos/cachyos-filesystems",
+        "cachyos/cachyos-boot-managers",
+        "cachyos/boot-manager-configuration",
+        "cachyos/cachyos-desktop-environments",
+        "cachyos/post-install-setup",
+        "cachyos/cachyos-kernels",
+        "cachyos/cachyos-kernel-manager",
+        "cachyos/sched-ext-schedulers",
+        "cachyos/optimized-repositories-and-x86-64-levels",
+        "cachyos/cachyos-settings-package",
+        "cachyos/cachy-chroot-recovery-helper",
+        "cachyos/managing-hardware-with-chwd",
+        "cachyos/btrfs-snapshots",
+        "cachyos/automounting-drives-at-boot",
+        "cachyos/general-system-tweaks",
+        "cachyos/dual-gpu-setup",
+        "cachyos/switching-between-nvidia-and-amd-gpus",
+        "cachyos/secure-boot-setup",
+        "cachyos/browser-hardware-acceleration",
+        "cachyos/gaming-on-cachyos",
+        "cachyos/qemu-and-vmm-setup",
+        "cachyos/qemu-user-session",
+        "cachyos/egl-headless-3d-acceleration",
+        "cachyos/virtio-venus-3d-acceleration",
+        "cachyos/switching-desktop-environments",
+        "cachyos/kde-plasma-on-cachyos",
+        "cachyos/niri-keybinds-and-faq",
+        "cachyos/hyprland-setup-and-keybinds",
+        "cachyos/i3-keybinds-and-faq",
+        "cachyos/qtile-keybinds-and-faq",
+        "inbox"
+      ]
+    },
+    {
+      "title": "Dual GPU Setup",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/dual-gpu-setup",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/managing-hardware-with-chwd",
+        "cachyos/switching-between-nvidia-and-amd-gpus",
+        "cachyos/gaming-on-cachyos"
+      ]
+    },
+    {
+      "title": "EGL Headless 3D Acceleration",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/egl-headless-3d-acceleration",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/qemu-user-session"
+      ]
+    },
+    {
+      "title": "Feynman's restaurant problem and how people actually decide",
+      "url": "https://unixuserdev.github.io/obsidian-vault/memory/feynman's-restaurant-problem-and-how-people-actually-decide",
+      "tags": [
+        "memory/psychology"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "Gaming on CachyOS",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/gaming-on-cachyos",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/sched-ext-schedulers",
+        "cachyos/cachyos-settings-package",
+        "cachyos/dual-gpu-setup",
+        "cachyos/general-system-tweaks"
+      ]
+    },
+    {
+      "title": "General System Tweaks",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/general-system-tweaks",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes"
+      ]
+    },
+    {
+      "title": "Graph Guide",
+      "url": "https://unixuserdev.github.io/obsidian-vault/graph-guide",
+      "tags": [
+        "note/guide"
+      ],
+      "links": [
+        "welcome",
+        "untitled",
+        "untitled-1",
+        "inbox"
+      ]
+    },
+    {
+      "title": "Home",
+      "url": "https://unixuserdev.github.io/obsidian-vault/index",
+      "tags": [],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "graph-guide",
+        "agent-memory-map.canvas",
+        "opencode-sandbox-map.canvas",
+        "inbox"
+      ]
+    },
+    {
+      "title": "Hyprland Setup and Keybinds",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/hyprland-setup-and-keybinds",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/switching-desktop-environments",
+        "cachyos/cachyos-desktop-environments"
+      ]
+    },
+    {
+      "title": "i3 Keybinds and FAQ",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/i3-keybinds-and-faq",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/switching-desktop-environments",
+        "cachyos/cachyos-desktop-environments"
+      ]
+    },
+    {
+      "title": "Inbox",
+      "url": "https://unixuserdev.github.io/obsidian-vault/inbox",
+      "tags": [
+        "inbox"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "inbox",
+      "url": "https://unixuserdev.github.io/obsidian-vault/tags/inbox",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "Installing CachyOS on a Desktop or Laptop",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/installing-cachyos-on-a-desktop-or-laptop",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/cachyos-filesystems",
+        "cachyos/preparing-a-cachyos-usb-installer",
+        "cachyos/cachyos-boot-managers",
+        "cachyos/cachyos-desktop-environments"
+      ]
+    },
+    {
+      "title": "KDE Plasma on CachyOS",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/kde-plasma-on-cachyos",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/switching-desktop-environments",
+        "cachyos/cachyos-desktop-environments"
+      ]
+    },
+    {
+      "title": "Managing Hardware with chwd",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/managing-hardware-with-chwd",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/switching-between-nvidia-and-amd-gpus",
+        "cachyos/dual-gpu-setup"
+      ]
+    },
+    {
+      "title": "memory",
+      "url": "https://unixuserdev.github.io/obsidian-vault/memory/index",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "memory",
+      "url": "https://unixuserdev.github.io/obsidian-vault/tags/memory",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "memory/psychology",
+      "url": "https://unixuserdev.github.io/obsidian-vault/tags/memory/psychology",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "Navigating the CachyOS Wiki",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/navigating-the-cachyos-wiki",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes"
+      ]
+    },
+    {
+      "title": "Niri Keybinds and FAQ",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/niri-keybinds-and-faq",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/switching-desktop-environments",
+        "cachyos/cachyos-desktop-environments"
+      ]
+    },
+    {
+      "title": "note",
+      "url": "https://unixuserdev.github.io/obsidian-vault/tags/note",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "note/attachment",
+      "url": "https://unixuserdev.github.io/obsidian-vault/tags/note/attachment",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "note/cachyos",
+      "url": "https://unixuserdev.github.io/obsidian-vault/tags/note/cachyos",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "note/guide",
+      "url": "https://unixuserdev.github.io/obsidian-vault/tags/note/guide",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "OpenCode-Sandbox Map",
+      "url": "https://unixuserdev.github.io/obsidian-vault/opencode-sandbox-map.canvas",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "Optimized Repositories and x86-64 Levels",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/optimized-repositories-and-x86-64-levels",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/preparing-a-cachyos-usb-installer"
+      ]
+    },
+    {
+      "title": "Post Install Setup",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/post-install-setup",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/btrfs-snapshots",
+        "cachyos/boot-manager-configuration",
+        "cachyos/cachyos-settings-package"
+      ]
+    },
+    {
+      "title": "Preparing a CachyOS USB Installer",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/preparing-a-cachyos-usb-installer",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/optimized-repositories-and-x86-64-levels",
+        "cachyos/installing-cachyos-on-a-desktop-or-laptop"
+      ]
+    },
+    {
+      "title": "QEMU and VMM Setup",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/qemu-and-vmm-setup",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/qemu-user-session",
+        "cachyos/egl-headless-3d-acceleration",
+        "cachyos/virtio-venus-3d-acceleration"
+      ]
+    },
+    {
+      "title": "QEMU User Session",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/qemu-user-session",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/qemu-and-vmm-setup"
+      ]
+    },
+    {
+      "title": "Qtile Keybinds and FAQ",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/qtile-keybinds-and-faq",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/switching-desktop-environments",
+        "cachyos/cachyos-desktop-environments"
+      ]
+    },
+    {
+      "title": "sched-ext Schedulers",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/sched-ext-schedulers",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/cachyos-kernel-manager",
+        "cachyos/cachyos-kernels"
+      ]
+    },
+    {
+      "title": "Secure Boot Setup",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/secure-boot-setup",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/cachyos-settings-package",
+        "cachyos/cachyos-boot-managers",
+        "cachyos/boot-manager-configuration"
+      ]
+    },
+    {
+      "title": "Switching Between NVIDIA and AMD GPUs",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/switching-between-nvidia-and-amd-gpus",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/boot-manager-configuration",
+        "cachyos/managing-hardware-with-chwd",
+        "cachyos/dual-gpu-setup"
+      ]
+    },
+    {
+      "title": "Switching Desktop Environments",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/switching-desktop-environments",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/kde-plasma-on-cachyos",
+        "cachyos/niri-keybinds-and-faq",
+        "cachyos/hyprland-setup-and-keybinds",
+        "cachyos/i3-keybinds-and-faq",
+        "cachyos/qtile-keybinds-and-faq"
+      ]
+    },
+    {
+      "title": "Tag Index",
+      "url": "https://unixuserdev.github.io/obsidian-vault/tags/index",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "Virtio-Venus 3D Acceleration",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/virtio-venus-3d-acceleration",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes"
+      ]
+    },
+    {
+      "title": "Why CachyOS",
+      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/why-cachyos",
+      "tags": [
+        "note/cachyos"
+      ],
+      "links": [
+        "cachyos/cachyos-wiki-notes",
+        "cachyos/optimized-repositories-and-x86-64-levels",
+        "cachyos/cachyos-kernels",
+        "cachyos/sched-ext-schedulers"
+      ]
+    }
+  ]
+}
