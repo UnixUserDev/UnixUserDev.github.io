@@ -643,6 +643,17 @@
       "memory/psychology"
     ]
   },
+  "memory/lm-studio-uninstalled-but-gguf-models-kept": {
+    "slug": "memory/lm-studio-uninstalled-but-gguf-models-kept",
+    "filePath": "memory/LM Studio uninstalled but GGUF models kept.md",
+    "title": "LM Studio uninstalled but GGUF models kept",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/system"
+    ]
+  },
   "memory/larping-another-distro-in-fastfetch": {
     "slug": "memory/larping-another-distro-in-fastfetch",
     "filePath": "memory/Larping another distro in fastfetch.md",
@@ -800,6 +811,13 @@
     "slug": "tags/memory/psychology",
     "filePath": "tags/memory/psychology.md",
     "title": "memory/psychology",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/system": {
+    "slug": "tags/memory/system",
+    "filePath": "tags/memory/system.md",
+    "title": "memory/system",
     "links": [],
     "tags": []
   },

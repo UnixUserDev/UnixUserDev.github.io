@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 69 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 71 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -431,6 +431,16 @@
       ]
     },
     {
+      "title": "LM Studio uninstalled but GGUF models kept",
+      "url": "https://unixuserdev.github.io/memory/lm-studio-uninstalled-but-gguf-models-kept",
+      "tags": [
+        "memory/system"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
       "title": "Managing Hardware with chwd",
       "url": "https://unixuserdev.github.io/cachyos/managing-hardware-with-chwd",
       "tags": [
@@ -475,6 +485,12 @@
     {
       "title": "memory/psychology",
       "url": "https://unixuserdev.github.io/tags/memory/psychology",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "memory/system",
+      "url": "https://unixuserdev.github.io/tags/memory/system",
       "tags": [],
       "links": []
     },

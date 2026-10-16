@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 69 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 71 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -47,6 +47,7 @@
 - [Kimaki](https://unixuserdev.github.io/kimaki/index): note/kimaki
 - [Kimaki Internals](https://unixuserdev.github.io/kimaki/kimaki-internals): note/kimaki
 - [Larping another distro in fastfetch](https://unixuserdev.github.io/memory/larping-another-distro-in-fastfetch): memory/linux
+- [LM Studio uninstalled but GGUF models kept](https://unixuserdev.github.io/memory/lm-studio-uninstalled-but-gguf-models-kept): memory/system
 - [Managing Hardware with chwd](https://unixuserdev.github.io/cachyos/managing-hardware-with-chwd): note/cachyos
 - [memory](https://unixuserdev.github.io/memory/index): -
 - [memory](https://unixuserdev.github.io/tags/memory): -
@@ -54,6 +55,7 @@
 - [memory/project](https://unixuserdev.github.io/tags/memory/project): -
 - [memory/projects](https://unixuserdev.github.io/tags/memory/projects): -
 - [memory/psychology](https://unixuserdev.github.io/tags/memory/psychology): -
+- [memory/system](https://unixuserdev.github.io/tags/memory/system): -
 - [Navigating the CachyOS Wiki](https://unixuserdev.github.io/cachyos/navigating-the-cachyos-wiki): note/cachyos
 - [Niri Keybinds and FAQ](https://unixuserdev.github.io/cachyos/niri-keybinds-and-faq): note/cachyos
 - [note](https://unixuserdev.github.io/tags/note): -
