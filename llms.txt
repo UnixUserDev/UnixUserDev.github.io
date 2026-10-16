@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 64 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 66 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -44,6 +44,7 @@
 - [inbox](https://unixuserdev.github.io/tags/inbox): -
 - [Installing CachyOS on a Desktop or Laptop](https://unixuserdev.github.io/cachyos/installing-cachyos-on-a-desktop-or-laptop): note/cachyos
 - [KDE Plasma on CachyOS](https://unixuserdev.github.io/cachyos/kde-plasma-on-cachyos): note/cachyos
+- [Kimaki](https://unixuserdev.github.io/kimaki/index): note/kimaki
 - [Larping another distro in fastfetch](https://unixuserdev.github.io/memory/larping-another-distro-in-fastfetch): memory/linux
 - [Managing Hardware with chwd](https://unixuserdev.github.io/cachyos/managing-hardware-with-chwd): note/cachyos
 - [memory](https://unixuserdev.github.io/memory/index): -
@@ -58,6 +59,7 @@
 - [note/agents](https://unixuserdev.github.io/tags/note/agents): -
 - [note/cachyos](https://unixuserdev.github.io/tags/note/cachyos): -
 - [note/guide](https://unixuserdev.github.io/tags/note/guide): -
+- [note/kimaki](https://unixuserdev.github.io/tags/note/kimaki): -
 - [OpenCode-Sandbox Map](https://unixuserdev.github.io/opencode-sandbox-map.canvas): -
 - [OpenTUI runs on Node 26 without Bun for the roguelike](https://unixuserdev.github.io/memory/opentui-runs-on-node-26-without-bun-for-the-roguelike): memory/projects
 - [Optimized Repositories and x86-64 Levels](https://unixuserdev.github.io/cachyos/optimized-repositories-and-x86-64-levels): note/cachyos

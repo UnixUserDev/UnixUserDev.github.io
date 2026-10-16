@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 64 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 66 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -397,6 +397,18 @@
       ]
     },
     {
+      "title": "Kimaki",
+      "url": "https://unixuserdev.github.io/kimaki/index",
+      "tags": [
+        "note/kimaki"
+      ],
+      "links": [
+        "other-remorses-projects",
+        "kimaki-internals",
+        "inbox"
+      ]
+    },
+    {
       "title": "Larping another distro in fastfetch",
       "url": "https://unixuserdev.github.io/memory/larping-another-distro-in-fastfetch",
       "tags": [
@@ -497,6 +509,12 @@
     {
       "title": "note/guide",
       "url": "https://unixuserdev.github.io/tags/note/guide",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "note/kimaki",
+      "url": "https://unixuserdev.github.io/tags/note/kimaki",
       "tags": [],
       "links": []
     },

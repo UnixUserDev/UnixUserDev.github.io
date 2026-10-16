@@ -545,6 +545,19 @@
       "inbox"
     ]
   },
+  "kimaki/index": {
+    "slug": "kimaki/index",
+    "filePath": "Kimaki/Kimaki.md",
+    "title": "Kimaki",
+    "links": [
+      "other-remorses-projects",
+      "kimaki-internals",
+      "inbox"
+    ],
+    "tags": [
+      "note/kimaki"
+    ]
+  },
   "web-fetch-by-client": {
     "slug": "web-fetch-by-client",
     "filePath": "Web fetch by client.md",
@@ -713,6 +726,13 @@
     "slug": "tags/inbox",
     "filePath": "tags/inbox.md",
     "title": "inbox",
+    "links": [],
+    "tags": []
+  },
+  "tags/note/kimaki": {
+    "slug": "tags/note/kimaki",
+    "filePath": "tags/note/kimaki.md",
+    "title": "note/kimaki",
     "links": [],
     "tags": []
   },
