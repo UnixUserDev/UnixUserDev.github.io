@@ -2,21 +2,21 @@
   "title": "Obsidian Vault",
   "summary": "A published Obsidian vault: 56 markdown notes. Pages cross-link.",
   "machine_readable": {
-    "index_html": "https://unixuserdev.github.io/obsidian-vault/vault-index.html",
-    "index_json_full": "https://unixuserdev.github.io/obsidian-vault/static/contentIndex.json",
-    "index_json_light": "https://unixuserdev.github.io/obsidian-vault/static/contentIndex.light.json",
-    "index_txt": "https://unixuserdev.github.io/obsidian-vault/vault-index.txt"
+    "index_html": "https://unixuserdev.github.io/vault-index.html",
+    "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
+    "index_json_light": "https://unixuserdev.github.io/static/contentIndex.light.json",
+    "index_txt": "https://unixuserdev.github.io/vault-index.txt"
   },
   "pages": [
     {
       "title": "Agent Memory Map",
-      "url": "https://unixuserdev.github.io/obsidian-vault/agent-memory-map.canvas",
+      "url": "https://unixuserdev.github.io/agent-memory-map.canvas",
       "tags": [],
       "links": []
     },
     {
       "title": "Attachment Demo",
-      "url": "https://unixuserdev.github.io/obsidian-vault/attachment-demo",
+      "url": "https://unixuserdev.github.io/attachment-demo",
       "tags": [
         "note/attachment"
       ],
@@ -26,7 +26,7 @@
     },
     {
       "title": "Automounting Drives at Boot",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/automounting-drives-at-boot",
+      "url": "https://unixuserdev.github.io/cachyos/automounting-drives-at-boot",
       "tags": [
         "note/cachyos"
       ],
@@ -36,7 +36,7 @@
     },
     {
       "title": "Boot Manager Configuration",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/boot-manager-configuration",
+      "url": "https://unixuserdev.github.io/cachyos/boot-manager-configuration",
       "tags": [
         "note/cachyos"
       ],
@@ -50,7 +50,7 @@
     },
     {
       "title": "Browser Hardware Acceleration",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/browser-hardware-acceleration",
+      "url": "https://unixuserdev.github.io/cachyos/browser-hardware-acceleration",
       "tags": [
         "note/cachyos"
       ],
@@ -62,7 +62,7 @@
     },
     {
       "title": "Btrfs Snapshots",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/btrfs-snapshots",
+      "url": "https://unixuserdev.github.io/cachyos/btrfs-snapshots",
       "tags": [
         "note/cachyos"
       ],
@@ -75,7 +75,7 @@
     },
     {
       "title": "cachy-chroot Recovery Helper",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachy-chroot-recovery-helper",
+      "url": "https://unixuserdev.github.io/cachyos/cachy-chroot-recovery-helper",
       "tags": [
         "note/cachyos"
       ],
@@ -86,13 +86,13 @@
     },
     {
       "title": "CachyOS",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/index",
+      "url": "https://unixuserdev.github.io/cachyos/index",
       "tags": [],
       "links": []
     },
     {
       "title": "CachyOS Boot Managers",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-boot-managers",
+      "url": "https://unixuserdev.github.io/cachyos/cachyos-boot-managers",
       "tags": [
         "note/cachyos"
       ],
@@ -105,7 +105,7 @@
     },
     {
       "title": "CachyOS Desktop Environments",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-desktop-environments",
+      "url": "https://unixuserdev.github.io/cachyos/cachyos-desktop-environments",
       "tags": [
         "note/cachyos"
       ],
@@ -121,7 +121,7 @@
     },
     {
       "title": "CachyOS Downloads and ISO Validation",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-downloads-and-iso-validation",
+      "url": "https://unixuserdev.github.io/cachyos/cachyos-downloads-and-iso-validation",
       "tags": [
         "note/cachyos"
       ],
@@ -133,7 +133,7 @@
     },
     {
       "title": "CachyOS FAQ and Troubleshooting",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-faq-and-troubleshooting",
+      "url": "https://unixuserdev.github.io/cachyos/cachyos-faq-and-troubleshooting",
       "tags": [
         "note/cachyos"
       ],
@@ -145,7 +145,7 @@
     },
     {
       "title": "CachyOS Filesystems",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-filesystems",
+      "url": "https://unixuserdev.github.io/cachyos/cachyos-filesystems",
       "tags": [
         "note/cachyos"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "title": "CachyOS Kernel Manager",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-kernel-manager",
+      "url": "https://unixuserdev.github.io/cachyos/cachyos-kernel-manager",
       "tags": [
         "note/cachyos"
       ],
@@ -168,7 +168,7 @@
     },
     {
       "title": "CachyOS Kernels",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-kernels",
+      "url": "https://unixuserdev.github.io/cachyos/cachyos-kernels",
       "tags": [
         "note/cachyos"
       ],
@@ -181,7 +181,7 @@
     },
     {
       "title": "CachyOS Settings Package",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-settings-package",
+      "url": "https://unixuserdev.github.io/cachyos/cachyos-settings-package",
       "tags": [
         "note/cachyos"
       ],
@@ -193,7 +193,7 @@
     },
     {
       "title": "CachyOS Wiki Notes",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/cachyos-wiki-notes",
+      "url": "https://unixuserdev.github.io/cachyos/cachyos-wiki-notes",
       "tags": [
         "note/cachyos"
       ],
@@ -239,7 +239,7 @@
     },
     {
       "title": "Dual GPU Setup",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/dual-gpu-setup",
+      "url": "https://unixuserdev.github.io/cachyos/dual-gpu-setup",
       "tags": [
         "note/cachyos"
       ],
@@ -252,7 +252,7 @@
     },
     {
       "title": "EGL Headless 3D Acceleration",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/egl-headless-3d-acceleration",
+      "url": "https://unixuserdev.github.io/cachyos/egl-headless-3d-acceleration",
       "tags": [
         "note/cachyos"
       ],
@@ -263,7 +263,7 @@
     },
     {
       "title": "Feynman's restaurant problem and how people actually decide",
-      "url": "https://unixuserdev.github.io/obsidian-vault/memory/feynman's-restaurant-problem-and-how-people-actually-decide",
+      "url": "https://unixuserdev.github.io/memory/feynman's-restaurant-problem-and-how-people-actually-decide",
       "tags": [
         "memory/psychology"
       ],
@@ -273,7 +273,7 @@
     },
     {
       "title": "Gaming on CachyOS",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/gaming-on-cachyos",
+      "url": "https://unixuserdev.github.io/cachyos/gaming-on-cachyos",
       "tags": [
         "note/cachyos"
       ],
@@ -287,7 +287,7 @@
     },
     {
       "title": "General System Tweaks",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/general-system-tweaks",
+      "url": "https://unixuserdev.github.io/cachyos/general-system-tweaks",
       "tags": [
         "note/cachyos"
       ],
@@ -297,7 +297,7 @@
     },
     {
       "title": "Graph Guide",
-      "url": "https://unixuserdev.github.io/obsidian-vault/graph-guide",
+      "url": "https://unixuserdev.github.io/graph-guide",
       "tags": [
         "note/guide"
       ],
@@ -310,7 +310,7 @@
     },
     {
       "title": "Home",
-      "url": "https://unixuserdev.github.io/obsidian-vault/index",
+      "url": "https://unixuserdev.github.io/index",
       "tags": [],
       "links": [
         "cachyos/cachyos-wiki-notes",
@@ -322,7 +322,7 @@
     },
     {
       "title": "Hyprland Setup and Keybinds",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/hyprland-setup-and-keybinds",
+      "url": "https://unixuserdev.github.io/cachyos/hyprland-setup-and-keybinds",
       "tags": [
         "note/cachyos"
       ],
@@ -334,7 +334,7 @@
     },
     {
       "title": "i3 Keybinds and FAQ",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/i3-keybinds-and-faq",
+      "url": "https://unixuserdev.github.io/cachyos/i3-keybinds-and-faq",
       "tags": [
         "note/cachyos"
       ],
@@ -346,7 +346,7 @@
     },
     {
       "title": "Inbox",
-      "url": "https://unixuserdev.github.io/obsidian-vault/inbox",
+      "url": "https://unixuserdev.github.io/inbox",
       "tags": [
         "inbox"
       ],
@@ -356,13 +356,13 @@
     },
     {
       "title": "inbox",
-      "url": "https://unixuserdev.github.io/obsidian-vault/tags/inbox",
+      "url": "https://unixuserdev.github.io/tags/inbox",
       "tags": [],
       "links": []
     },
     {
       "title": "Installing CachyOS on a Desktop or Laptop",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/installing-cachyos-on-a-desktop-or-laptop",
+      "url": "https://unixuserdev.github.io/cachyos/installing-cachyos-on-a-desktop-or-laptop",
       "tags": [
         "note/cachyos"
       ],
@@ -376,7 +376,7 @@
     },
     {
       "title": "KDE Plasma on CachyOS",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/kde-plasma-on-cachyos",
+      "url": "https://unixuserdev.github.io/cachyos/kde-plasma-on-cachyos",
       "tags": [
         "note/cachyos"
       ],
@@ -388,7 +388,7 @@
     },
     {
       "title": "Managing Hardware with chwd",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/managing-hardware-with-chwd",
+      "url": "https://unixuserdev.github.io/cachyos/managing-hardware-with-chwd",
       "tags": [
         "note/cachyos"
       ],
@@ -400,25 +400,25 @@
     },
     {
       "title": "memory",
-      "url": "https://unixuserdev.github.io/obsidian-vault/memory/index",
+      "url": "https://unixuserdev.github.io/memory/index",
       "tags": [],
       "links": []
     },
     {
       "title": "memory",
-      "url": "https://unixuserdev.github.io/obsidian-vault/tags/memory",
+      "url": "https://unixuserdev.github.io/tags/memory",
       "tags": [],
       "links": []
     },
     {
       "title": "memory/psychology",
-      "url": "https://unixuserdev.github.io/obsidian-vault/tags/memory/psychology",
+      "url": "https://unixuserdev.github.io/tags/memory/psychology",
       "tags": [],
       "links": []
     },
     {
       "title": "Navigating the CachyOS Wiki",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/navigating-the-cachyos-wiki",
+      "url": "https://unixuserdev.github.io/cachyos/navigating-the-cachyos-wiki",
       "tags": [
         "note/cachyos"
       ],
@@ -428,7 +428,7 @@
     },
     {
       "title": "Niri Keybinds and FAQ",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/niri-keybinds-and-faq",
+      "url": "https://unixuserdev.github.io/cachyos/niri-keybinds-and-faq",
       "tags": [
         "note/cachyos"
       ],
@@ -440,43 +440,43 @@
     },
     {
       "title": "note",
-      "url": "https://unixuserdev.github.io/obsidian-vault/tags/note",
+      "url": "https://unixuserdev.github.io/tags/note",
       "tags": [],
       "links": []
     },
     {
       "title": "note/agents",
-      "url": "https://unixuserdev.github.io/obsidian-vault/tags/note/agents",
+      "url": "https://unixuserdev.github.io/tags/note/agents",
       "tags": [],
       "links": []
     },
     {
       "title": "note/attachment",
-      "url": "https://unixuserdev.github.io/obsidian-vault/tags/note/attachment",
+      "url": "https://unixuserdev.github.io/tags/note/attachment",
       "tags": [],
       "links": []
     },
     {
       "title": "note/cachyos",
-      "url": "https://unixuserdev.github.io/obsidian-vault/tags/note/cachyos",
+      "url": "https://unixuserdev.github.io/tags/note/cachyos",
       "tags": [],
       "links": []
     },
     {
       "title": "note/guide",
-      "url": "https://unixuserdev.github.io/obsidian-vault/tags/note/guide",
+      "url": "https://unixuserdev.github.io/tags/note/guide",
       "tags": [],
       "links": []
     },
     {
       "title": "OpenCode-Sandbox Map",
-      "url": "https://unixuserdev.github.io/obsidian-vault/opencode-sandbox-map.canvas",
+      "url": "https://unixuserdev.github.io/opencode-sandbox-map.canvas",
       "tags": [],
       "links": []
     },
     {
       "title": "Optimized Repositories and x86-64 Levels",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/optimized-repositories-and-x86-64-levels",
+      "url": "https://unixuserdev.github.io/cachyos/optimized-repositories-and-x86-64-levels",
       "tags": [
         "note/cachyos"
       ],
@@ -487,7 +487,7 @@
     },
     {
       "title": "Post Install Setup",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/post-install-setup",
+      "url": "https://unixuserdev.github.io/cachyos/post-install-setup",
       "tags": [
         "note/cachyos"
       ],
@@ -500,7 +500,7 @@
     },
     {
       "title": "Preparing a CachyOS USB Installer",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/preparing-a-cachyos-usb-installer",
+      "url": "https://unixuserdev.github.io/cachyos/preparing-a-cachyos-usb-installer",
       "tags": [
         "note/cachyos"
       ],
@@ -512,7 +512,7 @@
     },
     {
       "title": "QEMU and VMM Setup",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/qemu-and-vmm-setup",
+      "url": "https://unixuserdev.github.io/cachyos/qemu-and-vmm-setup",
       "tags": [
         "note/cachyos"
       ],
@@ -525,7 +525,7 @@
     },
     {
       "title": "QEMU User Session",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/qemu-user-session",
+      "url": "https://unixuserdev.github.io/cachyos/qemu-user-session",
       "tags": [
         "note/cachyos"
       ],
@@ -536,7 +536,7 @@
     },
     {
       "title": "Qtile Keybinds and FAQ",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/qtile-keybinds-and-faq",
+      "url": "https://unixuserdev.github.io/cachyos/qtile-keybinds-and-faq",
       "tags": [
         "note/cachyos"
       ],
@@ -548,7 +548,7 @@
     },
     {
       "title": "sched-ext Schedulers",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/sched-ext-schedulers",
+      "url": "https://unixuserdev.github.io/cachyos/sched-ext-schedulers",
       "tags": [
         "note/cachyos"
       ],
@@ -560,7 +560,7 @@
     },
     {
       "title": "Secure Boot Setup",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/secure-boot-setup",
+      "url": "https://unixuserdev.github.io/cachyos/secure-boot-setup",
       "tags": [
         "note/cachyos"
       ],
@@ -573,7 +573,7 @@
     },
     {
       "title": "Switching Between NVIDIA and AMD GPUs",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/switching-between-nvidia-and-amd-gpus",
+      "url": "https://unixuserdev.github.io/cachyos/switching-between-nvidia-and-amd-gpus",
       "tags": [
         "note/cachyos"
       ],
@@ -586,7 +586,7 @@
     },
     {
       "title": "Switching Desktop Environments",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/switching-desktop-environments",
+      "url": "https://unixuserdev.github.io/cachyos/switching-desktop-environments",
       "tags": [
         "note/cachyos"
       ],
@@ -601,13 +601,13 @@
     },
     {
       "title": "Tag Index",
-      "url": "https://unixuserdev.github.io/obsidian-vault/tags/index",
+      "url": "https://unixuserdev.github.io/tags/index",
       "tags": [],
       "links": []
     },
     {
       "title": "Virtio-Venus 3D Acceleration",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/virtio-venus-3d-acceleration",
+      "url": "https://unixuserdev.github.io/cachyos/virtio-venus-3d-acceleration",
       "tags": [
         "note/cachyos"
       ],
@@ -617,7 +617,7 @@
     },
     {
       "title": "Web fetch by client",
-      "url": "https://unixuserdev.github.io/obsidian-vault/web-fetch-by-client",
+      "url": "https://unixuserdev.github.io/web-fetch-by-client",
       "tags": [
         "note/agents"
       ],
@@ -627,7 +627,7 @@
     },
     {
       "title": "Why CachyOS",
-      "url": "https://unixuserdev.github.io/obsidian-vault/cachyos/why-cachyos",
+      "url": "https://unixuserdev.github.io/cachyos/why-cachyos",
       "tags": [
         "note/cachyos"
       ],
