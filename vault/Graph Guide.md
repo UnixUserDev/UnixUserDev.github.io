@@ -20,14 +20,14 @@ Every note is a plain `.md` file in this folder. That's it. Rename the file, the
 
 ## 2. The link syntax — this is the whole trick
 
-| You type | You get |
-|---|---|
-| `[[Note Name]]` | A link to that note (and an **edge** in the graph) |
-| `[[Note Name\|shown text]]` | Same link, displays "shown text" |
-| `[[Note Name#Heading]]` | Jumps to a *heading* inside that note |
-| `[[Note Name^block-id]]` | Jumps to a specific *block* |
-| `![[Note Name]]` | **Embeds** the whole note inline (transclusion) |
-| `[[Brand New Note]]` | Doesn't exist? Click it → creates the note |
+| You type                    | You get                                            |
+| --------------------------- | -------------------------------------------------- |
+| `[[Note Name]]`             | A link to that note (and an **edge** in the graph) |
+| `[[Note Name\|shown text]]` | Same link, displays "shown text"                   |
+| `[[Note Name#Heading]]`     | Jumps to a *heading* inside that note              |
+| `[[Note Name^block-id]]`    | Jumps to a specific *block*                        |
+| `![[Note Name]]`            | **Embeds** the whole note inline (transclusion)    |
+| `[[Brand New Note]]`        | Doesn't exist? Click it → creates the note         |
 
 
 ## 3. Making an edge
