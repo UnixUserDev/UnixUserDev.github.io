@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 59 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 61 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -32,6 +32,7 @@
 - [Distros fastfetch has no logo for](https://unixuserdev.github.io/memory/distros-fastfetch-has-no-logo-for): memory/linux
 - [Dual GPU Setup](https://unixuserdev.github.io/cachyos/dual-gpu-setup): note/cachyos
 - [EGL Headless 3D Acceleration](https://unixuserdev.github.io/cachyos/egl-headless-3d-acceleration): note/cachyos
+- [fastfetch Tiny Core logo issue and PR](https://unixuserdev.github.io/memory/fastfetch-tiny-core-logo-issue-and-pr): memory/linux, n
 - [Feynman's restaurant problem and how people actually decide](https://unixuserdev.github.io/memory/feynman's-restaurant-problem-and-how-people-actually-decide): memory/psychology
 - [Gaming on CachyOS](https://unixuserdev.github.io/cachyos/gaming-on-cachyos): note/cachyos
 - [General System Tweaks](https://unixuserdev.github.io/cachyos/general-system-tweaks): note/cachyos
@@ -49,6 +50,7 @@
 - [memory](https://unixuserdev.github.io/tags/memory): -
 - [memory/linux](https://unixuserdev.github.io/tags/memory/linux): -
 - [memory/psychology](https://unixuserdev.github.io/tags/memory/psychology): -
+- [n](https://unixuserdev.github.io/tags/n): -
 - [Navigating the CachyOS Wiki](https://unixuserdev.github.io/cachyos/navigating-the-cachyos-wiki): note/cachyos
 - [Niri Keybinds and FAQ](https://unixuserdev.github.io/cachyos/niri-keybinds-and-faq): note/cachyos
 - [note](https://unixuserdev.github.io/tags/note): -

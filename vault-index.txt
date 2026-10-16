@@ -613,6 +613,19 @@
       "memory/linux"
     ]
   },
+  "memory/fastfetch-tiny-core-logo-issue-and-pr": {
+    "slug": "memory/fastfetch-tiny-core-logo-issue-and-pr",
+    "filePath": "memory/fastfetch Tiny Core logo issue and PR.md",
+    "title": "fastfetch Tiny Core logo issue and PR",
+    "links": [
+      "tags/n",
+      "inbox"
+    ],
+    "tags": [
+      "memory/linux",
+      "n"
+    ]
+  },
   "agent-memory-map.canvas": {
     "slug": "agent-memory-map.canvas",
     "filePath": "agent-memory-map.canvas.md",
@@ -701,6 +714,13 @@
     "slug": "tags/memory/psychology",
     "filePath": "tags/memory/psychology.md",
     "title": "memory/psychology",
+    "links": [],
+    "tags": []
+  },
+  "tags/n": {
+    "slug": "tags/n",
+    "filePath": "tags/n.md",
+    "title": "n",
     "links": [],
     "tags": []
   },

@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 59 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 61 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -272,6 +272,18 @@
       ]
     },
     {
+      "title": "fastfetch Tiny Core logo issue and PR",
+      "url": "https://unixuserdev.github.io/memory/fastfetch-tiny-core-logo-issue-and-pr",
+      "tags": [
+        "memory/linux",
+        "n"
+      ],
+      "links": [
+        "tags/n",
+        "inbox"
+      ]
+    },
+    {
       "title": "Feynman's restaurant problem and how people actually decide",
       "url": "https://unixuserdev.github.io/memory/feynman's-restaurant-problem-and-how-people-actually-decide",
       "tags": [
@@ -436,6 +448,12 @@
     {
       "title": "memory/psychology",
       "url": "https://unixuserdev.github.io/tags/memory/psychology",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "n",
+      "url": "https://unixuserdev.github.io/tags/n",
       "tags": [],
       "links": []
     },
