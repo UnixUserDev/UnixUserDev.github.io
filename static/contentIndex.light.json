@@ -625,6 +625,17 @@
       "memory/project"
     ]
   },
+  "memory/tiny-core-logo-merged-into-fastfetch": {
+    "slug": "memory/tiny-core-logo-merged-into-fastfetch",
+    "filePath": "memory/Tiny Core logo merged into fastfetch.md",
+    "title": "Tiny Core logo merged into fastfetch",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/linux"
+    ]
+  },
   "memory/use-the-agent-opencode-account-for-agent-github-work": {
     "slug": "memory/use-the-agent-opencode-account-for-agent-github-work",
     "filePath": "memory/Use the Agent-Opencode account for agent GitHub work.md",

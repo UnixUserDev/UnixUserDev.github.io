@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 62 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 63 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -648,6 +648,16 @@
       "url": "https://unixuserdev.github.io/tags/index",
       "tags": [],
       "links": []
+    },
+    {
+      "title": "Tiny Core logo merged into fastfetch",
+      "url": "https://unixuserdev.github.io/memory/tiny-core-logo-merged-into-fastfetch",
+      "tags": [
+        "memory/linux"
+      ],
+      "links": [
+        "inbox"
+      ]
     },
     {
       "title": "Use the Agent-Opencode account for agent GitHub work",
