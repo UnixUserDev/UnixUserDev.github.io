@@ -1,15 +1,4 @@
 {
-  "attachment-demo": {
-    "slug": "attachment-demo",
-    "filePath": "Attachment Demo.md",
-    "title": "Attachment Demo",
-    "links": [
-      "inbox"
-    ],
-    "tags": [
-      "note/attachment"
-    ]
-  },
   "cachyos/automounting-drives-at-boot": {
     "slug": "cachyos/automounting-drives-at-boot",
     "filePath": "CachyOS/Automounting Drives at Boot.md",
@@ -690,13 +679,6 @@
     "slug": "tags/note",
     "filePath": "tags/note.md",
     "title": "note",
-    "links": [],
-    "tags": []
-  },
-  "tags/note/attachment": {
-    "slug": "tags/note/attachment",
-    "filePath": "tags/note/attachment.md",
-    "title": "note/attachment",
     "links": [],
     "tags": []
   },

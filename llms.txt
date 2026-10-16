@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 64 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 62 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -15,7 +15,6 @@
 
 - [Agent Memory Map](https://unixuserdev.github.io/agent-memory-map.canvas): -
 - [AppImage leaks LD_LIBRARY_PATH and breaks notify-send](https://unixuserdev.github.io/memory/appimage-leaks-ld_library_path-and-breaks-notify-send): memory/linux
-- [Attachment Demo](https://unixuserdev.github.io/attachment-demo): note/attachment
 - [Automounting Drives at Boot](https://unixuserdev.github.io/cachyos/automounting-drives-at-boot): note/cachyos
 - [Boot Manager Configuration](https://unixuserdev.github.io/cachyos/boot-manager-configuration): note/cachyos
 - [Browser Hardware Acceleration](https://unixuserdev.github.io/cachyos/browser-hardware-acceleration): note/cachyos
@@ -57,7 +56,6 @@
 - [Niri Keybinds and FAQ](https://unixuserdev.github.io/cachyos/niri-keybinds-and-faq): note/cachyos
 - [note](https://unixuserdev.github.io/tags/note): -
 - [note/agents](https://unixuserdev.github.io/tags/note/agents): -
-- [note/attachment](https://unixuserdev.github.io/tags/note/attachment): -
 - [note/cachyos](https://unixuserdev.github.io/tags/note/cachyos): -
 - [note/guide](https://unixuserdev.github.io/tags/note/guide): -
 - [OpenCode-Sandbox Map](https://unixuserdev.github.io/opencode-sandbox-map.canvas): -
