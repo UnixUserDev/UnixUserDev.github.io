@@ -1,0 +1,16 @@
+{
+  "slug": "cachyos/installing-cachyos-on-a-desktop-or-laptop",
+  "filePath": "CachyOS/Installing CachyOS on a Desktop or Laptop.md",
+  "title": "Installing CachyOS on a Desktop or Laptop",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/cachyos-filesystems",
+    "cachyos/preparing-a-cachyos-usb-installer",
+    "cachyos/cachyos-boot-managers",
+    "cachyos/cachyos-desktop-environments"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-05-20).\nInstalling CachyOS on a Desktop or Laptop\nBefore you begin\n\nIf only GRUB and Limine show up as boot manager options after Launch Installer, the system booted in Legacy/BIOS mode.\nLegacy USB Support should be Auto.\nInstall alongside and Replace partition \u201care not 100% reliable and can cause the installation to fail.\u201d\nManual partitioning is strongly preferred.\nAfter a failed install, reboot into the ISO \u2014 the installer does not properly unmount partitions on failure, which causes continuous errors.\nSecure Boot is configured post-install (separate wiki page).\n\nCheck the boot mode:\nefibootmgr -v\nIf it prints EFI variables are not supported on this system. you booted Legacy/BIOS \u2014 enable UEFI in firmware settings.\nManual partitioning (UEFI/GPT)\nFlow: Launch Installer -&gt; Language + Region/Timezone -&gt; Keyboard Layout -&gt; Manual partitioning -&gt; boot partition -&gt; root partition -&gt; DE -&gt; packages -&gt; login credentials -&gt; summary -&gt; Install Now. (MBR/BIOS has its own tab.)\nBoot partition (step 5)\n\nLimine: \u2265 4096 MiB, FAT32, mount /boot, flags boot.\nsystemd-boot &amp; rEFInd: same parameters as Limine; the partition table varies per boot manager.\nGRUB: follow the GRUB tab\u2019s parameters.\n\nRoot partition (step 6)\n\nSize \u2265 20000 MiB, filesystem any (see CachyOS Filesystems), mount /, no flags.\n\nDual booting with Windows\n\nNot 100% reliable: Windows updates can overwrite the EFI partition and break the bootloader. Separate drives avoid this.\nThe EFI partition may need resizing to meet the boot manager\u2019s minimum size.\nFAT filesystems cannot be resized in place \u2014 back up the EFI filesystem, resize + reformat with something like gparted, then copy the filesystem structure back.\n\nWindows-side prerequisites:\npowercfg /H off\n(Run in PowerShell as administrator \u2014 disables Fast Startup and Hibernation; reboot after.)\nmanage-bde -status\n(Encryption Method showing None = BitLocker disabled; BitLocker must be off.)\nAlso required: Secure Boot disabled, a \u226530 GB empty partition (shrink a Windows partition via Win + R -&gt; diskmgmt.msc -&gt; right-click the main partition, usually C: -&gt; Shrink Volume... -&gt; at least 30720 MB), and a bootable CachyOS USB.\nLimine should auto-detect the Windows EFI partition. If Windows does not appear in the boot menu:\nsudo limine-scan\nRelated: Preparing a CachyOS USB Installer, CachyOS Boot Managers, CachyOS Desktop Environments."
+}

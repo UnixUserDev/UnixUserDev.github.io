@@ -1,0 +1,13 @@
+{
+  "slug": "cachyos/qemu-user-session",
+  "filePath": "CachyOS/QEMU User Session.md",
+  "title": "QEMU User Session",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/qemu-and-vmm-setup"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2025-11-24).\nQEMU User Session\nWhy run a VM in a user session instead of a root session: networking and 3D acceleration via translation.\nNetworking\nA root session forbids the VM from forwarding ports and uses NAT instead \u2014 the VM can see the world, but the world cannot see the VM, it sees your PC. Fine in general, but you cannot connect into the VM from outside the machine (e.g. over ssh), because there is nothing to connect to.\n3D acceleration\nA root session forbids VMM from using the render node /dev/dri/renderD128, and cripples qemu-cli \u2014 a regular user can barely make use of root qemu.\nHow to enable it\n\nIn the main VMM window, File -&gt; Add Connection....\nIn the Hypervisor: dropdown, select QEMU/KVM user session.\nCreate VMs as described in QEMU and VMM Setup, in User mode rather than Root mode.\n\nNo packages, services, group changes, or config edits \u2014 the whole change is that one VMM connection setting."
+}

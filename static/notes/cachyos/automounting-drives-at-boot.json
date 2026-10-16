@@ -1,0 +1,12 @@
+{
+  "slug": "cachyos/automounting-drives-at-boot",
+  "filePath": "CachyOS/Automounting Drives at Boot.md",
+  "title": "Automounting Drives at Boot",
+  "links": [
+    "cachyos/cachyos-wiki-notes"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-08-27).\nAutomounting Drives at Boot\nPrerequisite: root/sudo access.\n\nNTFS warning: NTFS is unstable under Linux with the ntfs, ntfs3 or ntfs-3g drivers. Prefer ext4/XFS/Btrfs.\n\nTwo methods:\n\nsystemd mount files \u2014 safer; a mistake won\u2019t stop the machine booting.\n/etc/fstab \u2014 advanced; a mistake can make the system unbootable.\n\nFind UUIDs:\nlsblk -f\nsudo fdisk -l\nMethod 1 \u2014 systemd mount unit\nMount point /home/user/games \u2192 unit file /etc/systemd/system/home-$USER-games.mount (slashes become hyphens, dashes become escape codes, in /etc/systemd/system). For odd names:\nsystemd-escape -p --suffix=mount &quot;/home/grzegorz/brz\u0119czyszczykiewicz&quot;\nTemplate:\n[Unit]\nDescription=\n[Mount]\nWhat=\nWhere=\nType=\nOptions=\n[Install]\nWantedBy=multi-user.target\n\nFilled example:\n[Unit]\nDescription=Mount games drive (/home/user/games)\n[Mount]\nWhat=UUID=4e55896f-3f1f-4bc5-aa8a-fec099689cd9\nWhere=/home/user/games\nType=ext4\nOptions=defaults,exec,rw,noatime\n[Install]\nWantedBy=multi-user.target\n\nEnable it:\nsudo systemctl daemon-reload\nsudo systemctl enable --now home-$USER-games.mount\nMinimal version (micro /etc/systemd/system/mnt-foo.mount):\n[Unit]\nDescription=Mount drive\n[Mount]\nWhat=UUID=&lt;partition UUID&gt;\nWhere=/mnt/foo\nType=somefs\nOptions=defaults\n[Install]\nWantedBy=multi-user.target\n\nOptions worth knowing: _netdev for NAS mounts, nofail for non-critical drives.\nMethod 2 \u2014 /etc/fstab\nsudo nano /etc/fstab\n(The mount point /media/windows must exist.)\nUUID=08A24E90A24E81E4 /media/windows ntfs3 defaults,nofail,uid=1000,gid=1000,rw,user,exec,umask=000 0 0\n\n\ndefaults = rw,suid,dev,exec,auto,nouser,async\nnofail = keep booting if the mount fails\nuid=1000 / gid=1000 = ownership; rw; user = allow non-root mounting; exec; umask=000 = permissive\nFirst 0 = dump (deprecated), second 0 = fsck order (root = 1, btrfs root = 0, others 0 or 2)\nShort form UUID=&lt;partition UUID&gt; /media/foo somefs is equivalent to UUID=&lt;partition UUID&gt; /media/foo somefs defaults 0 0\n\nApply:\nsudo systemctl daemon-reload\nsudo mount -a\nOptional convenience symlink:\nln -s /media/windows ~/Windows"
+}

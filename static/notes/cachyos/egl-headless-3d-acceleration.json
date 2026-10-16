@@ -1,0 +1,13 @@
+{
+  "slug": "cachyos/egl-headless-3d-acceleration",
+  "filePath": "CachyOS/EGL Headless 3D Acceleration.md",
+  "title": "EGL Headless 3D Acceleration",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/qemu-user-session"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-01-28).\nEGL Headless (3D acceleration)\nFor guests that use OpenGL \u2014 Linux, BSD, Android \u2014 you get much better performance than software paravirtualization by translating calls from the VM straight to your GPU and back, without dedicating GPU hardware to the VM (i.e. no passthrough).\nSetup\nPrerequisite: the VM must be eligible for 3D acceleration and running in User Session mode \u2014 see QEMU User Session.\n\nOpen the VM in VMM and follow the wiki\u2019s picture to add EGL Headless.\nIn Video Virtio, tick 3D Acceleration.\n\nThat is the entire change. The page lists no packages, systemd services, config paths, or kernel parameters \u2014 it is purely a VMM UI toggle."
+}

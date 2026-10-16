@@ -1,0 +1,12 @@
+{
+  "slug": "attachment-demo",
+  "filePath": "Attachment Demo.md",
+  "title": "Attachment Demo",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "note/attachment"
+  ],
+  "content": "Attachment Demo\nA random photo, embedded. Because this note embeds it, Obsidian links the attachment \u2014 so it\nshows up as its own node in the graph view (your Show attachments toggle is already on).\n\n\n                  \n                  Try this \n                  \n                \n\nCtrl+G \u2192 find the Random Photo.jpg node hanging off this note. Then unlink it (delete the\n![[...]] line) and watch the node vanish. Attachments aren\u2019t in the graph by existing \u2014 only by\nbeing linked.\n\n\nInbox"
+}

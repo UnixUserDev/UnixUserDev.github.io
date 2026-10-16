@@ -1,0 +1,15 @@
+{
+  "slug": "cachyos/why-cachyos",
+  "filePath": "CachyOS/Why CachyOS.md",
+  "title": "Why CachyOS",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/optimized-repositories-and-x86-64-levels",
+    "cachyos/cachyos-kernels",
+    "cachyos/sched-ext-schedulers"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-01-27).\nWhy CachyOS\nA performance-centric Arch Linux distribution: rolling release with a custom toolchain.\nOptimized packages and repositories\n\nA large selection of packages recompiled for modern CPU architectures: x86-64-v3, x86-64-v4, and Zen4+ \u2014 see Optimized Repositories and x86-64 Levels.\nPackage browser: packages.cachyos.org/.\n\nCustom kernel\n\nThe CachyOS base kernel patch set tunes kernel parameters to improve desktop responsiveness.\nCherry-picks patch sets that are not mainlined or not in the kernel stable revision; these get internal testing before release so stability is not impacted. See CachyOS Kernels.\n\nCPU scheduler support\n\nEEVDF (the default Linux scheduler): the CachyOS kernel carries custom EEVDF tunables to improve desktop responsiveness (throughput-oriented by default).\nBORE (Burst-Oriented Response Enhancer, github.com/firelzrd/bore-scheduler): enhances EEVDF for a more fluid experience under heavy workloads \u2014 for maximum interactivity. Ships in the linux-cachyos-bore variant. See sched-ext Schedulers.\n\nUser-friendly tools\n\nCustom hardware detection automatically identifies and installs the necessary drivers and packages, removing manual driver hunting after install.\nThe installer lets you choose desktop environment, packages, filesystem, boot manager, kernel and more. Custom-package list source: github.com/CachyOS/cachyos-calamares/blob/cachyos-limine-qt6/src/modules/netinstall/netinstall.yaml.\n\nCachyOS-maintained applications\n\nCachyOS Hello (github.com/CachyOS/CachyOS-Welcome) \u2014 welcome app for tweaks, fixes, and package installs.\nCachyOS Package Installer (github.com/CachyOS/packageinstaller) \u2014 GUI for installing applications.\nCachyOS Kernel Manager (github.com/CachyOS/kernel-manager) \u2014 install repo kernels, configure your own, manage the sched-ext framework.\ncachyos-rate-mirrors (github.com/CachyOS/rate-mirrors) \u2014 ranks Arch and CachyOS mirrors for optimal pacman download speed.\nsystemd-boot-manager (github.com/CachyOS/systemd-boot-manager) \u2014 auto-generates new systemd-boot entries; configured via /etc/sdboot-manage.conf.\n\nCommunity\nDiscord discord.gg/cachyos-862292009423470592 and forum discuss.cachyos.org."
+}

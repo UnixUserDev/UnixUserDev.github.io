@@ -1,0 +1,14 @@
+{
+  "slug": "cachyos/cachyos-settings-package",
+  "filePath": "CachyOS/CachyOS Settings Package.md",
+  "title": "CachyOS Settings Package",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/cachyos-kernels",
+    "cachyos/general-system-tweaks"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-07-30).\nCachyOS Settings Package\nEverything below ships in the cachyos-settings package. Upstream: github.com/CachyOS/CachyOS-Settings.\nHelper scripts\n\n\ncachyos-bugreport.sh \u2014 writes a log file to your home directory with system info + logs, then offers to upload to the CachyOS pastebin.\nsudo cachyos-bugreport.sh\n\n\nDLSS Swapper \u2014 updates DLSS DLLs and presets. dlss-swapper pulls the newest DLLs/presets from the NGX Updater; dlss-swapper-dll uses DLLs already in the game directory. Proton-CachyOS has built-in upgrade functionality, and PROTON_DLSS_UPGRADE=1 must not be combined with dlss-swapper \u2014 they do the same thing and conflict.\n\n\ngame-performance \u2014 enables the powerprofilesctl performance profile for the target process (games or anything else) and disables the screensaver while it runs.\n\n\nkerver \u2014 reports current kernel version (checks x86_64 support and CPU compiler optimizations), current I/O scheduler, and a summary of CPU / I/O / sched-ext schedulers if active.\n\n\npaste-cachyos \u2014 CLI uploader to paste.cachyos.org; content must be piped in:\n&lt;command&gt; | paste-cachyos\n\n\npci-latency \u2014 tries to reduce latency / improve performance for PCI sound cards by changing the PCI latency timer. Ships as a binary (on demand) and a systemd service (applies at boot).\n\n\nsbctl-batch-sign \u2014 helper for signing the files Secure Boot needs; useful when dual booting Windows (lots of EFI files). Scans for unsigned files with sbctl verify, signs with sbctl sign when needed, and skips files belonging to Windows, GRUB, and the .mui/.dll extensions. Not compatible with Limine.\n\n\ntopmem \u2014 Lua script showing the top memory-consuming processes by RAM, SWAP and KSM (Kernel Same-page Merging) sharing.\n\n\nzink-run \u2014 forces Zink (OpenGL over Vulkan) for the target process via environment variables; useful in Steam for games that behave better under Zink.\n\n\nOverrides\nAn override is a config file you create to change cachyos-settings defaults without touching the originals.\n\n\nsysctl \u2014 tweaks are documented in /usr/lib/sysctl.d/70-cachyos-settings.conf; copy the entry you want into a new modified file under /etc/sysctl.d/.\n\n\nudev \u2014 same idea: create your own file under /etc/udev/rules.d/ with the same name as the original. List the shipped udev files with:\npacman -Ql cachyos-settings | grep udev\n\n\nRelated: CachyOS Kernels, General System Tweaks."
+}

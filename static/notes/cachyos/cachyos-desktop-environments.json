@@ -1,0 +1,18 @@
+{
+  "slug": "cachyos/cachyos-desktop-environments",
+  "filePath": "CachyOS/CachyOS Desktop Environments.md",
+  "title": "CachyOS Desktop Environments",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/kde-plasma-on-cachyos",
+    "cachyos/niri-keybinds-and-faq",
+    "cachyos/hyprland-setup-and-keybinds",
+    "cachyos/i3-keybinds-and-faq",
+    "cachyos/qtile-keybinds-and-faq",
+    "cachyos/switching-desktop-environments"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-07-05).\nCachyOS Desktop Environments\nSeveral DEs/WMs are offered; pick exactly one during installation.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#DesktopWhat it is1KDE PlasmaComprehensive, flexible DE using the KWin window manager; easy theme/widget downloads2NiriScrollable tiling Wayland compositor; continuous grid, keyboard + touchpad optimized3i3Popular X11 tiling WM; one self-contained config file4QtileX11/Wayland WM configured in Python; various layouts and widgets5WayfireWayland compositor based on wlroots; customization + aesthetics6GNOMETouch-style interface; easy to learn, limited customization, can be hard to configure7XFCELightweight, traditional drop-down/pop-up menus; Compiz-compatible8bspwmC-based X11 WM; tiling, stacking, tabbing layouts9BudgieSimple, elegant, built with GTK10CinnamonAdvanced features with a traditional UX11CosmicPerformance-oriented DE built with Rust and Smithay12HyprlandDynamic-tiling Wayland compositor; ships CachyOS Noctalia by default13LXDEFast, low-resource X11 DE using Openbox14LXQtLightweight Qt DE (LXDE + Razor-qt merger)15MateTraditional DE forked from GNOME 216OpenboxPopular X11 WM; excellent docs, many themes17SwayTiling Wayland compositor, drop-in replacement for i3; reuses existing i3 config\nCachyOS-maintained dotfiles:\n\nNiri \u2014 github.com/CachyOS/cachyos-niri-noctalia\ni3 \u2014 github.com/CachyOS/cachyos-i3wm-settings\nQtile \u2014 github.com/CachyOS/cachyos-qtile-settings\nWayfire \u2014 github.com/CachyOS/cachyos-wayfire-settings\nHyprland \u2014 github.com/CachyOS/cachyos-hypr-noctalia\n\nPer-desktop pages: KDE Plasma on CachyOS, Niri Keybinds and FAQ, Hyprland Setup and Keybinds, i3 Keybinds and FAQ, Qtile Keybinds and FAQ, Switching Desktop Environments."
+}

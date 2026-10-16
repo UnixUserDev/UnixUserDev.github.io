@@ -1,0 +1,14 @@
+{
+  "slug": "cachyos/managing-hardware-with-chwd",
+  "filePath": "CachyOS/Managing Hardware with chwd.md",
+  "title": "Managing Hardware with chwd",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/switching-between-nvidia-and-amd-gpus",
+    "cachyos/dual-gpu-setup"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-03-22).\nManaging Hardware with chwd\nchwd = CachyOS Hardware Detection (github.com/CachyOS/chwd/). It installs the packages and drivers the running system needs: NVIDIA GPUs, T2 MacBooks, handhelds (Steam Deck, ROG Ally). It normally runs at install time but works post-install too.\nAuto-configure (installs and configures drivers/packages so the system runs optimally):\nsudo chwd -a\nInstall a specific profile \u2014 list them first:\nchwd --list-all\nExample PCI profiles and priorities from the wiki output: nouveau 18, nvidia-dkms-470xx 14, nvidia-dkms-580xx 12, nvidia-open-dkms 10, macbook-t2 9, virtualmachine 5, amd 4, intel 4, fallback 3, handheld.intel-msi-claw 2, handheld.rog-ally 2, handheld.steam-deck 2, handheld 1, broadcom-wl 1.\nInstall a profile:\nsudo chwd -i amd\nOutput: &gt; Installing amd ... then &gt; Successfully installed amd.\nFull option list, verbatim from chwd --help:\nUsage: chwd [OPTIONS]\nOptions:\n  -i, --install &lt;profile&gt;          Install profile\n  -r, --remove &lt;profile&gt;           Remove profile\n  -d, --detail                     Show detailed info for listings\n  -f, --force                      Force reinstall\n      --list-installed             List installed kernels\n      --list                       List available profiles for all devices\n      --list-all                   List all profiles\n  -a, --autoconfigure [&lt;classid&gt;]  Autoconfigure\n      --ai_sdk                     Toggle AI SDK profiles\n      --pmcachedir &lt;PMCACHEDIR&gt;    [default: /var/cache/pacman/pkg]\n      --pmconfig &lt;PMCONFIG&gt;        [default: /etc/pacman.conf]\n      --pmroot &lt;PMROOT&gt;            [default: /]\n  -h, --help                       Print help\n  -V, --version                    Print version\n\nThe wiki defers to chwd --help for anything else.\nRelated: Switching Between NVIDIA and AMD GPUs, Dual GPU Setup."
+}

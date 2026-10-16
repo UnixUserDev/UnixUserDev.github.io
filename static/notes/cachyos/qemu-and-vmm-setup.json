@@ -1,0 +1,15 @@
+{
+  "slug": "cachyos/qemu-and-vmm-setup",
+  "filePath": "CachyOS/QEMU and VMM Setup.md",
+  "title": "QEMU and VMM Setup",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/qemu-user-session",
+    "cachyos/egl-headless-3d-acceleration",
+    "cachyos/virtio-venus-3d-acceleration"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-03-08).\nQEMU and VMM Setup\nInstalling Virtual Machine Manager (VMM) + QEMU on CachyOS.\nPackages\nqemu-full, virt-manager, swtpm.\nswtpm is only needed for Windows 11 guests when you have no compatible TPM module to pass through \u2014 otherwise you can add a TPM later during configuration.\n# Install the packages\nsudo pacman -S qemu-full virt-manager swtpm\n \n# Force libvirt to use iptables\necho &#039;firewall_backend = &quot;iptables&quot;&#039; | sudo tee -a /etc/libvirt/network.conf\n \n# Add the user to the libvirt group\nsudo usermod -aG libvirt $USER\n \n# LXC backend (optional, for Linux containers)\nsystemctl enable --now libvirtd.service\n \n# QEMU backend (for VMs)\nsystemctl enable --now libvirtd.socket\n \n# Bring Internet up in a VM whenever one starts\nsudo virsh net-autostart default\n \n# Let the whole VM subnet route out \u2014 consider tighter rules for your threat model\nsudo ufw route allow from 192.168.122.0/24\n\nConfig file touched: /etc/libvirt/network.conf.\nBoth backends can be enabled at once; they do not conflict.\nBefore creating a VM, the wiki defers to QEMU User Session.\n\nCreating a VM in VMM\n\nEdit -&gt; Preferences -&gt; \u2705 Enable XML editing.\nNew VM (star/play icon, or File -&gt; New Virtual Machine), choose Connection:, locate the .iso via Browse... (add a dedicated ISO pool with + (Add Pool); the user-session pool path lives in ~/.config/libvirt/).\nIf the OS is not autodetected, untick autodetection and pick the closest match manually (CachyOS = Arch Linux).\nSet RAM and CPU cores (changeable later), create virtual storage (makes a .qcow2) or give a path.\nTick Customize configuration before install -&gt; Finish.\nLinux guests: in Overview confirm chipset Q35 and firmware UEFI.\nWindows 11: confirm a TPM is present, else Add Hardware -&gt; TPM (Emulated or Passthrough), then Finish.\nClick Begin Installation.\nGuest uses OpenGL and/or ships libvulkan \u2192 see EGL Headless 3D Acceleration and Virtio-Venus 3D Acceleration respectively.\n\nWindows 11 performance notes\n\nInstall Virtio-Win drivers (RedHat) inside the guest.\nIntel iGPU: look into GVT-g and MDEV. Intel iGPU + dGPU: GVT-d.\ndGPU passthrough (iGPU + dGPU, or 2+ dGPUs): VFIO.\n"
+}

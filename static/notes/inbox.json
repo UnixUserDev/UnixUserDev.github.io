@@ -1,0 +1,12 @@
+{
+  "slug": "inbox",
+  "filePath": "Inbox.md",
+  "title": "Inbox",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "inbox"
+  ],
+  "content": "Inbox\nEverything funnels here. No orphans \u2014 every note in the vault has a path back to this note.\n\nRule: every note links to Inbox, directly or through any chain. Keeping your one category tag doesn\u2019t change that.\n"
+}

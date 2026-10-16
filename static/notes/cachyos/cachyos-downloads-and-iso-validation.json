@@ -1,0 +1,14 @@
+{
+  "slug": "cachyos/cachyos-downloads-and-iso-validation",
+  "filePath": "CachyOS/CachyOS Downloads and ISO Validation.md",
+  "title": "CachyOS Downloads and ISO Validation",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/cachyos-faq-and-troubleshooting",
+    "cachyos/preparing-a-cachyos-usb-installer"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-08-10).\nDownloads and Validation\nOfficial ISO sources\n\nWebsite \u2014 cachyos.org/download\nSourceForge \u2014 sourceforge.net/projects/cachyos-arch/files/\nCachyOS mirror \u2014 mirror.cachyos.org/ISO/\n\nCurrent ISO values (as published on the page)\n\nVersion: 260809\nSHA256: 959f6577f45e25ee9fd8c220fd221b08e4ea79412c7315c0f922dd6d86d5e33c\nSHA256 file: mirror.cachyos.org/ISO/desktop/260809/cachyos-desktop-linux-260809.iso.sha256\nSignature file: cdn77.cachyos.org/ISO/desktop/260809/cachyos-desktop-linux-260809.iso.sig\n\n\nThese are point-in-time values. Re-check the page before downloading \u2014 a rolling distro\u2019s ISO changes every few weeks.\n\nVerifying integrity (SHA256)\nAlways verify the ISO before installing or writing bootable media.\nWindows (CMD/PowerShell as Administrator, in the folder holding both files):\n# Example:\ncertUtil -hashfile cachyos-desktop-linux-260809.iso SHA256\nCompare against the hash in the downloaded file; match \u2192 proceed.\nVerifying authenticity (GPG)\n\n\nImport the reference key:\ngpg --keyserver hkps://keys.openpgp.org --recv-key F3B607488DB35A47\n\n\nDownload the ISO plus its .sig, then:\ngpg --verify full_iso_name.iso.sig full_iso_name.iso\n\n\nA genuine ISO returns Good signature:\ngpg: Signature made dom 09 ago 2026 13:30:06 -03\ngpg:                using RSA key 882DCFE48E2051D48E2562ABF3B607488DB35A47\ngpg: Good signature from &quot;CachyOS &lt;...&gt;&quot; [unknown]\ngpg: WARNING: This key is not certified with a trusted signature!\ngpg:          There is no indication that the signature belongs to the owner.\nPrimary key fingerprint: 882D CFE4 8E20 51D4 8E25  62AB F3B6 0748 8DB3 5A47\n\n\nGotcha: no Good signature string, or a key ID mismatch \u2192 do not use the ISO. A bad signature means tampering or corruption; make sure the image came from a legitimate CachyOS source.\n\nThe key F3B607488DB35A47 is the same one used for the keyring fix in CachyOS FAQ and Troubleshooting.\nNext: Preparing a CachyOS USB Installer."
+}

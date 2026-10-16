@@ -1,0 +1,13 @@
+{
+  "slug": "cachyos/cachy-chroot-recovery-helper",
+  "filePath": "CachyOS/cachy-chroot Recovery Helper.md",
+  "title": "cachy-chroot Recovery Helper",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/cachyos-faq-and-troubleshooting"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-07-25).\ncachy-chroot Recovery Helper\ncachy-chroot (github.com/CachyOS/cachy-chroot) chroots into an existing CachyOS or Arch-based install.\n\nLists every partition found on the machine, supports listing BTRFS subvolumes, and supports encrypted systems via LUKS.\nMaps each fstab entry to its crypttab entry and gracefully closes all LUKS volumes on exit.\nSupports essentially any filesystem the Linux kernel supports \u2014 except ZFS.\n\nUsage\nNavigate with arrow keys, select with ENTER. \u276f marks the current selection; ? means it\u2019s prompting for input.\n\n\nBoot a CachyOS live ISO.\n\n\nOpen a terminal and become root: sudo su.\n\n\nMake sure you have the latest version:\npacman -Sy cachy-chroot\n\n\nRun it:\ncachy-chroot\nIt scans and lists all available partitions.\n\n\nSelect the partition holding the root filesystem.\n\n\nIt tries to auto-mount every partition and subvolume listed in the root device\u2019s /etc/fstab. Failed mounts are reported and can be mounted manually; answer no to skip.\n\n\nYou are in the chroot; the prompt looks like:\n[root@CachyOS /]#\n\nExample maintenance commands:\npacman -Syu\nmkinitcpio -P\n\n\nExit with exit or CTRL+D.\n\n\nOn exit it cleans up mounted partitions and closes LUKS containers, returning you to the live shell.\n\n\nTroubleshooting\n\nNo partitions found \u2014 make sure the disk is connected and recognized by the live system; check lsblk or fdisk -l.\nAutomount fails for some partitions \u2014 mount them manually from inside the chroot; cachy-chroot ignores failures and continues.\n\nFAQ\n\nMounting extra partitions \u2014 useful for a broken/missing fstab (mount /boot or /home manually to repair or recover data), or after partition UUIDs changed (mount and fix fstab when the system won\u2019t boot).\nArch Wiki chroot reference: wiki.archlinux.org/title/Chroot.\n\nRelated: CachyOS FAQ and Troubleshooting (bootloader recovery walks through this)."
+}

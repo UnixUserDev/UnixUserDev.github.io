@@ -1,0 +1,14 @@
+{
+  "slug": "cachyos/qtile-keybinds-and-faq",
+  "filePath": "CachyOS/Qtile Keybinds and FAQ.md",
+  "title": "Qtile Keybinds and FAQ",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/switching-desktop-environments",
+    "cachyos/cachyos-desktop-environments"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2025-11-02).\nQtile Keybinds and FAQ\nCredits to Shendisx (github.com/Shendisx). Provides both X11 and Wayland sessions.\nMod key is the Windows key (SUPER), changeable in the config; some binds use mod1 (ALT).\nNotable keybinds\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActionBindTerminalSuper+ReturnRofi program launcherAlt+SpaceFile manager (Thunar)Super+EKill focused windowSuper+QWorkspacesSuper+1 \u2026 Super+9Drag floating windowSuper+Left_ClickResize floating windowSuper+Right_ClickBring window to frontSuper+Scroll_Wheel_ButtonRun FlameshotPrintFull-screen screenshot (saved to ~/Pictures)Control+PrintReload Qtile configSuper+Control+RExit Qtile (end X session)Super+Control+Q\nDocumented categories: Application Control, Workspace Navigation, Window Navigation, Window Management, Window Resizing, Layout Control, Mouse Controls, Screenshot, System Controls.\nFAQ\n\nVolume widget shows an error or is stuck at 0% \u2014 sometimes Qtile\u2019s volume widget cannot detect your default output device. See docs.qtile.org/en/latest/manual/ref/widgets.html#pulsevolume.\nIs there an autostart.sh Yes \u2014 it lives in scripts/ inside the Qtile folder.\nDoes the bar respond to the mouse? Yes:\n\nScrolling on the workspace dots (Active/Inactive/Empty) switches left/right; clicking one switches to it.\nClicking the layout (columns by default) cycles available layouts.\nClicking CPU/RAM usage opens Btop (TUI system monitor).\nInteracting with the volume widget raises/lowers/mutes.\nMore: docs.qtile.org/en/stable/.\n\n\n\nRelated: Switching Desktop Environments, CachyOS Desktop Environments."
+}

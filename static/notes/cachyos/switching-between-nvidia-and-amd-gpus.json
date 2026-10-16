@@ -1,0 +1,15 @@
+{
+  "slug": "cachyos/switching-between-nvidia-and-amd-gpus",
+  "filePath": "CachyOS/Switching Between NVIDIA and AMD GPUs.md",
+  "title": "Switching Between NVIDIA and AMD GPUs",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/boot-manager-configuration",
+    "cachyos/managing-hardware-with-chwd",
+    "cachyos/dual-gpu-setup"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-09-15).\nSwitching Between NVIDIA and AMD GPUs\nPrerequisites: the replacement GPU is properly installed and connected, and the system is fully up to date:\nsudo pacman -Syu\nNVIDIA \u2192 AMD, in order\n\n\nMake a note of your username and password \u2014 you may need to log in via TTY.\n\n\nCheck which NVIDIA driver profile is installed:\nsudo chwd --list-installed\n\n\nRemove that profile with -r:\nsudo chwd -r &lt;profile-name&gt;\n\n\nShut down and install the AMD GPU. If the system lands on a black screen, press CTRL+ALT+F3 to reach a TTY and log in (mind NUMLOCK).\n\n\nAfter booting, let chwd detect the GPU and install the AMD packages:\nsudo chwd -a\n\n\nUpdate the initramfs and bootloader config. CachyOS ships a pacman hook that rebuilds the initramfs automatically when drivers are added/removed, so the right drivers load at boot:\n\nGRUB \u2014 sudo grub-mkconfig -o /boot/grub/grub.cfg\nsystemd-boot \u2014 sudo sdboot-manage gen\nLimine \u2014 sudo limine-mkinitcpio\n\nSee Boot Manager Configuration.\n\n\nReboot:\nsudo reboot\n\n\nVerify the AMD drivers are active:\nvulkaninfo | grep &quot;deviceName&quot;\nor\nglxinfo | grep &quot;OpenGL renderer&quot;\nIf your AMD GPU is listed, they are working.\n\n\n\nCaveat: the wiki page is a tabbed guide (\u201cFrom NVIDIA to AMD\u201d / \u201cFrom AMD to NVIDIA\u201d). Only the NVIDIA\u2192AMD tab body was recoverable \u2014 do not assume the reverse direction mirrors it. AMD drivers are in the kernel, so going AMD\u2192NVIDIA is mainly cleaning up old config, but check the page for its own steps.\n\nRelated: Managing Hardware with chwd, Dual GPU Setup."
+}

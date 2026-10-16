@@ -1,0 +1,14 @@
+{
+  "slug": "cachyos/niri-keybinds-and-faq",
+  "filePath": "CachyOS/Niri Keybinds and FAQ.md",
+  "title": "Niri Keybinds and FAQ",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/switching-desktop-environments",
+    "cachyos/cachyos-desktop-environments"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-01-25).\nNiri Keybinds and FAQ\nNiri is a scrollable-tiling Wayland compositor with a column-based layout: windows are arranged in columns you scroll horizontally (an \u201cinfinite desktop\u201d metaphor \u2014 good for ultrawide monitors and many open apps).\nCachyOS dotfiles are maintained by Ly-sec (github.com/Ly-sec). For Noctalia issues see docs.noctalia.dev/.\nThe mod key is the Windows key (SUPER); it can be changed in the config file.\nNotable keybinds\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActionBindTerminalSuper+ReturnApp launcherSuper+Control+ReturnBrowser (Firefox)Super+BFile managerSuper+EClose windowSuper+QLockSuper+Alt+LScreenshotsControl+Shift+1/2/3Emergency escape (restore control)Super+EscapeQuit NiriControl+Alt+Delete\nDocumented bind categories: Application Control, Workspace Navigation, Window Navigation, Monitor Navigation, Window Management, Layout Controls, Window Modes, Screenshots, System Controls, Media Controls, Advanced Navigation.\nCommon config changes\nKeyboard layout \u2014 edit the input section:\ninput { keyboard { xkb { layout &quot;us&quot; // Change from &quot;de&quot; to your preferred layout } } }\n\nGaps / window appearance \u2014 the layout section:\nlayout {\n    gaps 8 // Change gap size\n    focus-ring {\n        width 2\n        active-color &quot;#your-color&quot;\n        inactive-color &quot;#your-color&quot;\n    }\n}\n\nStartup applications:\nspawn-at-startup &quot;your-application&quot;\n\nMultiple monitors \u2014 uncomment and modify the output section. Get the correct names first:\nniri msg outputs\noutput &quot;DP-1&quot; {\n    mode &quot;1920x1080@60.000&quot;\n    scale 1\n}\n\nFAQ\n\nStuck in a fullscreen app that eats keybinds? Super+Escape restores control \u2014 it disables any active keyboard shortcut inhibitor.\n\nRelated: Switching Desktop Environments, CachyOS Desktop Environments."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "cachyos/preparing-a-cachyos-usb-installer",
+  "filePath": "CachyOS/Preparing a CachyOS USB Installer.md",
+  "title": "Preparing a CachyOS USB Installer",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/optimized-repositories-and-x86-64-levels",
+    "cachyos/installing-cachyos-on-a-desktop-or-laptop"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2025-12-03).\nPreparing a CachyOS USB Installer\nBefore you start\n\nInstallation is online only \u2014 a stable, reasonably fast internet connection is mandatory. Unstable internet means long install times or outright failure.\nNot recommended in a VM (broken/incorrect config is possible); bare metal is recommended.\nMinimum: 3 GB RAM, 30 GB storage, stable internet.\nUSB drive: at least 8 GB free.\nKeep a copy of the ISO on the drive (or elsewhere) for later troubleshooting via chroot.\n\nx86-64 microarchitecture levels\n\nx86-64-v3 \u2014 AMD Family 15h (Excavator), 17h (Zen/Zen+/Zen 2), 19h (Zen 3); Intel 4th Gen (Haswell) through 10th Gen (Comet Lake), and 12th\u201315th Gen (Alder/Raptor/Raptor Refresh/Lunar/Arrow Lake).\nx86-64-v4 \u2014 AMD 19h (Zen 4/Zen 4c), 1Ah (Zen 5/Zen 5c); Intel Skylake X, Cannon Lake, Ice/Cascade/Cooper Lake, Tiger/Sapphire/Emerald Rapids, Rocket Lake.\n\nRelevant to Optimized Repositories and x86-64 Levels.\nWriting the USB\nbalenaEtcher (Linux/macOS/Windows)\n# Extract zip file:\nbsdtar xvf &lt;zip file name&gt;\n# cd to the new folder:\ncd balenaEtcher-linux-x64/\n# Execute balenaEtcher:\n./balena-etcher\nCLI (Linux &amp; macOS)\nIdentify the drive first:\n# Linux \u2014 the USB drive could be e.g. /dev/sda, by disk model and size\nsudo fdisk -l\n \n# macOS \u2014 USB drives are identified as /dev/diskN where N is 0,1,...\ndiskutil list\nThen write it (replace &lt;usbdrive&gt; with the drive label):\nsudo dd bs=4M if=full_iso_name.iso of=/dev/&lt;usbdrive&gt; status=progress oflag=sync\nRufus (Windows only)\nDevice -&gt; Boot selection -&gt; SELECT ISO -&gt; START.\nVentoy (Linux &amp; Windows)\n# Replace version with the correct one, e.g. ventoy-1.1.07-linux.tar.gz\nbsdtar xvf ventoy-version-linux.tar.gz\n# cd to the new folder (version might change)\ncd ventoy-1.1.07/\n# It will ask for administrative privileges\n./VentoyGUI.x86_64\nThen place the ISO into the new usable partition of the drive.\nNext: Installing CachyOS on a Desktop or Laptop."
+}

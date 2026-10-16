@@ -1,0 +1,14 @@
+{
+  "slug": "cachyos/i3-keybinds-and-faq",
+  "filePath": "CachyOS/i3 Keybinds and FAQ.md",
+  "title": "i3 Keybinds and FAQ",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/switching-desktop-environments",
+    "cachyos/cachyos-desktop-environments"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2025-11-02).\ni3 Keybinds and FAQ\nCredits to vnepogodin (github.com/vnepogodin) for the simple config. X11 only \u2014 not compatible with Wayland.\nMod key is the Windows key (SUPER), changeable in the config file.\nNotable keybinds\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActionBindTerminalSuper+ReturnRofi program launcherControl+SpaceKill focused windowSuper+QWorkspacesSuper+1 \u2026 Super+9Resize modeSuper+R (exit with Return / Escape / Super+R)Lock screenSuper+LReload i3 configSuper+Shift+CRestart i3 in placeSuper+Shift+RExit i3 (end X session)Super+Shift+E\nDocumented categories: Application Control, Workspace Navigation, Window Navigation, Window Management, Layout Control, Resize Mode, System Controls.\nFAQ\nAutostart a program (e.g. set a wallpaper at start) \u2014 i3\u2019s flexible autostart feature. At the end of the config file there are lines starting with exec and exec_always:\nexec chromium\n\nThat starts Chromium in workspace 1 whenever you log into your i3 session.\nexec vs exec_always \u2014 exec_always runs the action even after i3 gets reloaded. Reference: i3wm.org/docs/userguide.html#exec.\nDo multimedia keys work? Yes. General reference: i3wm.org/docs/userguide.html.\nRelated: Switching Desktop Environments, CachyOS Desktop Environments."
+}

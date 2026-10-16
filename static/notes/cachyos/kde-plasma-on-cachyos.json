@@ -1,0 +1,14 @@
+{
+  "slug": "cachyos/kde-plasma-on-cachyos",
+  "filePath": "CachyOS/KDE Plasma on CachyOS.md",
+  "title": "KDE Plasma on CachyOS",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/switching-desktop-environments",
+    "cachyos/cachyos-desktop-environments"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-08-24).\nKDE Plasma on CachyOS\nShort page \u2014 an X11 session note, an xorg-server note, and two FAQ items.\nMissing X11 session\nKDE split its development into multiple packages and the X11 session was removed from the default installation. Install it with:\nsudo pacman -S plasma-x11-session kwin-x11\nAfter installation, X11 appears as an option on the login screen.\nMissing xorg-server (black screen at login)\nSince the CachyOS 26.01 installer, xorg-server is no longer installed \u2014 and neither plasma-x11-session nor kwin-x11 pulls it in as a dependency. Not installing the Xorg server and its components manually results in a black screen during login.\nsudo pacman -S xorg-server\nFAQ\nThe \u201cEmerald\u201d look from the KDE screenshots \u2014 it is the Emerald Theme plus the Qogir Icon Theme, neither installed by default:\nsudo pacman -S cachyos-emerald-kde-theme-git qogir-icon-theme\nApply both in Appearance &amp; Style - Colors &amp; Themes.\nThe login screen does not mirror the desktop \u2014 the page only points at a screenshot (kde-login-screen-settings.png); no textual steps are given.\nRelated: Switching Desktop Environments, CachyOS Desktop Environments."
+}

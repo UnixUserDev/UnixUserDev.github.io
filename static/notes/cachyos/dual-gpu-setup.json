@@ -1,0 +1,15 @@
+{
+  "slug": "cachyos/dual-gpu-setup",
+  "filePath": "CachyOS/Dual GPU Setup.md",
+  "title": "Dual GPU Setup",
+  "links": [
+    "cachyos/cachyos-wiki-notes",
+    "cachyos/managing-hardware-with-chwd",
+    "cachyos/switching-between-nvidia-and-amd-gpus",
+    "cachyos/gaming-on-cachyos"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-07-26).\nDual GPU Setup (hybrid graphics)\nHybrid graphics = iGPU (CPU) + dGPU working in tandem, mainly on laptops. The dGPU can sleep when idle to save power and wake on demand.\nPRIME is the unifying Linux hybrid-graphics tech (NVIDIA Optimus / AMD Dynamic Switchable Graphics); PRIME Offload moves rendering between GPUs.\n\nThe closed NVIDIA driver supports PRIME from 435.17; 390xx/340xx will not work.\nAvoid outdated methods: nvidia-xrun, Bumblebee (unsupported), optimus-manager.\n\nNVIDIA: nothing to configure\nIn CachyOS, PRIME Offload needs no configuration \u2014 nvidia-utils + cachyos-settings suffice.\nLaunch a program on the NVIDIA dGPU:\n__NV_PRIME_RENDER_OFFLOAD=1 __VK_LAYER_NV_optimus=NVIDIA_only __GLX_VENDOR_LIBRARY_NAME=nvidia &lt;program&gt;\nShorthand via nvidia-prime:\nsudo pacman -S nvidia-prime\nprime-run &lt;program&gt;\nSome DX12 games need this before prime-run:\nVK_DRIVER_FILES=/usr/share/vulkan/icd.d/nvidia_icd.json\nMesa pairs (AMD+AMD, AMD+Intel, Intel+Nouveau)\nSet DRI_PRIME=1 before the app. Nothing else to configure.\nPer-application (graphical)\n\n\nLutris \u2192 Preferences \u2192 Global Options \u2192 Display \u2192 select the GPU.\n\n\nSteam \u2192 Properties \u2192 Launch options, e.g.:\nprime-run %command%\n\nForce the iGPU (Radeon example):\nVK_DRIVER_FILES=/usr/share/vulkan/icd.d/radeon_icd.x86_64.json:/usr/share/vulkan/icd.d/radeon_icd.i686.json %command%\n\n\n\nDesktop integration via switcheroo-control\n\n\nKDE Plasma \u2014 needs switcheroo-control (enabled by default on CachyOS fresh installs via chwd):\nsudo pacman -S switcheroo-control\nsudo systemctl enable --now switcheroo-control\nThen right-click the desktop entry \u2192 Properties \u2192 Application \u2192 Advanced Options \u2192 check \u201cRun using dedicated graphics card\u201d. Works for non-NVIDIA PRIME configs too (AMD APU + AMD dedicated).\n\n\nGNOME \u2014 install switcheroo-control, right-click the icon \u2192 \u201cRun using discrete graphics\u201d. GNOME does not remember the choice.\n\n\nCinnamon \u2014 right-click the desktop entry \u2192 Properties \u2192 enable the relevant option; needs switcheroo-control + the service.\n\n\nRelated: Managing Hardware with chwd, Switching Between NVIDIA and AMD GPUs, Gaming on CachyOS."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "cachyos/navigating-the-cachyos-wiki",
+  "filePath": "CachyOS/Navigating the CachyOS Wiki.md",
+  "title": "Navigating the CachyOS Wiki",
+  "links": [
+    "cachyos/cachyos-wiki-notes"
+  ],
+  "tags": [
+    "note/cachyos"
+  ],
+  "content": "Part of CachyOS Wiki Notes. From the official CachyOS wiki (last updated 2026-01-02). This one is about using the wiki itself \u2014 metadata, but two bits are genuinely useful.\nNavigating the CachyOS Wiki\n\nThe wiki is written for CachyOS-specific info, but much of it applies to Arch in general \u2014 cross-check the Arch Wiki (wiki.archlinux.org/title/Main_page) for extra context and detail.\nFeedback: every page has an Edit page button at the bottom linking straight to the file on GitHub; issues go to github.com/CachyOS/wiki.\nSearch first: search bar at the top, right of the CachyOS logo.\nSidebars: the left sidebar is the scrollable global table of contents; the right sidebar usually shows the current page\u2019s sections.\nInteractive elements \u2014 two traps when reading or scraping the wiki:\n\nTabs hold related content; check every tab, or you lose half the page.\nExpandable sections (e.g. \u201cManual Installation (Advanced)\u201d) hide detail until clicked.\n\n\nCode blocks all have a Copy to clipboard button.\nPay attention to notes, tips, warnings and cautions \u2014 the page calls them out as the place common pitfalls are documented.\nTheme selector (Dark/Light/Auto) and language selector live in the header. Non-English translations exist but lag the English pages.\n\n\nPractical takeaway: any automated extraction of this wiki that does not render tabs and expandables will silently miss content. That happened while building these notes \u2014 see the \u201cGap\u201d callouts in this folder.\n"
+}
