@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Obsidian Vault</title>
+      <link>https://unixuserdev.github.io/obsidian-vault</link>
+      <description>Last 10 notes on Obsidian Vault</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>note</title>
+    <link>https://unixuserdev.github.io/obsidian-vault/tags/note</link>
+    <guid>https://unixuserdev.github.io/obsidian-vault/tags/note</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 16 Oct 2026 01:17:06 GMT</pubDate>
+  </item><item>
+    <title>note/guide</title>
+    <link>https://unixuserdev.github.io/obsidian-vault/tags/note/guide</link>
+    <guid>https://unixuserdev.github.io/obsidian-vault/tags/note/guide</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 16 Oct 2026 01:17:06 GMT</pubDate>
+  </item><item>
+    <title>Tag Index</title>
+    <link>https://unixuserdev.github.io/obsidian-vault/tags/</link>
+    <guid>https://unixuserdev.github.io/obsidian-vault/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 16 Oct 2026 01:17:06 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://unixuserdev.github.io/obsidian-vault/</link>
+    <guid>https://unixuserdev.github.io/obsidian-vault/</guid>
+    <description><![CDATA[ Obsidian Vault Published notes from the vault. Notes Graph Guide . ]]></description>
+    <pubDate>Fri, 16 Oct 2026 01:17:05 GMT</pubDate>
+  </item><item>
+    <title>Graph Guide</title>
+    <link>https://unixuserdev.github.io/obsidian-vault/graph-guide</link>
+    <guid>https://unixuserdev.github.io/obsidian-vault/graph-guide</guid>
+    <description><![CDATA[ Graph Guide How to build the graph by hand — one note, one [[link]], at a time. The one-sentence version The graph is nothing but your links. ]]></description>
+    <pubDate>Thu, 15 Oct 2026 05:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
