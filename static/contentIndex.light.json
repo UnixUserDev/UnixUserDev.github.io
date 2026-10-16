@@ -1,0 +1,670 @@
+{
+  "attachment-demo": {
+    "slug": "attachment-demo",
+    "filePath": "Attachment Demo.md",
+    "title": "Attachment Demo",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "note/attachment"
+    ]
+  },
+  "cachyos/automounting-drives-at-boot": {
+    "slug": "cachyos/automounting-drives-at-boot",
+    "filePath": "CachyOS/Automounting Drives at Boot.md",
+    "title": "Automounting Drives at Boot",
+    "links": [
+      "cachyos/cachyos-wiki-notes"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/boot-manager-configuration": {
+    "slug": "cachyos/boot-manager-configuration",
+    "filePath": "CachyOS/Boot Manager Configuration.md",
+    "title": "Boot Manager Configuration",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/cachyos-boot-managers",
+      "cachyos/btrfs-snapshots",
+      "cachyos/secure-boot-setup",
+      "cachyos/cachyos-faq-and-troubleshooting"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/browser-hardware-acceleration": {
+    "slug": "cachyos/browser-hardware-acceleration",
+    "filePath": "CachyOS/Browser Hardware Acceleration.md",
+    "title": "Browser Hardware Acceleration",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/dual-gpu-setup",
+      "cachyos/cachyos-filesystems"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/btrfs-snapshots": {
+    "slug": "cachyos/btrfs-snapshots",
+    "filePath": "CachyOS/Btrfs Snapshots.md",
+    "title": "Btrfs Snapshots",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/boot-manager-configuration",
+      "cachyos/cachyos-filesystems",
+      "cachyos/cachyos-boot-managers"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/cachyos-boot-managers": {
+    "slug": "cachyos/cachyos-boot-managers",
+    "filePath": "CachyOS/CachyOS Boot Managers.md",
+    "title": "CachyOS Boot Managers",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/boot-manager-configuration",
+      "cachyos/cachyos-filesystems",
+      "cachyos/btrfs-snapshots"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/cachyos-desktop-environments": {
+    "slug": "cachyos/cachyos-desktop-environments",
+    "filePath": "CachyOS/CachyOS Desktop Environments.md",
+    "title": "CachyOS Desktop Environments",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/kde-plasma-on-cachyos",
+      "cachyos/niri-keybinds-and-faq",
+      "cachyos/hyprland-setup-and-keybinds",
+      "cachyos/i3-keybinds-and-faq",
+      "cachyos/qtile-keybinds-and-faq",
+      "cachyos/switching-desktop-environments"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/cachyos-downloads-and-iso-validation": {
+    "slug": "cachyos/cachyos-downloads-and-iso-validation",
+    "filePath": "CachyOS/CachyOS Downloads and ISO Validation.md",
+    "title": "CachyOS Downloads and ISO Validation",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/cachyos-faq-and-troubleshooting",
+      "cachyos/preparing-a-cachyos-usb-installer"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/cachyos-faq-and-troubleshooting": {
+    "slug": "cachyos/cachyos-faq-and-troubleshooting",
+    "filePath": "CachyOS/CachyOS FAQ and Troubleshooting.md",
+    "title": "CachyOS FAQ and Troubleshooting",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/cachy-chroot-recovery-helper",
+      "cachyos/cachyos-boot-managers"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/cachyos-filesystems": {
+    "slug": "cachyos/cachyos-filesystems",
+    "filePath": "CachyOS/CachyOS Filesystems.md",
+    "title": "CachyOS Filesystems",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/btrfs-snapshots",
+      "cachyos/cachyos-boot-managers"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/cachyos-kernel-manager": {
+    "slug": "cachyos/cachyos-kernel-manager",
+    "filePath": "CachyOS/CachyOS Kernel Manager.md",
+    "title": "CachyOS Kernel Manager",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/sched-ext-schedulers"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/cachyos-kernels": {
+    "slug": "cachyos/cachyos-kernels",
+    "filePath": "CachyOS/CachyOS Kernels.md",
+    "title": "CachyOS Kernels",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/cachyos-kernel-manager",
+      "cachyos/optimized-repositories-and-x86-64-levels",
+      "cachyos/sched-ext-schedulers"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/cachyos-settings-package": {
+    "slug": "cachyos/cachyos-settings-package",
+    "filePath": "CachyOS/CachyOS Settings Package.md",
+    "title": "CachyOS Settings Package",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/cachyos-kernels",
+      "cachyos/general-system-tweaks"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/cachyos-wiki-notes": {
+    "slug": "cachyos/cachyos-wiki-notes",
+    "filePath": "CachyOS/CachyOS Wiki Notes.md",
+    "title": "CachyOS Wiki Notes",
+    "links": [
+      "cachyos/why-cachyos",
+      "cachyos/cachyos-faq-and-troubleshooting",
+      "cachyos/cachyos-downloads-and-iso-validation",
+      "cachyos/preparing-a-cachyos-usb-installer",
+      "cachyos/installing-cachyos-on-a-desktop-or-laptop",
+      "cachyos/navigating-the-cachyos-wiki",
+      "cachyos/cachyos-filesystems",
+      "cachyos/cachyos-boot-managers",
+      "cachyos/boot-manager-configuration",
+      "cachyos/cachyos-desktop-environments",
+      "cachyos/post-install-setup",
+      "cachyos/cachyos-kernels",
+      "cachyos/cachyos-kernel-manager",
+      "cachyos/sched-ext-schedulers",
+      "cachyos/optimized-repositories-and-x86-64-levels",
+      "cachyos/cachyos-settings-package",
+      "cachyos/cachy-chroot-recovery-helper",
+      "cachyos/managing-hardware-with-chwd",
+      "cachyos/btrfs-snapshots",
+      "cachyos/automounting-drives-at-boot",
+      "cachyos/general-system-tweaks",
+      "cachyos/dual-gpu-setup",
+      "cachyos/switching-between-nvidia-and-amd-gpus",
+      "cachyos/secure-boot-setup",
+      "cachyos/browser-hardware-acceleration",
+      "cachyos/gaming-on-cachyos",
+      "cachyos/qemu-and-vmm-setup",
+      "cachyos/qemu-user-session",
+      "cachyos/egl-headless-3d-acceleration",
+      "cachyos/virtio-venus-3d-acceleration",
+      "cachyos/switching-desktop-environments",
+      "cachyos/kde-plasma-on-cachyos",
+      "cachyos/niri-keybinds-and-faq",
+      "cachyos/hyprland-setup-and-keybinds",
+      "cachyos/i3-keybinds-and-faq",
+      "cachyos/qtile-keybinds-and-faq",
+      "inbox"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/dual-gpu-setup": {
+    "slug": "cachyos/dual-gpu-setup",
+    "filePath": "CachyOS/Dual GPU Setup.md",
+    "title": "Dual GPU Setup",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/managing-hardware-with-chwd",
+      "cachyos/switching-between-nvidia-and-amd-gpus",
+      "cachyos/gaming-on-cachyos"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/egl-headless-3d-acceleration": {
+    "slug": "cachyos/egl-headless-3d-acceleration",
+    "filePath": "CachyOS/EGL Headless 3D Acceleration.md",
+    "title": "EGL Headless 3D Acceleration",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/qemu-user-session"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/gaming-on-cachyos": {
+    "slug": "cachyos/gaming-on-cachyos",
+    "filePath": "CachyOS/Gaming on CachyOS.md",
+    "title": "Gaming on CachyOS",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/sched-ext-schedulers",
+      "cachyos/cachyos-settings-package",
+      "cachyos/dual-gpu-setup",
+      "cachyos/general-system-tweaks"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/general-system-tweaks": {
+    "slug": "cachyos/general-system-tweaks",
+    "filePath": "CachyOS/General System Tweaks.md",
+    "title": "General System Tweaks",
+    "links": [
+      "cachyos/cachyos-wiki-notes"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/hyprland-setup-and-keybinds": {
+    "slug": "cachyos/hyprland-setup-and-keybinds",
+    "filePath": "CachyOS/Hyprland Setup and Keybinds.md",
+    "title": "Hyprland Setup and Keybinds",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/switching-desktop-environments",
+      "cachyos/cachyos-desktop-environments"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/installing-cachyos-on-a-desktop-or-laptop": {
+    "slug": "cachyos/installing-cachyos-on-a-desktop-or-laptop",
+    "filePath": "CachyOS/Installing CachyOS on a Desktop or Laptop.md",
+    "title": "Installing CachyOS on a Desktop or Laptop",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/cachyos-filesystems",
+      "cachyos/preparing-a-cachyos-usb-installer",
+      "cachyos/cachyos-boot-managers",
+      "cachyos/cachyos-desktop-environments"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/kde-plasma-on-cachyos": {
+    "slug": "cachyos/kde-plasma-on-cachyos",
+    "filePath": "CachyOS/KDE Plasma on CachyOS.md",
+    "title": "KDE Plasma on CachyOS",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/switching-desktop-environments",
+      "cachyos/cachyos-desktop-environments"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/managing-hardware-with-chwd": {
+    "slug": "cachyos/managing-hardware-with-chwd",
+    "filePath": "CachyOS/Managing Hardware with chwd.md",
+    "title": "Managing Hardware with chwd",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/switching-between-nvidia-and-amd-gpus",
+      "cachyos/dual-gpu-setup"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/navigating-the-cachyos-wiki": {
+    "slug": "cachyos/navigating-the-cachyos-wiki",
+    "filePath": "CachyOS/Navigating the CachyOS Wiki.md",
+    "title": "Navigating the CachyOS Wiki",
+    "links": [
+      "cachyos/cachyos-wiki-notes"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/niri-keybinds-and-faq": {
+    "slug": "cachyos/niri-keybinds-and-faq",
+    "filePath": "CachyOS/Niri Keybinds and FAQ.md",
+    "title": "Niri Keybinds and FAQ",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/switching-desktop-environments",
+      "cachyos/cachyos-desktop-environments"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/optimized-repositories-and-x86-64-levels": {
+    "slug": "cachyos/optimized-repositories-and-x86-64-levels",
+    "filePath": "CachyOS/Optimized Repositories and x86-64 Levels.md",
+    "title": "Optimized Repositories and x86-64 Levels",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/preparing-a-cachyos-usb-installer"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/post-install-setup": {
+    "slug": "cachyos/post-install-setup",
+    "filePath": "CachyOS/Post Install Setup.md",
+    "title": "Post Install Setup",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/btrfs-snapshots",
+      "cachyos/boot-manager-configuration",
+      "cachyos/cachyos-settings-package"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/preparing-a-cachyos-usb-installer": {
+    "slug": "cachyos/preparing-a-cachyos-usb-installer",
+    "filePath": "CachyOS/Preparing a CachyOS USB Installer.md",
+    "title": "Preparing a CachyOS USB Installer",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/optimized-repositories-and-x86-64-levels",
+      "cachyos/installing-cachyos-on-a-desktop-or-laptop"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/qemu-user-session": {
+    "slug": "cachyos/qemu-user-session",
+    "filePath": "CachyOS/QEMU User Session.md",
+    "title": "QEMU User Session",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/qemu-and-vmm-setup"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/qemu-and-vmm-setup": {
+    "slug": "cachyos/qemu-and-vmm-setup",
+    "filePath": "CachyOS/QEMU and VMM Setup.md",
+    "title": "QEMU and VMM Setup",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/qemu-user-session",
+      "cachyos/egl-headless-3d-acceleration",
+      "cachyos/virtio-venus-3d-acceleration"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/qtile-keybinds-and-faq": {
+    "slug": "cachyos/qtile-keybinds-and-faq",
+    "filePath": "CachyOS/Qtile Keybinds and FAQ.md",
+    "title": "Qtile Keybinds and FAQ",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/switching-desktop-environments",
+      "cachyos/cachyos-desktop-environments"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/secure-boot-setup": {
+    "slug": "cachyos/secure-boot-setup",
+    "filePath": "CachyOS/Secure Boot Setup.md",
+    "title": "Secure Boot Setup",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/cachyos-settings-package",
+      "cachyos/cachyos-boot-managers",
+      "cachyos/boot-manager-configuration"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/switching-between-nvidia-and-amd-gpus": {
+    "slug": "cachyos/switching-between-nvidia-and-amd-gpus",
+    "filePath": "CachyOS/Switching Between NVIDIA and AMD GPUs.md",
+    "title": "Switching Between NVIDIA and AMD GPUs",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/boot-manager-configuration",
+      "cachyos/managing-hardware-with-chwd",
+      "cachyos/dual-gpu-setup"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/switching-desktop-environments": {
+    "slug": "cachyos/switching-desktop-environments",
+    "filePath": "CachyOS/Switching Desktop Environments.md",
+    "title": "Switching Desktop Environments",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/kde-plasma-on-cachyos",
+      "cachyos/niri-keybinds-and-faq",
+      "cachyos/hyprland-setup-and-keybinds",
+      "cachyos/i3-keybinds-and-faq",
+      "cachyos/qtile-keybinds-and-faq"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/virtio-venus-3d-acceleration": {
+    "slug": "cachyos/virtio-venus-3d-acceleration",
+    "filePath": "CachyOS/Virtio-Venus 3D Acceleration.md",
+    "title": "Virtio-Venus 3D Acceleration",
+    "links": [
+      "cachyos/cachyos-wiki-notes"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/why-cachyos": {
+    "slug": "cachyos/why-cachyos",
+    "filePath": "CachyOS/Why CachyOS.md",
+    "title": "Why CachyOS",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/optimized-repositories-and-x86-64-levels",
+      "cachyos/cachyos-kernels",
+      "cachyos/sched-ext-schedulers"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/cachy-chroot-recovery-helper": {
+    "slug": "cachyos/cachy-chroot-recovery-helper",
+    "filePath": "CachyOS/cachy-chroot Recovery Helper.md",
+    "title": "cachy-chroot Recovery Helper",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/cachyos-faq-and-troubleshooting"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/i3-keybinds-and-faq": {
+    "slug": "cachyos/i3-keybinds-and-faq",
+    "filePath": "CachyOS/i3 Keybinds and FAQ.md",
+    "title": "i3 Keybinds and FAQ",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/switching-desktop-environments",
+      "cachyos/cachyos-desktop-environments"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "cachyos/sched-ext-schedulers": {
+    "slug": "cachyos/sched-ext-schedulers",
+    "filePath": "CachyOS/sched-ext Schedulers.md",
+    "title": "sched-ext Schedulers",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "cachyos/cachyos-kernel-manager",
+      "cachyos/cachyos-kernels"
+    ],
+    "tags": [
+      "note/cachyos"
+    ]
+  },
+  "graph-guide": {
+    "slug": "graph-guide",
+    "filePath": "Graph Guide.md",
+    "title": "Graph Guide",
+    "links": [
+      "welcome",
+      "untitled",
+      "untitled-1",
+      "inbox"
+    ],
+    "tags": [
+      "note/guide"
+    ]
+  },
+  "inbox": {
+    "slug": "inbox",
+    "filePath": "Inbox.md",
+    "title": "Inbox",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "inbox"
+    ]
+  },
+  "index": {
+    "slug": "index",
+    "filePath": "index.md",
+    "title": "Home",
+    "links": [
+      "cachyos/cachyos-wiki-notes",
+      "graph-guide",
+      "agent-memory-map.canvas",
+      "opencode-sandbox-map.canvas",
+      "inbox"
+    ],
+    "tags": []
+  },
+  "memory/feynman's-restaurant-problem-and-how-people-actually-decide": {
+    "slug": "memory/feynman's-restaurant-problem-and-how-people-actually-decide",
+    "filePath": "memory/Feynman's restaurant problem and how people actually decide.md",
+    "title": "Feynman's restaurant problem and how people actually decide",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/psychology"
+    ]
+  },
+  "agent-memory-map.canvas": {
+    "slug": "agent-memory-map.canvas",
+    "filePath": "agent-memory-map.canvas.md",
+    "title": "Agent Memory Map",
+    "links": [],
+    "tags": []
+  },
+  "opencode-sandbox-map.canvas": {
+    "slug": "opencode-sandbox-map.canvas",
+    "filePath": "opencode-sandbox-map.canvas.md",
+    "title": "OpenCode-Sandbox Map",
+    "links": [],
+    "tags": []
+  },
+  "cachyos/index": {
+    "slug": "cachyos/index",
+    "filePath": "cachyos/index.md",
+    "title": "CachyOS",
+    "links": [],
+    "tags": []
+  },
+  "memory/index": {
+    "slug": "memory/index",
+    "filePath": "memory/index.md",
+    "title": "memory",
+    "links": [],
+    "tags": []
+  },
+  "tags/note": {
+    "slug": "tags/note",
+    "filePath": "tags/note.md",
+    "title": "note",
+    "links": [],
+    "tags": []
+  },
+  "tags/note/attachment": {
+    "slug": "tags/note/attachment",
+    "filePath": "tags/note/attachment.md",
+    "title": "note/attachment",
+    "links": [],
+    "tags": []
+  },
+  "tags/note/cachyos": {
+    "slug": "tags/note/cachyos",
+    "filePath": "tags/note/cachyos.md",
+    "title": "note/cachyos",
+    "links": [],
+    "tags": []
+  },
+  "tags/note/guide": {
+    "slug": "tags/note/guide",
+    "filePath": "tags/note/guide.md",
+    "title": "note/guide",
+    "links": [],
+    "tags": []
+  },
+  "tags/inbox": {
+    "slug": "tags/inbox",
+    "filePath": "tags/inbox.md",
+    "title": "inbox",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory": {
+    "slug": "tags/memory",
+    "filePath": "tags/memory.md",
+    "title": "memory",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/psychology": {
+    "slug": "tags/memory/psychology",
+    "filePath": "tags/memory/psychology.md",
+    "title": "memory/psychology",
+    "links": [],
+    "tags": []
+  },
+  "tags/index": {
+    "slug": "tags/index",
+    "filePath": "tags/index.md",
+    "title": "Tag Index",
+    "links": [],
+    "tags": []
+  }
+}
