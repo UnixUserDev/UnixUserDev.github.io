@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 61 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 62 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -13,6 +13,7 @@
 ## Pages
 
 - [Agent Memory Map](https://unixuserdev.github.io/agent-memory-map.canvas): -
+- [AppImage leaks LD_LIBRARY_PATH and breaks notify-send](https://unixuserdev.github.io/memory/appimage-leaks-ld_library_path-and-breaks-notify-send): memory/linux
 - [Attachment Demo](https://unixuserdev.github.io/attachment-demo): note/attachment
 - [Automounting Drives at Boot](https://unixuserdev.github.io/cachyos/automounting-drives-at-boot): note/cachyos
 - [Boot Manager Configuration](https://unixuserdev.github.io/cachyos/boot-manager-configuration): note/cachyos

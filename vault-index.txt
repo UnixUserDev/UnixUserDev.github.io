@@ -580,6 +580,17 @@
     ],
     "tags": []
   },
+  "memory/appimage-leaks-ld_library_path-and-breaks-notify-send": {
+    "slug": "memory/appimage-leaks-ld_library_path-and-breaks-notify-send",
+    "filePath": "memory/AppImage leaks LD_LIBRARY_PATH and breaks notify-send.md",
+    "title": "AppImage leaks LD_LIBRARY_PATH and breaks notify-send",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/linux"
+    ]
+  },
   "memory/distros-fastfetch-has-no-logo-for": {
     "slug": "memory/distros-fastfetch-has-no-logo-for",
     "filePath": "memory/Distros fastfetch has no logo for.md",

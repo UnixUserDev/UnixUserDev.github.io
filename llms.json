@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 61 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 62 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -13,6 +13,16 @@
       "url": "https://unixuserdev.github.io/agent-memory-map.canvas",
       "tags": [],
       "links": []
+    },
+    {
+      "title": "AppImage leaks LD_LIBRARY_PATH and breaks notify-send",
+      "url": "https://unixuserdev.github.io/memory/appimage-leaks-ld_library_path-and-breaks-notify-send",
+      "tags": [
+        "memory/linux"
+      ],
+      "links": [
+        "inbox"
+      ]
     },
     {
       "title": "Attachment Demo",

@@ -1,0 +1,12 @@
+{
+  "slug": "memory/appimage-leaks-ld_library_path-and-breaks-notify-send",
+  "filePath": "memory/AppImage leaks LD_LIBRARY_PATH and breaks notify-send.md",
+  "title": "AppImage leaks LD_LIBRARY_PATH and breaks notify-send",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/linux"
+  ],
+  "content": "The OpenCode AppImage on this CachyOS box exports LD_LIBRARY_PATH=/tmp/.mount_OpenCo*/usr/lib into every child process of the agent session. System binaries then load the AppImage\u2019s bundled libraries instead of the system ones \u2014 notify-send dies with \u201csymbol lookup error: notify-send: undefined symbol: notify_notification_get_activation_app_launch_context\u201d because the AppImage ships an older libnotify.so.4. Fix: strip LD_LIBRARY_PATH/LD_PRELOAD from the child environment (env -u LD_LIBRARY_PATH, or subprocess env=). The systemd \u2014user environment is NOT polluted, so timer- and service-launched processes are unaffected. Check with systemctl --user show-environment.\nInbox"
+}
