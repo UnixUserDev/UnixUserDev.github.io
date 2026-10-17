@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 74 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 75 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -17,6 +17,7 @@
 - [AppImage leaks LD_LIBRARY_PATH and breaks notify-send](https://unixuserdev.github.io/memory/appimage-leaks-ld_library_path-and-breaks-notify-send): memory/linux
 - [Automounting Drives at Boot](https://unixuserdev.github.io/cachyos/automounting-drives-at-boot): note/cachyos
 - [Boot Manager Configuration](https://unixuserdev.github.io/cachyos/boot-manager-configuration): note/cachyos
+- [Brick Rigs minimize crash fixed by running it in gamescope](https://unixuserdev.github.io/memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope): memory/linux
 - [Browser Hardware Acceleration](https://unixuserdev.github.io/cachyos/browser-hardware-acceleration): note/cachyos
 - [Btrfs Snapshots](https://unixuserdev.github.io/cachyos/btrfs-snapshots): note/cachyos
 - [cachy-chroot Recovery Helper](https://unixuserdev.github.io/cachyos/cachy-chroot-recovery-helper): note/cachyos

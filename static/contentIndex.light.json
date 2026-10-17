@@ -621,6 +621,17 @@
       "memory/linux"
     ]
   },
+  "memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope": {
+    "slug": "memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope",
+    "filePath": "memory/Brick Rigs minimize crash fixed by running it in gamescope.md",
+    "title": "Brick Rigs minimize crash fixed by running it in gamescope",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/linux"
+    ]
+  },
   "memory/ckan-installed-for-kerbal-space-program": {
     "slug": "memory/ckan-installed-for-kerbal-space-program",
     "filePath": "memory/CKAN installed for Kerbal Space Program.md",
