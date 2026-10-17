@@ -1,0 +1,10 @@
+---
+tags:
+  - memory/cachyos
+created: 2026-10-17T03:20:14
+source: agent
+---
+
+CKAN (Comprehensive Kerbal Archive Network) 1.36.4 is installed on the CachyOS box as the pacman-tracked package `ckan-bin` (AUR, built with makepkg + pkexec pacman -U), running under `mono` with the `gtk2` theming dependency added. KSP 1.12.5.3190 is installed via Steam on the external drive at /run/media/unixuser/External/SteamLibrary/steamapps/common/Kerbal Space Program and is auto-detected as CKAN's game instance. Launch with `ckan` (GUI), `ckan consoleui`, or the app-menu entry. First GUI launch can sit on "Loading registry..." for a while while it parses the ~36 MB metadata cache; `ckan update --headless` is the quick way to refresh metadata from the CLI.
+
+[[Inbox]]

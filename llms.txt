@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 72 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 74 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -30,6 +30,7 @@
 - [CachyOS Kernels](https://unixuserdev.github.io/cachyos/cachyos-kernels): note/cachyos
 - [CachyOS Settings Package](https://unixuserdev.github.io/cachyos/cachyos-settings-package): note/cachyos
 - [CachyOS Wiki Notes](https://unixuserdev.github.io/cachyos/cachyos-wiki-notes): note/cachyos
+- [CKAN installed for Kerbal Space Program](https://unixuserdev.github.io/memory/ckan-installed-for-kerbal-space-program): memory/cachyos
 - [Distros fastfetch has no logo for](https://unixuserdev.github.io/memory/distros-fastfetch-has-no-logo-for): memory/linux
 - [Dual GPU Setup](https://unixuserdev.github.io/cachyos/dual-gpu-setup): note/cachyos
 - [EGL Headless 3D Acceleration](https://unixuserdev.github.io/cachyos/egl-headless-3d-acceleration): note/cachyos
@@ -51,6 +52,7 @@
 - [Managing Hardware with chwd](https://unixuserdev.github.io/cachyos/managing-hardware-with-chwd): note/cachyos
 - [memory](https://unixuserdev.github.io/memory/index): -
 - [memory](https://unixuserdev.github.io/tags/memory): -
+- [memory/cachyos](https://unixuserdev.github.io/tags/memory/cachyos): -
 - [memory/linux](https://unixuserdev.github.io/tags/memory/linux): -
 - [memory/project](https://unixuserdev.github.io/tags/memory/project): -
 - [memory/projects](https://unixuserdev.github.io/tags/memory/projects): -

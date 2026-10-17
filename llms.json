@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 72 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 74 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -238,6 +238,16 @@
       ]
     },
     {
+      "title": "CKAN installed for Kerbal Space Program",
+      "url": "https://unixuserdev.github.io/memory/ckan-installed-for-kerbal-space-program",
+      "tags": [
+        "memory/cachyos"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
       "title": "Distros fastfetch has no logo for",
       "url": "https://unixuserdev.github.io/memory/distros-fastfetch-has-no-logo-for",
       "tags": [
@@ -461,6 +471,12 @@
     {
       "title": "memory",
       "url": "https://unixuserdev.github.io/tags/memory",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "memory/cachyos",
+      "url": "https://unixuserdev.github.io/tags/memory/cachyos",
       "tags": [],
       "links": []
     },

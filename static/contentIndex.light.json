@@ -621,6 +621,17 @@
       "memory/linux"
     ]
   },
+  "memory/ckan-installed-for-kerbal-space-program": {
+    "slug": "memory/ckan-installed-for-kerbal-space-program",
+    "filePath": "memory/CKAN installed for Kerbal Space Program.md",
+    "title": "CKAN installed for Kerbal Space Program",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/cachyos"
+    ]
+  },
   "memory/distros-fastfetch-has-no-logo-for": {
     "slug": "memory/distros-fastfetch-has-no-logo-for",
     "filePath": "memory/Distros fastfetch has no logo for.md",
@@ -815,6 +826,13 @@
     "slug": "tags/memory/linux",
     "filePath": "tags/memory/linux.md",
     "title": "memory/linux",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/cachyos": {
+    "slug": "tags/memory/cachyos",
+    "filePath": "tags/memory/cachyos.md",
+    "title": "memory/cachyos",
     "links": [],
     "tags": []
   },
