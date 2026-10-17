@@ -731,6 +731,17 @@
       "memory/linux"
     ]
   },
+  "memory/tinypowerhouse-pc-runs-playit.gg-tunnel": {
+    "slug": "memory/tinypowerhouse-pc-runs-playit.gg-tunnel",
+    "filePath": "memory/TinyPowerhouse PC runs playit.gg tunnel.md",
+    "title": "TinyPowerhouse PC runs playit.gg tunnel",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/homelab"
+    ]
+  },
   "memory/use-the-agent-opencode-account-for-agent-github-work": {
     "slug": "memory/use-the-agent-opencode-account-for-agent-github-work",
     "filePath": "memory/Use the Agent-Opencode account for agent GitHub work.md",
@@ -872,6 +883,13 @@
     "slug": "tags/memory/project",
     "filePath": "tags/memory/project.md",
     "title": "memory/project",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/homelab": {
+    "slug": "tags/memory/homelab",
+    "filePath": "tags/memory/homelab.md",
+    "title": "memory/homelab",
     "links": [],
     "tags": []
   }

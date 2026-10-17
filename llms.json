@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 75 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 77 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -491,6 +491,12 @@
       "links": []
     },
     {
+      "title": "memory/homelab",
+      "url": "https://unixuserdev.github.io/tags/memory/homelab",
+      "tags": [],
+      "links": []
+    },
+    {
       "title": "memory/linux",
       "url": "https://unixuserdev.github.io/tags/memory/linux",
       "tags": [],
@@ -761,6 +767,16 @@
       "url": "https://unixuserdev.github.io/memory/tiny-core-logo-merged-into-fastfetch",
       "tags": [
         "memory/linux"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "TinyPowerhouse PC runs playit.gg tunnel",
+      "url": "https://unixuserdev.github.io/memory/tinypowerhouse-pc-runs-playit.gg-tunnel",
+      "tags": [
+        "memory/homelab"
       ],
       "links": [
         "inbox"

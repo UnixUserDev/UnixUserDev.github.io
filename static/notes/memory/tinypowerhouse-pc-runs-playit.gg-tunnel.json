@@ -1,0 +1,12 @@
+{
+  "slug": "memory/tinypowerhouse-pc-runs-playit.gg-tunnel",
+  "filePath": "memory/TinyPowerhouse PC runs playit.gg tunnel.md",
+  "title": "TinyPowerhouse PC runs playit.gg tunnel",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/homelab"
+  ],
+  "content": "TinyPowerhouse is a Windows 11 PC on the LAN at 192.168.1.178 (mDNS TinyPowerhouse.local), user Space. Reachable via SSH (:22, OpenSSH) and WinRM (:5985). It runs the playit.gg agent as Windows service playitd (auto-start, LocalSystem), version 1.0.10, installed at C:\\Program Files\\playit_gg\\bin, config C:\\ProgramData\\playit_gg\\playit.toml, logs C:\\ProgramData\\playit_gg\\logs\\playitd.log. Started with sc start playitd.\nInbox"
+}
