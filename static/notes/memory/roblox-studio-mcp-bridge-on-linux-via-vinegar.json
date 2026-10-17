@@ -1,0 +1,12 @@
+{
+  "slug": "memory/roblox-studio-mcp-bridge-on-linux-via-vinegar",
+  "filePath": "memory/Roblox Studio MCP bridge on Linux via Vinegar.md",
+  "title": "Roblox Studio MCP bridge on Linux via Vinegar",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "Roblox Studio\u2019s MCP server (StudioMCP.exe, \u201cstudio_mcp_proxy\u201d) works on Linux only by running Studio\u2019s own mcp.bat inside the Vinegar Flatpak Wine prefix. The wrapper lives at /OpenCode-Sandbox/roblox-studio-mcp/roblox-studio-mcp.sh and is registered with OpenCode as the local MCP server \u201croblox-studio\u201d. Confirmed working: stdio MCP initialize returns serverInfo.name=RobloxStudio, and the proxy binds 127.0.0.1:13469. BLOCKER (reproduced twice): Studio\u2019s WebSocket upgrade to the proxy never completes, so tools/list stays empty; and when the proxy process exits, Studio\u2019s main thread hangs (StudioHangMonitor) and wedges the wineserver, requiring a full Vinegar restart.\nInbox"
+}

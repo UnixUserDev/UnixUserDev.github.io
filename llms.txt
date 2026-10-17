@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 71 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 72 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -74,6 +74,7 @@
 - [QEMU and VMM Setup](https://unixuserdev.github.io/cachyos/qemu-and-vmm-setup): note/cachyos
 - [QEMU User Session](https://unixuserdev.github.io/cachyos/qemu-user-session): note/cachyos
 - [Qtile Keybinds and FAQ](https://unixuserdev.github.io/cachyos/qtile-keybinds-and-faq): note/cachyos
+- [Roblox Studio MCP bridge on Linux via Vinegar](https://unixuserdev.github.io/memory/roblox-studio-mcp-bridge-on-linux-via-vinegar): memory/projects
 - [sched-ext Schedulers](https://unixuserdev.github.io/cachyos/sched-ext-schedulers): note/cachyos
 - [Secure Boot Setup](https://unixuserdev.github.io/cachyos/secure-boot-setup): note/cachyos
 - [Switching Between NVIDIA and AMD GPUs](https://unixuserdev.github.io/cachyos/switching-between-nvidia-and-amd-gpus): note/cachyos
