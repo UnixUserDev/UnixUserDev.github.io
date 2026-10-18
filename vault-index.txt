@@ -786,6 +786,17 @@
       "memory/linux"
     ]
   },
+  "memory/verified-bubblewrap-sandbox-recipes-and-gotchas": {
+    "slug": "memory/verified-bubblewrap-sandbox-recipes-and-gotchas",
+    "filePath": "memory/Verified bubblewrap sandbox recipes and gotchas.md",
+    "title": "Verified bubblewrap sandbox recipes and gotchas",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "agent-memory-map.canvas": {
     "slug": "agent-memory-map.canvas",
     "filePath": "agent-memory-map.canvas.md",

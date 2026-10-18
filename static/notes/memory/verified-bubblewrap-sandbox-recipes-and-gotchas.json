@@ -1,0 +1,12 @@
+{
+  "slug": "memory/verified-bubblewrap-sandbox-recipes-and-gotchas",
+  "filePath": "memory/Verified bubblewrap sandbox recipes and gotchas.md",
+  "title": "Verified bubblewrap sandbox recipes and gotchas",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "For the BYOA harness sandbox (bubblewrap 0.13.1 at /usr/bin/bwrap, unprivileged userns enabled, uid 1000) these recipes were executed and verified:\nBase: bwrap \u2014ro-bind / / \u2014dev /dev \u2014proc /proc \u2014tmpfs /tmp \u2014bind \u201cWORK&quot; &quot;WORK\u201d \u2014chdir \u201cWORK&quot; --die-with-parent --new-session --setenv HOME &quot;WORK\u201d /bin/sh -c \u2019\u2026\u2019\nGotchas found by testing, not docs:\n\nWith \u2014ro-bind / /, any bind whose DESTINATION does not exist fails hard: \u201cbwrap: Can\u2019t create file /mnt/extra: Read-only file system\u201d \u2014 and \u2014dir does NOT fix it. Fixes that work: put \u2014tmpfs on the parent first (\u2014tmpfs /mnt then \u2014ro-bind SRC /mnt/extra), pre-create the dir on the host, or skip \u2014ro-bind / / and build a skeleton root (/usr /etc /bin /lib /lib64 + \u2014dir /opt).\n\u2014unshare-all gives a netns where lo is ALREADY up with 127.0.0.1/8, so local bind/connect works and outbound is dead. Do not try \u201cip link set lo up\u201d \u2014 it fails with RTNETLINK Operation not permitted even at uid 0 inside the userns.\n\u2014unshare-all \u2014share-net exposes the HOST netns (reaches host 127.0.0.1 but also LAN/internet). There is no \u201chost loopback only\u201d flag. To reach exactly one service, keep \u2014unshare-all and bind only that service\u2019s unix socket directory \u2014 AF_UNIX works across net isolation.\nMissing \u2014proc /proc breaks tools that read /proc/self/*. Missing /etc/resolv.conf breaks DNS only when /etc is shadowed; re-bind resolv.conf + hosts to restore.\nuid mapping: \u2014unshare-all alone still shows uid=1000; \u2014unshare-user \u2014uid 0 \u2014gid 0 gives uid=0 inside.\n\nInbox\nInbox"
+}

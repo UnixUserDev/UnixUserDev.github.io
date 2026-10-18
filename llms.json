@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 81 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 82 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -823,6 +823,16 @@
       "url": "https://unixuserdev.github.io/memory/use-the-agent-opencode-account-for-agent-github-work",
       "tags": [
         "memory/linux"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "Verified bubblewrap sandbox recipes and gotchas",
+      "url": "https://unixuserdev.github.io/memory/verified-bubblewrap-sandbox-recipes-and-gotchas",
+      "tags": [
+        "memory/projects"
       ],
       "links": [
         "inbox"
