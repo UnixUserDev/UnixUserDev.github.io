@@ -621,6 +621,17 @@
       "memory/linux"
     ]
   },
+  "memory/byoa-project-wants-obsidian-as-agent-memory": {
+    "slug": "memory/byoa-project-wants-obsidian-as-agent-memory",
+    "filePath": "memory/BYOA project wants Obsidian as agent memory.md",
+    "title": "BYOA project wants Obsidian as agent memory",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope": {
     "slug": "memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope",
     "filePath": "memory/Brick Rigs minimize crash fixed by running it in gamescope.md",
@@ -873,6 +884,13 @@
     "links": [],
     "tags": []
   },
+  "tags/memory/projects": {
+    "slug": "tags/memory/projects",
+    "filePath": "tags/memory/projects.md",
+    "title": "memory/projects",
+    "links": [],
+    "tags": []
+  },
   "tags/memory/gaming": {
     "slug": "tags/memory/gaming",
     "filePath": "tags/memory/gaming.md",
@@ -898,13 +916,6 @@
     "slug": "tags/memory/system",
     "filePath": "tags/memory/system.md",
     "title": "memory/system",
-    "links": [],
-    "tags": []
-  },
-  "tags/memory/projects": {
-    "slug": "tags/memory/projects",
-    "filePath": "tags/memory/projects.md",
-    "title": "memory/projects",
     "links": [],
     "tags": []
   },

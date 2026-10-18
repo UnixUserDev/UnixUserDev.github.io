@@ -1,0 +1,12 @@
+{
+  "slug": "memory/byoa-project-wants-obsidian-as-agent-memory",
+  "filePath": "memory/BYOA project wants Obsidian as agent memory.md",
+  "title": "BYOA project wants Obsidian as agent memory",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "User is designing \u201cBYOA\u201d (bring your own everything): a local-first coding-agent harness at /OpenCode-Sandbox/byoa, Node 26 + TypeScript, no build step (native type-stripping), node:sqlite for persistence, bubblewrap for the sandbox, OpenTUI on Node for the TUI, plus CLI and Web frontends (optional Electron, not shipped by default). Three system-prompt tiers: lite (small/local models), normal (cloud), large (max precision).\nKey user preference: the agent\u2019s long-term memory should be Obsidian (markdown notes in the vault), NOT a database \u2014 the user prefers Obsidian because it saves tokens via targeted retrieval and looks satisfying to browse. A plain SQLite memory backend should stay available as a fallback. Vault conventions still apply (human-readable titles with no dates, one group tag per note).\nInbox"
+}
