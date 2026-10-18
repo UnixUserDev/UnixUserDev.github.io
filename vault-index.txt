@@ -731,6 +731,17 @@
       "memory/projects"
     ]
   },
+  "memory/spectacle-needs-software-renderer-on-nvidia-wayland": {
+    "slug": "memory/spectacle-needs-software-renderer-on-nvidia-wayland",
+    "filePath": "memory/Spectacle needs software renderer on NVIDIA Wayland.md",
+    "title": "Spectacle needs software renderer on NVIDIA Wayland",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/linux"
+    ]
+  },
   "memory/tiny-core-logo-merged-into-fastfetch": {
     "slug": "memory/tiny-core-logo-merged-into-fastfetch",
     "filePath": "memory/Tiny Core logo merged into fastfetch.md",

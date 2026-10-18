@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 79 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 80 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -742,6 +742,16 @@
         "cachyos/cachyos-settings-package",
         "cachyos/cachyos-boot-managers",
         "cachyos/boot-manager-configuration"
+      ]
+    },
+    {
+      "title": "Spectacle needs software renderer on NVIDIA Wayland",
+      "url": "https://unixuserdev.github.io/memory/spectacle-needs-software-renderer-on-nvidia-wayland",
+      "tags": [
+        "memory/linux"
+      ],
+      "links": [
+        "inbox"
       ]
     },
     {
