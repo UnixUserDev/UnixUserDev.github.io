@@ -24,3 +24,4 @@ Published notes from the vault.
 - [[Web fetch by client]]
 
 [[Inbox]]
+![[Pasted image 20261018172105.png]]
