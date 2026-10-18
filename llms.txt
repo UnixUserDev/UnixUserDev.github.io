@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 77 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 79 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -18,6 +18,7 @@
 - [Automounting Drives at Boot](https://unixuserdev.github.io/cachyos/automounting-drives-at-boot): note/cachyos
 - [Boot Manager Configuration](https://unixuserdev.github.io/cachyos/boot-manager-configuration): note/cachyos
 - [Brick Rigs minimize crash fixed by running it in gamescope](https://unixuserdev.github.io/memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope): memory/linux
+- [Brick Rigs runs better without gamescope](https://unixuserdev.github.io/memory/brick-rigs-runs-better-without-gamescope): memory/gaming
 - [Browser Hardware Acceleration](https://unixuserdev.github.io/cachyos/browser-hardware-acceleration): note/cachyos
 - [Btrfs Snapshots](https://unixuserdev.github.io/cachyos/btrfs-snapshots): note/cachyos
 - [cachy-chroot Recovery Helper](https://unixuserdev.github.io/cachyos/cachy-chroot-recovery-helper): note/cachyos
@@ -54,6 +55,7 @@
 - [memory](https://unixuserdev.github.io/memory/index): -
 - [memory](https://unixuserdev.github.io/tags/memory): -
 - [memory/cachyos](https://unixuserdev.github.io/tags/memory/cachyos): -
+- [memory/gaming](https://unixuserdev.github.io/tags/memory/gaming): -
 - [memory/homelab](https://unixuserdev.github.io/tags/memory/homelab): -
 - [memory/linux](https://unixuserdev.github.io/tags/memory/linux): -
 - [memory/project](https://unixuserdev.github.io/tags/memory/project): -

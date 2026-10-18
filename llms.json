@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 77 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 79 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -53,6 +53,16 @@
       "url": "https://unixuserdev.github.io/memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope",
       "tags": [
         "memory/linux"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "Brick Rigs runs better without gamescope",
+      "url": "https://unixuserdev.github.io/memory/brick-rigs-runs-better-without-gamescope",
+      "tags": [
+        "memory/gaming"
       ],
       "links": [
         "inbox"
@@ -487,6 +497,12 @@
     {
       "title": "memory/cachyos",
       "url": "https://unixuserdev.github.io/tags/memory/cachyos",
+      "tags": [],
+      "links": []
+    },
+    {
+      "title": "memory/gaming",
+      "url": "https://unixuserdev.github.io/tags/memory/gaming",
       "tags": [],
       "links": []
     },

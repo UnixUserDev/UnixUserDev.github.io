@@ -632,6 +632,17 @@
       "memory/linux"
     ]
   },
+  "memory/brick-rigs-runs-better-without-gamescope": {
+    "slug": "memory/brick-rigs-runs-better-without-gamescope",
+    "filePath": "memory/Brick Rigs runs better without gamescope.md",
+    "title": "Brick Rigs runs better without gamescope",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/gaming"
+    ]
+  },
   "memory/ckan-installed-for-kerbal-space-program": {
     "slug": "memory/ckan-installed-for-kerbal-space-program",
     "filePath": "memory/CKAN installed for Kerbal Space Program.md",
@@ -848,6 +859,13 @@
     "slug": "tags/memory/linux",
     "filePath": "tags/memory/linux.md",
     "title": "memory/linux",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/gaming": {
+    "slug": "tags/memory/gaming",
+    "filePath": "tags/memory/gaming.md",
+    "title": "memory/gaming",
     "links": [],
     "tags": []
   },
