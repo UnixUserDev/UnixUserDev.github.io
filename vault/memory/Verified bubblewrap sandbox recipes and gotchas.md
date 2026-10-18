@@ -17,5 +17,3 @@ Gotchas found by testing, not docs:
 5. uid mapping: --unshare-all alone still shows uid=1000; --unshare-user --uid 0 --gid 0 gives uid=0 inside.
 
 [[Inbox]]
-
-[[Inbox]]
