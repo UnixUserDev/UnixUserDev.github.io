@@ -523,6 +523,17 @@
       "note/cachyos"
     ]
   },
+  "camera-pose-tracker-findings": {
+    "slug": "camera-pose-tracker-findings",
+    "filePath": "Camera pose tracker findings.md",
+    "title": "Camera pose tracker findings",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "note/guide"
+    ]
+  },
   "graph-guide": {
     "slug": "graph-guide",
     "filePath": "Graph Guide.md",

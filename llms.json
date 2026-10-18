@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 82 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 83 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -264,6 +264,16 @@
         "cachyos/hyprland-setup-and-keybinds",
         "cachyos/i3-keybinds-and-faq",
         "cachyos/qtile-keybinds-and-faq",
+        "inbox"
+      ]
+    },
+    {
+      "title": "Camera pose tracker findings",
+      "url": "https://unixuserdev.github.io/camera-pose-tracker-findings",
+      "tags": [
+        "note/guide"
+      ],
+      "links": [
         "inbox"
       ]
     },
