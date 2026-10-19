@@ -44,4 +44,12 @@ Building a webcam body tracker (skeleton only, camera feed never displayed) for 
 
 The overlay/virtual camera must only ever contain landmarks on black. Never pass the captured frame to the drawing surface; capture is for inference only. Mirror the canvas at the end (`cv2.flip(canvas, 1)`).
 
+## Discord on Linux (verified 2026-10-19)
+
+- `pkexec modprobe v4l2loopback devices=1 video_nr=2 card_label="BodyTrack" exclusive_caps=1` → `/dev/video2`.
+- `cd /OpenCode-Sandbox/camera-pose && ./run.sh --virtual` pipes the landmark-only canvas to it.
+- Discord → Voice & Video → Camera → **BodyTrack**; Discord keeps that selection between runs, but the camera must be toggled off/on after the virtual cam starts or it stays on a dead device.
+- Verified Discord's own camera track by sampling its `<video>` element: mean pixel 1.1/255, 0.76% non-black — skeleton on black, no camera feed.
+- Driving the Discord client is possible because it runs with `--remote-debugging-port=9222`; `Runtime.evaluate` in context 1 can click its DOM (its `localStorage` is undefined there, DOM works).
+
 [[Inbox]]
