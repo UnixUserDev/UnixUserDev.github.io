@@ -753,17 +753,6 @@
       "memory/projects"
     ]
   },
-  "memory/runtime-choice": {
-    "slug": "memory/runtime-choice",
-    "filePath": "memory/Runtime choice.md",
-    "title": "Runtime choice",
-    "links": [
-      "inbox"
-    ],
-    "tags": [
-      "memory/projects"
-    ]
-  },
   "memory/spectacle-needs-software-renderer-on-nvidia-wayland": {
     "slug": "memory/spectacle-needs-software-renderer-on-nvidia-wayland",
     "filePath": "memory/Spectacle needs software renderer on NVIDIA Wayland.md",

@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 84 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 83 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -732,16 +732,6 @@
     {
       "title": "Roblox Studio MCP bridge on Linux via Vinegar",
       "url": "https://unixuserdev.github.io/memory/roblox-studio-mcp-bridge-on-linux-via-vinegar",
-      "tags": [
-        "memory/projects"
-      ],
-      "links": [
-        "inbox"
-      ]
-    },
-    {
-      "title": "Runtime choice",
-      "url": "https://unixuserdev.github.io/memory/runtime-choice",
       "tags": [
         "memory/projects"
       ],
