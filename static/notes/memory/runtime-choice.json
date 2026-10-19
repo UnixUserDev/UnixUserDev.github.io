@@ -1,0 +1,12 @@
+{
+  "slug": "memory/runtime-choice",
+  "filePath": "memory/Runtime choice.md",
+  "title": "Runtime choice",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "The project uses Bun as the runtime.\nInbox"
+}

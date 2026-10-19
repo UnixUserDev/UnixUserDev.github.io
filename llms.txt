@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 83 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 84 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -83,6 +83,7 @@
 - [QEMU User Session](https://unixuserdev.github.io/cachyos/qemu-user-session): note/cachyos
 - [Qtile Keybinds and FAQ](https://unixuserdev.github.io/cachyos/qtile-keybinds-and-faq): note/cachyos
 - [Roblox Studio MCP bridge on Linux via Vinegar](https://unixuserdev.github.io/memory/roblox-studio-mcp-bridge-on-linux-via-vinegar): memory/projects
+- [Runtime choice](https://unixuserdev.github.io/memory/runtime-choice): memory/projects
 - [sched-ext Schedulers](https://unixuserdev.github.io/cachyos/sched-ext-schedulers): note/cachyos
 - [Secure Boot Setup](https://unixuserdev.github.io/cachyos/secure-boot-setup): note/cachyos
 - [Spectacle needs software renderer on NVIDIA Wayland](https://unixuserdev.github.io/memory/spectacle-needs-software-renderer-on-nvidia-wayland): memory/linux
