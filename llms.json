@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 92 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 94 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -635,6 +635,12 @@
       "links": []
     },
     {
+      "title": "memory/tooling",
+      "url": "https://unixuserdev.github.io/tags/memory/tooling",
+      "tags": [],
+      "links": []
+    },
+    {
       "title": "Navigating the CachyOS Wiki",
       "url": "https://unixuserdev.github.io/cachyos/navigating-the-cachyos-wiki",
       "tags": [
@@ -895,6 +901,16 @@
       "url": "https://unixuserdev.github.io/memory/tinypowerhouse-pc-runs-playit.gg-tunnel",
       "tags": [
         "memory/homelab"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "TinyServer is the Windows test site",
+      "url": "https://unixuserdev.github.io/memory/tinyserver-is-the-windows-test-site",
+      "tags": [
+        "memory/tooling"
       ],
       "links": [
         "inbox"

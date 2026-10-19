@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 92 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 94 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -72,6 +72,7 @@
 - [memory/projects](https://unixuserdev.github.io/tags/memory/projects): -
 - [memory/psychology](https://unixuserdev.github.io/tags/memory/psychology): -
 - [memory/system](https://unixuserdev.github.io/tags/memory/system): -
+- [memory/tooling](https://unixuserdev.github.io/tags/memory/tooling): -
 - [Navigating the CachyOS Wiki](https://unixuserdev.github.io/cachyos/navigating-the-cachyos-wiki): note/cachyos
 - [Niri Keybinds and FAQ](https://unixuserdev.github.io/cachyos/niri-keybinds-and-faq): note/cachyos
 - [note](https://unixuserdev.github.io/tags/note): -
@@ -99,6 +100,7 @@
 - [Tag Index](https://unixuserdev.github.io/tags/index): -
 - [Tiny Core logo merged into fastfetch](https://unixuserdev.github.io/memory/tiny-core-logo-merged-into-fastfetch): memory/linux
 - [TinyPowerhouse PC runs playit.gg tunnel](https://unixuserdev.github.io/memory/tinypowerhouse-pc-runs-playit.gg-tunnel): memory/homelab
+- [TinyServer is the Windows test site](https://unixuserdev.github.io/memory/tinyserver-is-the-windows-test-site): memory/tooling
 - [Use the Agent-Opencode account for agent GitHub work](https://unixuserdev.github.io/memory/use-the-agent-opencode-account-for-agent-github-work): memory/linux
 - [Verified bubblewrap sandbox recipes and gotchas](https://unixuserdev.github.io/memory/verified-bubblewrap-sandbox-recipes-and-gotchas): memory/projects
 - [Virtio-Venus 3D Acceleration](https://unixuserdev.github.io/cachyos/virtio-venus-3d-acceleration): note/cachyos
