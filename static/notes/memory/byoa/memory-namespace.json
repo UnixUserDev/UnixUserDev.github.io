@@ -1,0 +1,12 @@
+{
+  "slug": "memory/byoa/memory-namespace",
+  "filePath": "memory/byoa/Memory namespace.md",
+  "title": "Memory namespace",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "byoa stores its memory in a namespaced subfolder\nInbox"
+}

@@ -808,6 +808,17 @@
       "memory/projects"
     ]
   },
+  "memory/byoa/memory-namespace": {
+    "slug": "memory/byoa/memory-namespace",
+    "filePath": "memory/byoa/Memory namespace.md",
+    "title": "Memory namespace",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "agent-memory-map.canvas": {
     "slug": "agent-memory-map.canvas",
     "filePath": "agent-memory-map.canvas.md",
@@ -833,6 +844,13 @@
     "slug": "memory/index",
     "filePath": "memory/index.md",
     "title": "memory",
+    "links": [],
+    "tags": []
+  },
+  "memory/byoa/index": {
+    "slug": "memory/byoa/index",
+    "filePath": "memory/byoa/index.md",
+    "title": "byoa",
     "links": [],
     "tags": []
   },

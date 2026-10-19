@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 83 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 85 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -21,6 +21,7 @@
 - [Brick Rigs runs better without gamescope](https://unixuserdev.github.io/memory/brick-rigs-runs-better-without-gamescope): memory/gaming
 - [Browser Hardware Acceleration](https://unixuserdev.github.io/cachyos/browser-hardware-acceleration): note/cachyos
 - [Btrfs Snapshots](https://unixuserdev.github.io/cachyos/btrfs-snapshots): note/cachyos
+- [byoa](https://unixuserdev.github.io/memory/byoa/index): -
 - [BYOA project wants Obsidian as agent memory](https://unixuserdev.github.io/memory/byoa-project-wants-obsidian-as-agent-memory): memory/projects
 - [cachy-chroot Recovery Helper](https://unixuserdev.github.io/cachyos/cachy-chroot-recovery-helper): note/cachyos
 - [CachyOS](https://unixuserdev.github.io/cachyos/index): -
@@ -56,6 +57,7 @@
 - [Managing Hardware with chwd](https://unixuserdev.github.io/cachyos/managing-hardware-with-chwd): note/cachyos
 - [memory](https://unixuserdev.github.io/memory/index): -
 - [memory](https://unixuserdev.github.io/tags/memory): -
+- [Memory namespace](https://unixuserdev.github.io/memory/byoa/memory-namespace): memory/projects
 - [memory/cachyos](https://unixuserdev.github.io/tags/memory/cachyos): -
 - [memory/gaming](https://unixuserdev.github.io/tags/memory/gaming): -
 - [memory/homelab](https://unixuserdev.github.io/tags/memory/homelab): -

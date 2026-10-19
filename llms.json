@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 83 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 85 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -92,6 +92,12 @@
         "cachyos/cachyos-filesystems",
         "cachyos/cachyos-boot-managers"
       ]
+    },
+    {
+      "title": "byoa",
+      "url": "https://unixuserdev.github.io/memory/byoa/index",
+      "tags": [],
+      "links": []
     },
     {
       "title": "BYOA project wants Obsidian as agent memory",
@@ -513,6 +519,16 @@
       "url": "https://unixuserdev.github.io/tags/memory",
       "tags": [],
       "links": []
+    },
+    {
+      "title": "Memory namespace",
+      "url": "https://unixuserdev.github.io/memory/byoa/memory-namespace",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
+      ]
     },
     {
       "title": "memory/cachyos",
