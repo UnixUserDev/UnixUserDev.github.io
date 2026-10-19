@@ -137,6 +137,12 @@
     <loc>https://unixuserdev.github.io/memory/appimage-leaks-ld_library_path-and-breaks-notify-send</loc>
     <lastmod>2026-10-16T06:45:32.000Z</lastmod>
   </url><url>
+    <loc>https://unixuserdev.github.io/memory/byoa-is-planned-to-be-open-sourced</loc>
+    <lastmod>2026-10-19T15:43:51.000Z</lastmod>
+  </url><url>
+    <loc>https://unixuserdev.github.io/memory/byoa-memory-is-namespaced-to-its-own-notes</loc>
+    <lastmod>2026-10-19T15:43:51.000Z</lastmod>
+  </url><url>
     <loc>https://unixuserdev.github.io/memory/byoa-project-wants-obsidian-as-agent-memory</loc>
     <lastmod>2026-10-18T09:50:18.000Z</lastmod>
   </url><url>
@@ -185,72 +191,75 @@
     <loc>https://unixuserdev.github.io/memory/verified-bubblewrap-sandbox-recipes-and-gotchas</loc>
     <lastmod>2026-10-18T09:54:54.000Z</lastmod>
   </url><url>
+    <loc>https://unixuserdev.github.io/memory/byoa/byoa-v0.1.0-release-status</loc>
+    <lastmod>2026-10-19T20:55:36.000Z</lastmod>
+  </url><url>
     <loc>https://unixuserdev.github.io/memory/byoa/memory-namespace</loc>
     <lastmod>2026-10-19T20:43:37.000Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/agent-memory-map.canvas</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/opencode-sandbox-map.canvas</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/cachyos/</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/memory/</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/memory/byoa/</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/note</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/note/cachyos</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/note/guide</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/inbox</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/note/kimaki</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/note/remorses</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/note/agents</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/memory</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/memory/linux</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/memory/projects</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/memory/gaming</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/memory/cachyos</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/memory/psychology</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/memory/system</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/memory/project</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url><url>
     <loc>https://unixuserdev.github.io/tags/memory/homelab</loc>
-    <lastmod>2026-10-19T15:43:45.966Z</lastmod>
+    <lastmod>2026-10-19T15:55:44.092Z</lastmod>
   </url></urlset>

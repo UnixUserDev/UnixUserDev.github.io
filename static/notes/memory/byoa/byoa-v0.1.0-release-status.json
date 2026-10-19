@@ -1,0 +1,12 @@
+{
+  "slug": "memory/byoa/byoa-v0.1.0-release-status",
+  "filePath": "memory/byoa/BYOA v0.1.0 release status.md",
+  "title": "BYOA v0.1.0 release status",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "BYOA is at v0.1.0 (git tag v0.1.0), released publicly at github.com/UnixUserDev/byoa under the MIT license.\nIncluded: the core agent loop, OpenAI-compatible and Anthropic providers (plus local servers such as LM Studio, Ollama and llama.cpp), session persistence with resume, the shell and file tools, the bubblewrap sandbox with a read-allowlist skeleton root, three prompt tiers (lite/normal/large), and namespaced Obsidian-backed memory.\nNot included yet: TUI, Web and Electron adapters, MCP, subagents, and web fetch/search.\nQuality: 184 tests passing including real-bubblewrap isolation tests, tsc \u2014noEmit clean. Requires Node 26 or newer; bubblewrap is needed for sandboxing, and strict mode (the default) refuses to run unwrapped when it is missing.\nInbox"
+}

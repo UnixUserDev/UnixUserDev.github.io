@@ -632,6 +632,28 @@
       "memory/linux"
     ]
   },
+  "memory/byoa-is-planned-to-be-open-sourced": {
+    "slug": "memory/byoa-is-planned-to-be-open-sourced",
+    "filePath": "memory/BYOA is planned to be open-sourced.md",
+    "title": "BYOA is planned to be open-sourced",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
+  "memory/byoa-memory-is-namespaced-to-its-own-notes": {
+    "slug": "memory/byoa-memory-is-namespaced-to-its-own-notes",
+    "filePath": "memory/BYOA memory is namespaced to its own notes.md",
+    "title": "BYOA memory is namespaced to its own notes",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "memory/byoa-project-wants-obsidian-as-agent-memory": {
     "slug": "memory/byoa-project-wants-obsidian-as-agent-memory",
     "filePath": "memory/BYOA project wants Obsidian as agent memory.md",
@@ -801,6 +823,17 @@
     "slug": "memory/verified-bubblewrap-sandbox-recipes-and-gotchas",
     "filePath": "memory/Verified bubblewrap sandbox recipes and gotchas.md",
     "title": "Verified bubblewrap sandbox recipes and gotchas",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
+  "memory/byoa/byoa-v0.1.0-release-status": {
+    "slug": "memory/byoa/byoa-v0.1.0-release-status",
+    "filePath": "memory/byoa/BYOA v0.1.0 release status.md",
+    "title": "BYOA v0.1.0 release status",
     "links": [
       "inbox"
     ],

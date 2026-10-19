@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 85 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 88 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -100,8 +100,38 @@
       "links": []
     },
     {
+      "title": "BYOA is planned to be open-sourced",
+      "url": "https://unixuserdev.github.io/memory/byoa-is-planned-to-be-open-sourced",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "BYOA memory is namespaced to its own notes",
+      "url": "https://unixuserdev.github.io/memory/byoa-memory-is-namespaced-to-its-own-notes",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
       "title": "BYOA project wants Obsidian as agent memory",
       "url": "https://unixuserdev.github.io/memory/byoa-project-wants-obsidian-as-agent-memory",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "BYOA v0.1.0 release status",
+      "url": "https://unixuserdev.github.io/memory/byoa/byoa-v0.1.0-release-status",
       "tags": [
         "memory/projects"
       ],

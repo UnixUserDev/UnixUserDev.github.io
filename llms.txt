@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 85 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 88 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -22,7 +22,10 @@
 - [Browser Hardware Acceleration](https://unixuserdev.github.io/cachyos/browser-hardware-acceleration): note/cachyos
 - [Btrfs Snapshots](https://unixuserdev.github.io/cachyos/btrfs-snapshots): note/cachyos
 - [byoa](https://unixuserdev.github.io/memory/byoa/index): -
+- [BYOA is planned to be open-sourced](https://unixuserdev.github.io/memory/byoa-is-planned-to-be-open-sourced): memory/projects
+- [BYOA memory is namespaced to its own notes](https://unixuserdev.github.io/memory/byoa-memory-is-namespaced-to-its-own-notes): memory/projects
 - [BYOA project wants Obsidian as agent memory](https://unixuserdev.github.io/memory/byoa-project-wants-obsidian-as-agent-memory): memory/projects
+- [BYOA v0.1.0 release status](https://unixuserdev.github.io/memory/byoa/byoa-v0.1.0-release-status): memory/projects
 - [cachy-chroot Recovery Helper](https://unixuserdev.github.io/cachyos/cachy-chroot-recovery-helper): note/cachyos
 - [CachyOS](https://unixuserdev.github.io/cachyos/index): -
 - [CachyOS Boot Managers](https://unixuserdev.github.io/cachyos/cachyos-boot-managers): note/cachyos
