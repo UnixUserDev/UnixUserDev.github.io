@@ -621,6 +621,17 @@
       "index"
     ]
   },
+  "memory/always-distribute-software-via-releases": {
+    "slug": "memory/always-distribute-software-via-releases",
+    "filePath": "memory/Always distribute software via releases.md",
+    "title": "Always distribute software via releases",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/preferences"
+    ]
+  },
   "memory/appimage-leaks-ld_library_path-and-breaks-notify-send": {
     "slug": "memory/appimage-leaks-ld_library_path-and-breaks-notify-send",
     "filePath": "memory/AppImage leaks LD_LIBRARY_PATH and breaks notify-send.md",
@@ -947,6 +958,13 @@
     "slug": "tags/memory",
     "filePath": "tags/memory.md",
     "title": "memory",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/preferences": {
+    "slug": "tags/memory/preferences",
+    "filePath": "tags/memory/preferences.md",
+    "title": "memory/preferences",
     "links": [],
     "tags": []
   },

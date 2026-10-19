@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 88 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 90 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -14,6 +14,7 @@
 ## Pages
 
 - [Agent Memory Map](https://unixuserdev.github.io/agent-memory-map.canvas): -
+- [Always distribute software via releases](https://unixuserdev.github.io/memory/always-distribute-software-via-releases): memory/preferences
 - [AppImage leaks LD_LIBRARY_PATH and breaks notify-send](https://unixuserdev.github.io/memory/appimage-leaks-ld_library_path-and-breaks-notify-send): memory/linux
 - [Automounting Drives at Boot](https://unixuserdev.github.io/cachyos/automounting-drives-at-boot): note/cachyos
 - [Boot Manager Configuration](https://unixuserdev.github.io/cachyos/boot-manager-configuration): note/cachyos
@@ -65,6 +66,7 @@
 - [memory/gaming](https://unixuserdev.github.io/tags/memory/gaming): -
 - [memory/homelab](https://unixuserdev.github.io/tags/memory/homelab): -
 - [memory/linux](https://unixuserdev.github.io/tags/memory/linux): -
+- [memory/preferences](https://unixuserdev.github.io/tags/memory/preferences): -
 - [memory/project](https://unixuserdev.github.io/tags/memory/project): -
 - [memory/projects](https://unixuserdev.github.io/tags/memory/projects): -
 - [memory/psychology](https://unixuserdev.github.io/tags/memory/psychology): -

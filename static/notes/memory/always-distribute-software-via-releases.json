@@ -1,0 +1,12 @@
+{
+  "slug": "memory/always-distribute-software-via-releases",
+  "filePath": "memory/Always distribute software via releases.md",
+  "title": "Always distribute software via releases",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/preferences"
+  ],
+  "content": "The user requires software to be distributed and installed via release artifacts, never plain source code. For BYOA this means built bundles attached to GitHub Releases (standalone tarball + npm-installable tarball) and install instructions that never say \u201cgit clone and run the source\u201d. Node cannot type-strip TypeScript inside node_modules, so a source tarball is not a runnable package.\nInbox"
+}
