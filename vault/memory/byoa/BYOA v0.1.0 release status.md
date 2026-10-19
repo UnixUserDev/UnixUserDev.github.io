@@ -1,11 +1,16 @@
 ---
 tags:
   - memory/projects
-created: 2026-10-19T15:55:36
+created: 2026-10-19T15:56:43
 source: byoa
 ---
 
-BYOA is at v0.1.0 (git tag v0.1.0), released publicly at https://github.com/UnixUserDev/byoa under the MIT license.
+Version: 0.1.0
+Release tag: v0.1.0
+Repository: https://github.com/UnixUserDev/byoa
+License: MIT
+
+BYOA is a local-first, bring-your-own-everything coding agent harness, released publicly on GitHub.
 
 Included: the core agent loop, OpenAI-compatible and Anthropic providers (plus local servers such as LM Studio, Ollama and llama.cpp), session persistence with resume, the shell and file tools, the bubblewrap sandbox with a read-allowlist skeleton root, three prompt tiers (lite/normal/large), and namespaced Obsidian-backed memory.
 
