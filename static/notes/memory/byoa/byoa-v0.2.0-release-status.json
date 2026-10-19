@@ -1,0 +1,12 @@
+{
+  "slug": "memory/byoa/byoa-v0.2.0-release-status",
+  "filePath": "memory/byoa/BYOA v0.2.0 release status.md",
+  "title": "BYOA v0.2.0 release status",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "Version: 0.2.0\nRelease tag: v0.2.0\nRepository: github.com/UnixUserDev/byoa\nReleases: github.com/UnixUserDev/byoa/releases\nLicense: MIT\nBYOA stands for Bring Your Own Agent: a local-first, bring-your-own-agent coding harness, released publicly on GitHub.\nIncluded: the core agent loop, OpenAI-compatible and Anthropic providers (plus local servers such as LM Studio, Ollama and llama.cpp), session persistence with resume, the shell and file tools, the bubblewrap sandbox with a read-allowlist skeleton root, three prompt tiers (lite/normal/large), namespaced Obsidian-backed memory, and a TUI (\u2014tui) on OpenTUI.\nNot included yet: Web and Electron adapters, MCP, subagents, and web fetch/search.\nDistribution: releases ship built artifacts (standalone tarball with node_modules beside the launcher, and an npm-installable tarball). The source tree is not an installable package because Node cannot type-strip TypeScript inside node_modules.\nQuality: 212 tests passing including real-bubblewrap isolation tests and headless OpenTUI render tests; tsc \u2014noEmit clean. Requires Node 26 or newer; bubblewrap is needed for sandboxing, and strict mode (the default) refuses to run unwrapped when it is missing.\nInbox"
+}

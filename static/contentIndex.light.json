@@ -841,10 +841,10 @@
       "memory/projects"
     ]
   },
-  "memory/byoa/byoa-v0.1.0-release-status": {
-    "slug": "memory/byoa/byoa-v0.1.0-release-status",
-    "filePath": "memory/byoa/BYOA v0.1.0 release status.md",
-    "title": "BYOA v0.1.0 release status",
+  "memory/byoa/byoa-v0.2.0-release-status": {
+    "slug": "memory/byoa/byoa-v0.2.0-release-status",
+    "filePath": "memory/byoa/BYOA v0.2.0 release status.md",
+    "title": "BYOA v0.2.0 release status",
     "links": [
       "inbox"
     ],
