@@ -852,6 +852,17 @@
       "memory/projects"
     ]
   },
+  "memory/byoa/definition-of-clanker": {
+    "slug": "memory/byoa/definition-of-clanker",
+    "filePath": "memory/byoa/Definition of Clanker.md",
+    "title": "Definition of Clanker",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "vocabulary"
+    ]
+  },
   "memory/byoa/memory-namespace": {
     "slug": "memory/byoa/memory-namespace",
     "filePath": "memory/byoa/Memory namespace.md",
@@ -1021,6 +1032,13 @@
     "slug": "tags/memory/homelab",
     "filePath": "tags/memory/homelab.md",
     "title": "memory/homelab",
+    "links": [],
+    "tags": []
+  },
+  "tags/vocabulary": {
+    "slug": "tags/vocabulary",
+    "filePath": "tags/vocabulary.md",
+    "title": "vocabulary",
     "links": [],
     "tags": []
   }

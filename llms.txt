@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 90 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 92 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -40,6 +40,7 @@
 - [CachyOS Wiki Notes](https://unixuserdev.github.io/cachyos/cachyos-wiki-notes): note/cachyos
 - [Camera pose tracker findings](https://unixuserdev.github.io/camera-pose-tracker-findings): note/guide
 - [CKAN installed for Kerbal Space Program](https://unixuserdev.github.io/memory/ckan-installed-for-kerbal-space-program): memory/cachyos
+- [Definition of Clanker](https://unixuserdev.github.io/memory/byoa/definition-of-clanker): vocabulary
 - [Distros fastfetch has no logo for](https://unixuserdev.github.io/memory/distros-fastfetch-has-no-logo-for): memory/linux
 - [Dual GPU Setup](https://unixuserdev.github.io/cachyos/dual-gpu-setup): note/cachyos
 - [EGL Headless 3D Acceleration](https://unixuserdev.github.io/cachyos/egl-headless-3d-acceleration): note/cachyos
@@ -101,5 +102,6 @@
 - [Use the Agent-Opencode account for agent GitHub work](https://unixuserdev.github.io/memory/use-the-agent-opencode-account-for-agent-github-work): memory/linux
 - [Verified bubblewrap sandbox recipes and gotchas](https://unixuserdev.github.io/memory/verified-bubblewrap-sandbox-recipes-and-gotchas): memory/projects
 - [Virtio-Venus 3D Acceleration](https://unixuserdev.github.io/cachyos/virtio-venus-3d-acceleration): note/cachyos
+- [vocabulary](https://unixuserdev.github.io/tags/vocabulary): -
 - [Web fetch by client](https://unixuserdev.github.io/web-fetch-by-client): note/agents
 - [Why CachyOS](https://unixuserdev.github.io/cachyos/why-cachyos): note/cachyos

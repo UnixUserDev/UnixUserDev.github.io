@@ -6,6 +6,12 @@
       <description>Last 10 notes on Obsidian Vault</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Definition of Clanker</title>
+    <link>https://unixuserdev.github.io/memory/byoa/definition-of-clanker</link>
+    <guid>https://unixuserdev.github.io/memory/byoa/definition-of-clanker</guid>
+    <description><![CDATA[ Clanker is a derogatory term used to refer to a robot. Inbox. ]]></description>
+    <pubDate>Mon, 19 Oct 2026 22:04:00 GMT</pubDate>
+  </item><item>
     <title>BYOA v0.2.0 release status</title>
     <link>https://unixuserdev.github.io/memory/byoa/byoa-v0.2.0-release-status</link>
     <guid>https://unixuserdev.github.io/memory/byoa/byoa-v0.2.0-release-status</guid>
@@ -22,49 +28,43 @@
     <link>https://unixuserdev.github.io/agent-memory-map.canvas</link>
     <guid>https://unixuserdev.github.io/agent-memory-map.canvas</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 19 Oct 2026 16:22:34 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 17:04:10 GMT</pubDate>
   </item><item>
     <title>OpenCode-Sandbox Map</title>
     <link>https://unixuserdev.github.io/opencode-sandbox-map.canvas</link>
     <guid>https://unixuserdev.github.io/opencode-sandbox-map.canvas</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 19 Oct 2026 16:22:34 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 17:04:10 GMT</pubDate>
   </item><item>
     <title>CachyOS</title>
     <link>https://unixuserdev.github.io/cachyos/</link>
     <guid>https://unixuserdev.github.io/cachyos/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 19 Oct 2026 16:22:34 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 17:04:10 GMT</pubDate>
   </item><item>
     <title>memory</title>
     <link>https://unixuserdev.github.io/memory/</link>
     <guid>https://unixuserdev.github.io/memory/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 19 Oct 2026 16:22:34 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 17:04:10 GMT</pubDate>
   </item><item>
     <title>byoa</title>
     <link>https://unixuserdev.github.io/memory/byoa/</link>
     <guid>https://unixuserdev.github.io/memory/byoa/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 19 Oct 2026 16:22:34 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 17:04:10 GMT</pubDate>
   </item><item>
     <title>note</title>
     <link>https://unixuserdev.github.io/tags/note</link>
     <guid>https://unixuserdev.github.io/tags/note</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 19 Oct 2026 16:22:34 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 17:04:10 GMT</pubDate>
   </item><item>
     <title>note/cachyos</title>
     <link>https://unixuserdev.github.io/tags/note/cachyos</link>
     <guid>https://unixuserdev.github.io/tags/note/cachyos</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 19 Oct 2026 16:22:34 GMT</pubDate>
-  </item><item>
-    <title>note/guide</title>
-    <link>https://unixuserdev.github.io/tags/note/guide</link>
-    <guid>https://unixuserdev.github.io/tags/note/guide</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 19 Oct 2026 16:22:34 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 17:04:10 GMT</pubDate>
   </item>
     </channel>
   </rss>

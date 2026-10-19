@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 90 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 92 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -328,6 +328,16 @@
       "url": "https://unixuserdev.github.io/memory/ckan-installed-for-kerbal-space-program",
       "tags": [
         "memory/cachyos"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "Definition of Clanker",
+      "url": "https://unixuserdev.github.io/memory/byoa/definition-of-clanker",
+      "tags": [
+        "vocabulary"
       ],
       "links": [
         "inbox"
@@ -919,6 +929,12 @@
       "links": [
         "cachyos/cachyos-wiki-notes"
       ]
+    },
+    {
+      "title": "vocabulary",
+      "url": "https://unixuserdev.github.io/tags/vocabulary",
+      "tags": [],
+      "links": []
     },
     {
       "title": "Web fetch by client",
