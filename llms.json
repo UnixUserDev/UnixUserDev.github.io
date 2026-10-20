@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 96 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 97 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -348,6 +348,16 @@
       "url": "https://unixuserdev.github.io/memory/desktop-capture-setup-replaced-spectacle-with-flameshot-and-kooha",
       "tags": [
         "memory/tech"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "Desktop pinned to KDE Plasma 6.7.5 for X11",
+      "url": "https://unixuserdev.github.io/memory/desktop-pinned-to-kde-plasma-6.7.5-for-x11",
+      "tags": [
+        "memory/system"
       ],
       "links": [
         "inbox"

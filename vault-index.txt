@@ -720,6 +720,17 @@
       "memory/tech"
     ]
   },
+  "memory/desktop-pinned-to-kde-plasma-6.7.5-for-x11": {
+    "slug": "memory/desktop-pinned-to-kde-plasma-6.7.5-for-x11",
+    "filePath": "memory/Desktop pinned to KDE Plasma 6.7.5 for X11.md",
+    "title": "Desktop pinned to KDE Plasma 6.7.5 for X11",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/system"
+    ]
+  },
   "memory/distros-fastfetch-has-no-logo-for": {
     "slug": "memory/distros-fastfetch-has-no-logo-for",
     "filePath": "memory/Distros fastfetch has no logo for.md",
@@ -1036,17 +1047,17 @@
     "links": [],
     "tags": []
   },
-  "tags/memory/psychology": {
-    "slug": "tags/memory/psychology",
-    "filePath": "tags/memory/psychology.md",
-    "title": "memory/psychology",
-    "links": [],
-    "tags": []
-  },
   "tags/memory/system": {
     "slug": "tags/memory/system",
     "filePath": "tags/memory/system.md",
     "title": "memory/system",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/psychology": {
+    "slug": "tags/memory/psychology",
+    "filePath": "tags/memory/psychology.md",
+    "title": "memory/psychology",
     "links": [],
     "tags": []
   },
