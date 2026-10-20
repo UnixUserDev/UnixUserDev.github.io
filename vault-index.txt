@@ -881,6 +881,17 @@
       "memory/linux"
     ]
   },
+  "memory/user-wants-screenshots-auto-copied-but-never-auto-saved": {
+    "slug": "memory/user-wants-screenshots-auto-copied-but-never-auto-saved",
+    "filePath": "memory/User wants screenshots auto-copied but never auto-saved.md",
+    "title": "User wants screenshots auto-copied but never auto-saved",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/tech"
+    ]
+  },
   "memory/verified-bubblewrap-sandbox-recipes-and-gotchas": {
     "slug": "memory/verified-bubblewrap-sandbox-recipes-and-gotchas",
     "filePath": "memory/Verified bubblewrap sandbox recipes and gotchas.md",

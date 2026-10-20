@@ -1,0 +1,12 @@
+{
+  "slug": "memory/user-wants-screenshots-auto-copied-but-never-auto-saved",
+  "filePath": "memory/User wants screenshots auto-copied but never auto-saved.md",
+  "title": "User wants screenshots auto-copied but never auto-saved",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/tech"
+  ],
+  "content": "Screenshot preference: auto-copy to clipboard is wanted, auto-save to disk is not. Flameshot is configured with fl.saveAfterCopy=false and the Print hotkey runs \u201cflameshot gui -c -s\u201d (press Print, drag, release = image already in clipboard, no toolbar, no file written). Ctrl+Print opens the full toolbar for annotating; Shift+Print repeats the last region. Files are only written when explicitly saved.\nInbox"
+}

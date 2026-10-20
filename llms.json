@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 99 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 100 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -963,6 +963,16 @@
       "url": "https://unixuserdev.github.io/memory/use-the-agent-opencode-account-for-agent-github-work",
       "tags": [
         "memory/linux"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "User wants screenshots auto-copied but never auto-saved",
+      "url": "https://unixuserdev.github.io/memory/user-wants-screenshots-auto-copied-but-never-auto-saved",
+      "tags": [
+        "memory/tech"
       ],
       "links": [
         "inbox"
