@@ -1,0 +1,12 @@
+{
+  "slug": "memory/desktop-capture-setup-replaced-spectacle-with-flameshot-and-kooha",
+  "filePath": "memory/Desktop capture setup replaced Spectacle with Flameshot and Kooha.md",
+  "title": "Desktop capture setup replaced Spectacle with Flameshot and Kooha",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/tech"
+  ],
+  "content": "On the CachyOS KDE Plasma 6.8 Wayland desktop, Spectacle is disliked/abandoned as the screen capture tool. Screenshots are handled by Flameshot 14 (Print key, region snip with annotate toolbar, saves to ~/Pictures/Screenshots as \u201cShot  .png\u201d), and video recording by Kooha 2.3.2 (flatpak, because pkexec/pacman install of kooha was refused; hotkey Meta+Shift+R). Game clips use the existing Vice replay-buffer daemon which runs gpu-screen-recorder with a 300s buffer. gpu-screen-recorder-ui was installed but is broken on KDE Wayland (shows transparent window and a Wayland warning), so it is not used.\nInbox"
+}

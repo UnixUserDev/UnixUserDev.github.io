@@ -709,6 +709,17 @@
       "memory/cachyos"
     ]
   },
+  "memory/desktop-capture-setup-replaced-spectacle-with-flameshot-and-kooha": {
+    "slug": "memory/desktop-capture-setup-replaced-spectacle-with-flameshot-and-kooha",
+    "filePath": "memory/Desktop capture setup replaced Spectacle with Flameshot and Kooha.md",
+    "title": "Desktop capture setup replaced Spectacle with Flameshot and Kooha",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/tech"
+    ]
+  },
   "memory/distros-fastfetch-has-no-logo-for": {
     "slug": "memory/distros-fastfetch-has-no-logo-for",
     "filePath": "memory/Distros fastfetch has no logo for.md",
@@ -1015,6 +1026,13 @@
     "slug": "tags/memory/cachyos",
     "filePath": "tags/memory/cachyos.md",
     "title": "memory/cachyos",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/tech": {
+    "slug": "tags/memory/tech",
+    "filePath": "tags/memory/tech.md",
+    "title": "memory/tech",
     "links": [],
     "tags": []
   },
