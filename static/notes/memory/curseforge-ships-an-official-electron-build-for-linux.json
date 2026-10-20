@@ -1,0 +1,12 @@
+{
+  "slug": "memory/curseforge-ships-an-official-electron-build-for-linux",
+  "filePath": "memory/CurseForge ships an official Electron build for Linux.md",
+  "title": "CurseForge ships an official Electron build for Linux",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/linux"
+  ],
+  "content": "The CurseForge support docs still say \u201cWindows and macOS only\u201d, but Overwolf does publish a first-party Linux Electron client at curseforge.overwolf.com/electron/linux/CurseForge__amd64.deb (deb only, no rpm/AppImage). On Arch/CachyOS the AUR package curseforge (maintainer txtsd) is not a Wine wrapper \u2014 its PKGBUILD just repackages that official .deb into /opt/curseforge. Installed that way it is pacman/AUR tracked, so yay -Sua updates it. Verified working on CachyOS X11: launches to the CurseForge SSO login screen. No system Java present, so Minecraft instances need a JRE (or the app\u2019s managed Java) separately.\nInbox\nInbox"
+}

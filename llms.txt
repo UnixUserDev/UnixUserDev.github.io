@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 98 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 99 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -40,6 +40,7 @@
 - [CachyOS Wiki Notes](https://unixuserdev.github.io/cachyos/cachyos-wiki-notes): note/cachyos
 - [Camera pose tracker findings](https://unixuserdev.github.io/camera-pose-tracker-findings): note/guide
 - [CKAN installed for Kerbal Space Program](https://unixuserdev.github.io/memory/ckan-installed-for-kerbal-space-program): memory/cachyos
+- [CurseForge ships an official Electron build for Linux](https://unixuserdev.github.io/memory/curseforge-ships-an-official-electron-build-for-linux): memory/linux
 - [Definition of Clanker](https://unixuserdev.github.io/memory/byoa/definition-of-clanker): vocabulary
 - [Desktop capture setup replaced Spectacle with Flameshot and Kooha](https://unixuserdev.github.io/memory/desktop-capture-setup-replaced-spectacle-with-flameshot-and-kooha): memory/tech
 - [Desktop pinned to KDE Plasma 6.7.5 for X11](https://unixuserdev.github.io/memory/desktop-pinned-to-kde-plasma-6.7.5-for-x11): -

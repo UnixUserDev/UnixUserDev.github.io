@@ -709,6 +709,17 @@
       "memory/cachyos"
     ]
   },
+  "memory/curseforge-ships-an-official-electron-build-for-linux": {
+    "slug": "memory/curseforge-ships-an-official-electron-build-for-linux",
+    "filePath": "memory/CurseForge ships an official Electron build for Linux.md",
+    "title": "CurseForge ships an official Electron build for Linux",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/linux"
+    ]
+  },
   "memory/desktop-capture-setup-replaced-spectacle-with-flameshot-and-kooha": {
     "slug": "memory/desktop-capture-setup-replaced-spectacle-with-flameshot-and-kooha",
     "filePath": "memory/Desktop capture setup replaced Spectacle with Flameshot and Kooha.md",

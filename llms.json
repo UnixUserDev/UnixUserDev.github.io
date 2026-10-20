@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 98 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 99 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -328,6 +328,16 @@
       "url": "https://unixuserdev.github.io/memory/ckan-installed-for-kerbal-space-program",
       "tags": [
         "memory/cachyos"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "CurseForge ships an official Electron build for Linux",
+      "url": "https://unixuserdev.github.io/memory/curseforge-ships-an-official-electron-build-for-linux",
+      "tags": [
+        "memory/linux"
       ],
       "links": [
         "inbox"
