@@ -727,6 +727,17 @@
     "links": [],
     "tags": []
   },
+  "memory/discord-updater-hangs-at-90-percent-on-a-stalled-cdn-download": {
+    "slug": "memory/discord-updater-hangs-at-90-percent-on-a-stalled-cdn-download",
+    "filePath": "memory/Discord updater hangs at 90 percent on a stalled CDN download.md",
+    "title": "Discord updater hangs at 90 percent on a stalled CDN download",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/cachyos"
+    ]
+  },
   "memory/distros-fastfetch-has-no-logo-for": {
     "slug": "memory/distros-fastfetch-has-no-logo-for",
     "filePath": "memory/Distros fastfetch has no logo for.md",

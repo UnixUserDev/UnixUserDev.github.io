@@ -1,0 +1,12 @@
+{
+  "slug": "memory/discord-updater-hangs-at-90-percent-on-a-stalled-cdn-download",
+  "filePath": "memory/Discord updater hangs at 90 percent on a stalled CDN download.md",
+  "title": "Discord updater hangs at 90 percent on a stalled CDN download",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/cachyos"
+  ],
+  "content": "Discord desktop on this machine self-updates into ~/.config/discord (pacman package is only a bootstrap; its version lags, which is normal). It can freeze forever on the \u201cDiscord Updater\u201d splash at 90%.\nDiagnosis: installs/downloads both report 10/10 but progress stays 90; updater threads sit idle in futex/epoll; a 0-byte file in ~/.config/discord/download/incoming/.tmp* opened at the stall time is the dead download; the last module (e.g. discord_spellcheck) never appears in .app-.installing/modules; installer.db-journal left behind. Cause: Discord\u2019s CDN (stable.dl2.discordapp.net) connection returns no bytes and the downloader has no read timeout, so it waits forever. Not disk, not permissions, not the bwrap camera wrapper.\nFix: kill the whole Discord tree (bwrap launcher + splash), delete ~/.config/discord/.app-.installing and download/incoming/*, relaunch /OpenCode-Sandbox/camera-pose/discord-nocam.sh \u2014url \u2014. Next run re-stages and finishes.\nInbox\nInbox"
+}
