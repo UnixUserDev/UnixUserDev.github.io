@@ -356,12 +356,8 @@
     {
       "title": "Desktop pinned to KDE Plasma 6.7.5 for X11",
       "url": "https://unixuserdev.github.io/memory/desktop-pinned-to-kde-plasma-6.7.5-for-x11",
-      "tags": [
-        "memory/system"
-      ],
-      "links": [
-        "inbox"
-      ]
+      "tags": [],
+      "links": []
     },
     {
       "title": "Distros fastfetch has no logo for",

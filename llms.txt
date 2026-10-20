@@ -42,7 +42,7 @@
 - [CKAN installed for Kerbal Space Program](https://unixuserdev.github.io/memory/ckan-installed-for-kerbal-space-program): memory/cachyos
 - [Definition of Clanker](https://unixuserdev.github.io/memory/byoa/definition-of-clanker): vocabulary
 - [Desktop capture setup replaced Spectacle with Flameshot and Kooha](https://unixuserdev.github.io/memory/desktop-capture-setup-replaced-spectacle-with-flameshot-and-kooha): memory/tech
-- [Desktop pinned to KDE Plasma 6.7.5 for X11](https://unixuserdev.github.io/memory/desktop-pinned-to-kde-plasma-6.7.5-for-x11): memory/system
+- [Desktop pinned to KDE Plasma 6.7.5 for X11](https://unixuserdev.github.io/memory/desktop-pinned-to-kde-plasma-6.7.5-for-x11): -
 - [Distros fastfetch has no logo for](https://unixuserdev.github.io/memory/distros-fastfetch-has-no-logo-for): memory/linux
 - [Dual GPU Setup](https://unixuserdev.github.io/cachyos/dual-gpu-setup): note/cachyos
 - [EGL Headless 3D Acceleration](https://unixuserdev.github.io/cachyos/egl-headless-3d-acceleration): note/cachyos
