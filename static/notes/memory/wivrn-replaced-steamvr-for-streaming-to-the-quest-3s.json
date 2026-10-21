@@ -1,0 +1,12 @@
+{
+  "slug": "memory/wivrn-replaced-steamvr-for-streaming-to-the-quest-3s",
+  "filePath": "memory/WiVRn replaced SteamVR for streaming to the Quest 3S.md",
+  "title": "WiVRn replaced SteamVR for streaming to the Quest 3S",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "SteamVR was dropped on this box because vrcompositor kept segfaulting (same instruction pointer each time) and produced \u201cYour host PC has stopped responding\u201d on the Quest 3S. Replaced with WiVRn (Monado-based), which does not route the stream through vrcompositor.\nSetup that works:\n\nServer: Flathub app io.github.wivrn.wivrn 26.9, installed into the USER flatpak installation (the system and user flathub remotes both exist, so installs need an explicit \u2014user or \u2014system).\nClient: WiVRn-release.apk (GitHub release v26.9) sideloaded with adb, package org.meumeu.wivrn.github. Quest 3S over USB reports as 340YC20G8602DJ; needs Developer Mode + USB debugging and the Allow dialog accepted.\nFirewall (ufw): allow 9757/udp, 9757/tcp and 5353/udp, otherwise discovery and streaming silently fail.\nPairing: run the dashboard (flatpak run io.github.wivrn.wivrn), which starts wivrn-server and prints a 6-digit PIN in its server_logs file.\nAudio: WiVRn exposes a PipeWire sink named wivrn.sink. It stays SUSPENDED while another sink is default, which is what \u201cno audio in the headset\u201d looks like. pactl set-default-sink wivrn.sink, or just use the desk headphones.\n\nAlso relevant: Cloudflare WARP (warp-svc) was rewriting routes every few seconds, which made NetworkManager re-DHCP wlan0 every 30-45s and tore down the streaming socket. It is now disabled permanently.\nInbox\nInbox"
+}
