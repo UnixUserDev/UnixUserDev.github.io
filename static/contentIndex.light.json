@@ -643,6 +643,28 @@
       "memory/linux"
     ]
   },
+  "memory/bonelab-pcvr-setup-on-the-cachyos-box": {
+    "slug": "memory/bonelab-pcvr-setup-on-the-cachyos-box",
+    "filePath": "memory/BONELAB PCVR setup on the CachyOS box.md",
+    "title": "BONELAB PCVR setup on the CachyOS box",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
+  "memory/bonelab-saves-are-encrypted-blobs-and-steam-cloud-only-stores-settings": {
+    "slug": "memory/bonelab-saves-are-encrypted-blobs-and-steam-cloud-only-stores-settings",
+    "filePath": "memory/BONELAB saves are encrypted blobs and Steam Cloud only stores settings.md",
+    "title": "BONELAB saves are encrypted blobs and Steam Cloud only stores settings",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/guide"
+    ]
+  },
   "memory/byoa-is-planned-to-be-open-sourced": {
     "slug": "memory/byoa-is-planned-to-be-open-sourced",
     "filePath": "memory/BYOA is planned to be open-sourced.md",
@@ -936,6 +958,17 @@
       "memory/projects"
     ]
   },
+  "memory/mod.io-file-downloads-work-without-login-via-the-page-cdn-link": {
+    "slug": "memory/mod.io-file-downloads-work-without-login-via-the-page-cdn-link",
+    "filePath": "memory/mod.io file downloads work without login via the page CDN link.md",
+    "title": "mod.io file downloads work without login via the page CDN link",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/guide"
+    ]
+  },
   "agent-memory-map.canvas": {
     "slug": "agent-memory-map.canvas",
     "filePath": "agent-memory-map.canvas.md",
@@ -1052,6 +1085,13 @@
     "slug": "tags/memory/projects",
     "filePath": "tags/memory/projects.md",
     "title": "memory/projects",
+    "links": [],
+    "tags": []
+  },
+  "tags/memory/guide": {
+    "slug": "tags/memory/guide",
+    "filePath": "tags/memory/guide.md",
+    "title": "memory/guide",
     "links": [],
     "tags": []
   },

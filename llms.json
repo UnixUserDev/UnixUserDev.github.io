@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 100 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 104 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -42,6 +42,26 @@
       ],
       "links": [
         "cachyos/cachyos-wiki-notes"
+      ]
+    },
+    {
+      "title": "BONELAB PCVR setup on the CachyOS box",
+      "url": "https://unixuserdev.github.io/memory/bonelab-pcvr-setup-on-the-cachyos-box",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "BONELAB saves are encrypted blobs and Steam Cloud only stores settings",
+      "url": "https://unixuserdev.github.io/memory/bonelab-saves-are-encrypted-blobs-and-steam-cloud-only-stores-settings",
+      "tags": [
+        "memory/guide"
+      ],
+      "links": [
+        "inbox"
       ]
     },
     {
@@ -629,6 +649,12 @@
       "links": []
     },
     {
+      "title": "memory/guide",
+      "url": "https://unixuserdev.github.io/tags/memory/guide",
+      "tags": [],
+      "links": []
+    },
+    {
       "title": "memory/homelab",
       "url": "https://unixuserdev.github.io/tags/memory/homelab",
       "tags": [],
@@ -681,6 +707,16 @@
       "url": "https://unixuserdev.github.io/tags/memory/tooling",
       "tags": [],
       "links": []
+    },
+    {
+      "title": "mod.io file downloads work without login via the page CDN link",
+      "url": "https://unixuserdev.github.io/memory/mod.io-file-downloads-work-without-login-via-the-page-cdn-link",
+      "tags": [
+        "memory/guide"
+      ],
+      "links": [
+        "inbox"
+      ]
     },
     {
       "title": "Navigating the CachyOS Wiki",

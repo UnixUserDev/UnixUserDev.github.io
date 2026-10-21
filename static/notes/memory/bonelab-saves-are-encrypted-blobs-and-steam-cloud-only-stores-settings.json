@@ -1,0 +1,12 @@
+{
+  "slug": "memory/bonelab-saves-are-encrypted-blobs-and-steam-cloud-only-stores-settings",
+  "filePath": "memory/BONELAB saves are encrypted blobs and Steam Cloud only stores settings.md",
+  "title": "BONELAB saves are encrypted blobs and Steam Cloud only stores settings",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/guide"
+  ],
+  "content": "BONELAB save files are JSON (format \u201cversion\u201d: 16 on Patch 6) but the important fields are ciphertext, not editable data:\n\u201cunlocks\u201d and \u201cprogression\u201d are base64-encoded fixed-size blobs. A fresh/empty save has 32 bytes each; a 100% save has ~18064 and ~14848 bytes. They are not zlib/gzip-compressed (all decompression attempts fail), so hand-editing or \u201cset all bits\u201d is not possible without the key buried in the IL2CPP GameAssembly.\nConsequence: you cannot fabricate unlocked progression, and the old Thunderstore unlock mods (UnlockAll, Achievement_Unlocker) are 2022 relics pinned to MelonLoader 0.5.x that do nothing on Patch 6. The practical route is a 100% save file from mod.io/Nexus, and it must match both the game patch and the save \u201cversion\u201d field.\nSteam Cloud for BONELAB syncs only \u201cStress Level Zero/BONELAB/settings.json\u201d (see userdata//1592190/remotecache.vdf), so lost progress is never recoverable from the cloud.\nInbox\nInbox"
+}

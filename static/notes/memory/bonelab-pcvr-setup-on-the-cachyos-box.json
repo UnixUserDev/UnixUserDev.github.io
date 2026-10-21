@@ -1,0 +1,12 @@
+{
+  "slug": "memory/bonelab-pcvr-setup-on-the-cachyos-box",
+  "filePath": "memory/BONELAB PCVR setup on the CachyOS box.md",
+  "title": "BONELAB PCVR setup on the CachyOS box",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "BONELAB (Steam app 1592190) is installed at /mnt/External/SteamLibrary/steamapps/common/BONELAB, running under Proton 11.0 from compatdata/1592190.\nModding stack installed for the Doppel mod (RUDYHILL, \u201cbots that learn to move from recordings of you\u201d): MelonLoader 0.7.3 (version.dll + MelonLoader/), BoneLib 3.2.2 (Mods/BoneLib.dll + Plugins/BoneLibUpdater.dll), Mods/Doppel.dll, and UserData/Bot Player/ with the stock starter brain (brain.json tracks weights, tries, kills, closeCalls, minutes).\nGotcha: MelonLoader\u2019s version.dll proxy needs a Wine override or it never loads. Set per-game via the prefix registry rather than Steam launch options \u2014 \u201cversion\u201d=\u201cnative,builtin\u201d under [Software\\Wine\\DllOverrides] in compatdata/1592190/pfx/user.reg. Fallback is Steam launch option WINEDLLOVERRIDES=\u201cversion=n,b\u201d %command%.\nSaves live in compatdata/1592190/pfx/drive_c/users/steamuser/AppData/LocalLow/Stress Level Zero/BONELAB/Saves/ as save_YYYYMMDD.HHMMSS.save.json.\nDoppel dependency trap: Thunderstore\u2019s gnonme-BoneLib-3.1.3 is a dead stub with no DLL; the live package is bonelib-BoneLib.\nInbox\nInbox"
+}

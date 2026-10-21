@@ -1,0 +1,12 @@
+{
+  "slug": "memory/mod.io-file-downloads-work-without-login-via-the-page-cdn-link",
+  "filePath": "memory/mod.io file downloads work without login via the page CDN link.md",
+  "title": "mod.io file downloads work without login via the page CDN link",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/guide"
+  ],
+  "content": "mod.io\u2019s REST API (api.mod.io) rejects anonymous requests with 401 \u201cmalformed/missing api_key\u201d, which makes it look like every mod file needs an account. It doesn\u2019t.\nThe mod web page renders a plain signed CDN URL for the release file, and that URL downloads with no key and no cookies:\ng-.modapi.io/v1/games/&lt;game_id&gt;/mods/&lt;mod_id&gt;/files/&lt;file_id&gt;/download\nExample that worked: game 3809 (BONELAB), mod 5704051, file 7316411 returned 200 OK / 38 MB zip anonymously.\nTo find it: load the mod page in a real browser (the HTML is a JS shell, so curl gets 3 KB of nothing), then query the DOM for anchors whose href contains \u201cmodapi.io\u201d. Do not bother with api.mod.io unless an api_key is available.\nAlso: on mod.io pages the \u201cDownload\u201d control is not a top-level button \u2014 it sits in the release-file row further down the page, which is why people report \u201cthere\u2019s no download button\u201d. Subscribing is not the same as downloading.\nInbox\nInbox"
+}

@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 100 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 104 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -17,6 +17,8 @@
 - [Always distribute software via releases](https://unixuserdev.github.io/memory/always-distribute-software-via-releases): memory/preferences
 - [AppImage leaks LD_LIBRARY_PATH and breaks notify-send](https://unixuserdev.github.io/memory/appimage-leaks-ld_library_path-and-breaks-notify-send): memory/linux
 - [Automounting Drives at Boot](https://unixuserdev.github.io/cachyos/automounting-drives-at-boot): note/cachyos
+- [BONELAB PCVR setup on the CachyOS box](https://unixuserdev.github.io/memory/bonelab-pcvr-setup-on-the-cachyos-box): memory/projects
+- [BONELAB saves are encrypted blobs and Steam Cloud only stores settings](https://unixuserdev.github.io/memory/bonelab-saves-are-encrypted-blobs-and-steam-cloud-only-stores-settings): memory/guide
 - [Boot Manager Configuration](https://unixuserdev.github.io/cachyos/boot-manager-configuration): note/cachyos
 - [Brick Rigs minimize crash fixed by running it in gamescope](https://unixuserdev.github.io/memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope): memory/linux
 - [Brick Rigs runs better without gamescope](https://unixuserdev.github.io/memory/brick-rigs-runs-better-without-gamescope): memory/gaming
@@ -69,6 +71,7 @@
 - [Memory namespace](https://unixuserdev.github.io/memory/byoa/memory-namespace): memory/projects
 - [memory/cachyos](https://unixuserdev.github.io/tags/memory/cachyos): -
 - [memory/gaming](https://unixuserdev.github.io/tags/memory/gaming): -
+- [memory/guide](https://unixuserdev.github.io/tags/memory/guide): -
 - [memory/homelab](https://unixuserdev.github.io/tags/memory/homelab): -
 - [memory/linux](https://unixuserdev.github.io/tags/memory/linux): -
 - [memory/preferences](https://unixuserdev.github.io/tags/memory/preferences): -
@@ -78,6 +81,7 @@
 - [memory/system](https://unixuserdev.github.io/tags/memory/system): -
 - [memory/tech](https://unixuserdev.github.io/tags/memory/tech): -
 - [memory/tooling](https://unixuserdev.github.io/tags/memory/tooling): -
+- [mod.io file downloads work without login via the page CDN link](https://unixuserdev.github.io/memory/mod.io-file-downloads-work-without-login-via-the-page-cdn-link): memory/guide
 - [Navigating the CachyOS Wiki](https://unixuserdev.github.io/cachyos/navigating-the-cachyos-wiki): note/cachyos
 - [Niri Keybinds and FAQ](https://unixuserdev.github.io/cachyos/niri-keybinds-and-faq): note/cachyos
 - [note](https://unixuserdev.github.io/tags/note): -
