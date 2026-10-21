@@ -1,0 +1,12 @@
+{
+  "slug": "memory/pursuitai-brick-rigs-mod-linux-proton-port",
+  "filePath": "memory/PursuitAI Brick Rigs mod Linux Proton port.md",
+  "title": "PursuitAI Brick Rigs mod Linux Proton port",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/gaming"
+  ],
+  "content": "Ported the Windows-only \u201cPursuitAI Alpha 1.0.1\u201d Brick Rigs mod (by MR.HOGE) to Linux in /OpenCode-Sandbox/pursuitai-linux/PursuitAI-Linux-1.0.1. Installer is bash: pursuit.sh install|status|disable|uninstall|verify, lib/{common,find-game,vehicles}.sh, backups+rollback, manifest.sha256.json.\nWhy a port was needed at all: Brick Rigs on this box is the native UE4.27 Linux build (Steam appid 552100), and UE4SS is a Windows DLL injector, so the mod only runs on the Windows depot under Proton (installed via Force compatibility; compatdata/552100/pfx). The vehicle pack + metadata are pure data and work either way. The 15 vehicles go to /drive_c/users/steamuser/AppData/Local/BrickRigs/SavedRemastered/Vehicles, and UE4SS-settings.ini needs Windows Z: paths for ModsFolderPath because UE4SS runs inside the prefix while game files live on the host.\nAudit result: package is not malware; both UE4SS zips are genuine upstream (v3.0.1 release is byte-identical to GitHub), 100/100 manifest hashes matched, no network/exec in any Lua, PNGs clean. The author\u2019s Windows installer is unusually well engineered (SHA256 pins, containment, rollback).\nInbox"
+}

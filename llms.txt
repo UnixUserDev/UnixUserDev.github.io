@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 105 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 106 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -97,6 +97,7 @@
 - [Post Install Setup](https://unixuserdev.github.io/cachyos/post-install-setup): note/cachyos
 - [Preparing a CachyOS USB Installer](https://unixuserdev.github.io/cachyos/preparing-a-cachyos-usb-installer): note/cachyos
 - [Published Obsidian vault lives at the root domain](https://unixuserdev.github.io/memory/published-obsidian-vault-lives-at-the-root-domain): memory/project
+- [PursuitAI Brick Rigs mod Linux Proton port](https://unixuserdev.github.io/memory/pursuitai-brick-rigs-mod-linux-proton-port): memory/gaming
 - [QEMU and VMM Setup](https://unixuserdev.github.io/cachyos/qemu-and-vmm-setup): note/cachyos
 - [QEMU User Session](https://unixuserdev.github.io/cachyos/qemu-user-session): note/cachyos
 - [Qtile Keybinds and FAQ](https://unixuserdev.github.io/cachyos/qtile-keybinds-and-faq): note/cachyos

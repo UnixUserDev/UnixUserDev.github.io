@@ -837,6 +837,17 @@
       "memory/project"
     ]
   },
+  "memory/pursuitai-brick-rigs-mod-linux-proton-port": {
+    "slug": "memory/pursuitai-brick-rigs-mod-linux-proton-port",
+    "filePath": "memory/PursuitAI Brick Rigs mod Linux Proton port.md",
+    "title": "PursuitAI Brick Rigs mod Linux Proton port",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/gaming"
+    ]
+  },
   "memory/roblox-studio-mcp-bridge-on-linux-via-vinegar": {
     "slug": "memory/roblox-studio-mcp-bridge-on-linux-via-vinegar",
     "filePath": "memory/Roblox Studio MCP bridge on Linux via Vinegar.md",

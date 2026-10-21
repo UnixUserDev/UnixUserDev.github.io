@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 105 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 106 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -844,6 +844,16 @@
       "url": "https://unixuserdev.github.io/memory/published-obsidian-vault-lives-at-the-root-domain",
       "tags": [
         "memory/project"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "PursuitAI Brick Rigs mod Linux Proton port",
+      "url": "https://unixuserdev.github.io/memory/pursuitai-brick-rigs-mod-linux-proton-port",
+      "tags": [
+        "memory/gaming"
       ],
       "links": [
         "inbox"
