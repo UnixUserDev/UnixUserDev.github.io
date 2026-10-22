@@ -709,6 +709,17 @@
       "memory/projects"
     ]
   },
+  "memory/brick-rigs-general-ai-mod-by-mr-microcontroller": {
+    "slug": "memory/brick-rigs-general-ai-mod-by-mr-microcontroller",
+    "filePath": "memory/Brick Rigs General AI Mod by Mr Microcontroller.md",
+    "title": "Brick Rigs General AI Mod by Mr Microcontroller",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/gaming"
+    ]
+  },
   "memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope": {
     "slug": "memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope",
     "filePath": "memory/Brick Rigs minimize crash fixed by running it in gamescope.md",

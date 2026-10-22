@@ -1,0 +1,12 @@
+{
+  "slug": "memory/brick-rigs-general-ai-mod-by-mr-microcontroller",
+  "filePath": "memory/Brick Rigs General AI Mod by Mr Microcontroller.md",
+  "title": "Brick Rigs General AI Mod by Mr Microcontroller",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/gaming"
+  ],
+  "content": "\u201cGeneral AI Mod\u201d is a Brick Rigs vehicle-AI mod by Mr Microcontroller (author of BRMM and Traffic AI), closed beta distributed via Patreon/Discord. Setup: in-game General AI menu, Manage Cars \u2192 Add Car with the local vehicle ID (press O \u2192 Open in file explorer \u2192 folder name, e.g. 392), then list tags pipe-separated in \u201cAllowed Cars\u201d. Requires the Experimental branch; the Example AI Car workshop item only works with .0.0.5. Like PursuitAI it is a Windows DLL/UE4SS mod, so on this box it needs the Proton prefix, not the native Linux build.\nInbox\nInbox"
+}

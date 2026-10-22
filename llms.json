@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 111 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 112 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -76,6 +76,16 @@
         "cachyos/btrfs-snapshots",
         "cachyos/secure-boot-setup",
         "cachyos/cachyos-faq-and-troubleshooting"
+      ]
+    },
+    {
+      "title": "Brick Rigs General AI Mod by Mr Microcontroller",
+      "url": "https://unixuserdev.github.io/memory/brick-rigs-general-ai-mod-by-mr-microcontroller",
+      "tags": [
+        "memory/gaming"
+      ],
+      "links": [
+        "inbox"
       ]
     },
     {
