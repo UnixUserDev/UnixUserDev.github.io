@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 112 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 113 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -884,6 +884,16 @@
       "url": "https://unixuserdev.github.io/memory/published-obsidian-vault-lives-at-the-root-domain",
       "tags": [
         "memory/project"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "PursuitAI anti-hijack locks AI police cars",
+      "url": "https://unixuserdev.github.io/memory/pursuitai-anti-hijack-locks-ai-police-cars",
+      "tags": [
+        "memory/gaming"
       ],
       "links": [
         "inbox"

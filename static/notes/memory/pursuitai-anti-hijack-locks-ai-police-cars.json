@@ -1,0 +1,12 @@
+{
+  "slug": "memory/pursuitai-anti-hijack-locks-ai-police-cars",
+  "filePath": "memory/PursuitAI anti-hijack locks AI police cars.md",
+  "title": "PursuitAI anti-hijack locks AI police cars",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/gaming"
+  ],
+  "content": "PursuitAI (the Brick Rigs police mod ported to Linux) now refuses player hijacking of AI-driven cars. Layer 1 blocks the game\u2019s own CanEnterVehicle query through a UE4SS pre-hook (BrickCharacter:CanEnterVehicle) so the entry prompt never appears. Layer 2 is a 100 ms guard in the mod tick: any player-controlled character found in a car that has an AI driver bound (pursuit or city watch) is force-ejected, and if the ejection cannot clear the seat they are ejected and killed after grace_s. Intrusions add strikes (3 within 120 s by default), and a strike or grace ban benches the player for 600 s: entry refused, ejected and killed on sight. The ban is mod-side and in memory, not a game-server kick. Settings live in [anti_hijack] (enabled, prevent_entry, grace_s, ban_s, strikes, strike_window_s, kill) and in the F8 fold \u201c\u0417\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0448\u0438\u043d \u043a\u043e\u043f\u043e\u0432\u201d. Cars without an AI driver stay enterable on purpose so a player can sit in one to mark it.\nInbox"
+}
