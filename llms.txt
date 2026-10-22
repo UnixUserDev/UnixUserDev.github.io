@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 108 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 109 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -90,6 +90,7 @@
 - [note/guide](https://unixuserdev.github.io/tags/note/guide): -
 - [note/kimaki](https://unixuserdev.github.io/tags/note/kimaki): -
 - [note/remorses](https://unixuserdev.github.io/tags/note/remorses): -
+- [OpenCode Mobile is the phone client for this box](https://unixuserdev.github.io/memory/opencode-mobile-is-the-phone-client-for-this-box): memory/projects
 - [OpenCode-Sandbox Map](https://unixuserdev.github.io/opencode-sandbox-map.canvas): -
 - [OpenTUI runs on Node 26 without Bun for the roguelike](https://unixuserdev.github.io/memory/opentui-runs-on-node-26-without-bun-for-the-roguelike): memory/projects
 - [Optimized Repositories and x86-64 Levels](https://unixuserdev.github.io/cachyos/optimized-repositories-and-x86-64-levels): note/cachyos

@@ -815,6 +815,17 @@
       "memory/linux"
     ]
   },
+  "memory/opencode-mobile-is-the-phone-client-for-this-box": {
+    "slug": "memory/opencode-mobile-is-the-phone-client-for-this-box",
+    "filePath": "memory/OpenCode Mobile is the phone client for this box.md",
+    "title": "OpenCode Mobile is the phone client for this box",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "memory/opentui-runs-on-node-26-without-bun-for-the-roguelike": {
     "slug": "memory/opentui-runs-on-node-26-without-bun-for-the-roguelike",
     "filePath": "memory/OpenTUI runs on Node 26 without Bun for the roguelike.md",

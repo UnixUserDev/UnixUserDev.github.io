@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 108 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 109 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -775,6 +775,16 @@
       "url": "https://unixuserdev.github.io/tags/note/remorses",
       "tags": [],
       "links": []
+    },
+    {
+      "title": "OpenCode Mobile is the phone client for this box",
+      "url": "https://unixuserdev.github.io/memory/opencode-mobile-is-the-phone-client-for-this-box",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
+      ]
     },
     {
       "title": "OpenCode-Sandbox Map",
