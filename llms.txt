@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 107 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 108 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -104,6 +104,7 @@
 - [Roblox Studio MCP bridge on Linux via Vinegar](https://unixuserdev.github.io/memory/roblox-studio-mcp-bridge-on-linux-via-vinegar): memory/projects
 - [sched-ext Schedulers](https://unixuserdev.github.io/cachyos/sched-ext-schedulers): note/cachyos
 - [Secure Boot Setup](https://unixuserdev.github.io/cachyos/secure-boot-setup): note/cachyos
+- [SpaceCachyOS runs Wayland-only KDE Plasma on an RTX 4060](https://unixuserdev.github.io/memory/spacecachyos-runs-wayland-only-kde-plasma-on-an-rtx-4060): memory/system
 - [Spectacle needs software renderer on NVIDIA Wayland](https://unixuserdev.github.io/memory/spectacle-needs-software-renderer-on-nvidia-wayland): memory/linux
 - [Switching Between NVIDIA and AMD GPUs](https://unixuserdev.github.io/cachyos/switching-between-nvidia-and-amd-gpus): note/cachyos
 - [Switching Desktop Environments](https://unixuserdev.github.io/cachyos/switching-desktop-environments): note/cachyos

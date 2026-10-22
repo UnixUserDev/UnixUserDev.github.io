@@ -859,6 +859,17 @@
       "memory/projects"
     ]
   },
+  "memory/spacecachyos-runs-wayland-only-kde-plasma-on-an-rtx-4060": {
+    "slug": "memory/spacecachyos-runs-wayland-only-kde-plasma-on-an-rtx-4060",
+    "filePath": "memory/SpaceCachyOS runs Wayland-only KDE Plasma on an RTX 4060.md",
+    "title": "SpaceCachyOS runs Wayland-only KDE Plasma on an RTX 4060",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/system"
+    ]
+  },
   "memory/spectacle-needs-software-renderer-on-nvidia-wayland": {
     "slug": "memory/spectacle-needs-software-renderer-on-nvidia-wayland",
     "filePath": "memory/Spectacle needs software renderer on NVIDIA Wayland.md",

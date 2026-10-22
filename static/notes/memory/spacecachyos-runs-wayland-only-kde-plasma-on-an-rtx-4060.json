@@ -1,0 +1,12 @@
+{
+  "slug": "memory/spacecachyos-runs-wayland-only-kde-plasma-on-an-rtx-4060",
+  "filePath": "memory/SpaceCachyOS runs Wayland-only KDE Plasma on an RTX 4060.md",
+  "title": "SpaceCachyOS runs Wayland-only KDE Plasma on an RTX 4060",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/system"
+  ],
+  "content": "The SpaceCachyOS desktop is deliberately Wayland-only KDE Plasma (startplasma-wayland only, no kwin-x11 / plasma-x11-session / xorg-server; /usr/share/xsessions does not exist). GPU is an RTX 4060 on the nvidia-open drivers with nvidia_drm modeset and fbdev enabled. Login goes through Plasma Login Manager (plasmalogin) with session \u201cplasma\u201d. xorg-xwayland stays installed because plasma-workspace and gamescope depend on it.\nInbox"
+}

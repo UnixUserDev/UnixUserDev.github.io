@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 107 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 108 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -928,6 +928,16 @@
         "cachyos/cachyos-settings-package",
         "cachyos/cachyos-boot-managers",
         "cachyos/boot-manager-configuration"
+      ]
+    },
+    {
+      "title": "SpaceCachyOS runs Wayland-only KDE Plasma on an RTX 4060",
+      "url": "https://unixuserdev.github.io/memory/spacecachyos-runs-wayland-only-kde-plasma-on-an-rtx-4060",
+      "tags": [
+        "memory/system"
+      ],
+      "links": [
+        "inbox"
       ]
     },
     {
