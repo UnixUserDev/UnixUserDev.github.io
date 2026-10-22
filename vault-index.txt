@@ -665,6 +665,17 @@
       "memory/guide"
     ]
   },
+  "memory/byoa-0.3.0-ships-the-extension-layer": {
+    "slug": "memory/byoa-0.3.0-ships-the-extension-layer",
+    "filePath": "memory/BYOA 0.3.0 ships the extension layer.md",
+    "title": "BYOA 0.3.0 ships the extension layer",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "memory/byoa-is-planned-to-be-open-sourced": {
     "slug": "memory/byoa-is-planned-to-be-open-sourced",
     "filePath": "memory/BYOA is planned to be open-sourced.md",

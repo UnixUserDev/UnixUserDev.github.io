@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 110 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 111 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -25,6 +25,7 @@
 - [Browser Hardware Acceleration](https://unixuserdev.github.io/cachyos/browser-hardware-acceleration): note/cachyos
 - [Btrfs Snapshots](https://unixuserdev.github.io/cachyos/btrfs-snapshots): note/cachyos
 - [byoa](https://unixuserdev.github.io/memory/byoa/index): -
+- [BYOA 0.3.0 ships the extension layer](https://unixuserdev.github.io/memory/byoa-0.3.0-ships-the-extension-layer): memory/projects
 - [BYOA is planned to be open-sourced](https://unixuserdev.github.io/memory/byoa-is-planned-to-be-open-sourced): memory/projects
 - [BYOA memory is namespaced to its own notes](https://unixuserdev.github.io/memory/byoa-memory-is-namespaced-to-its-own-notes): memory/projects
 - [BYOA project wants Obsidian as agent memory](https://unixuserdev.github.io/memory/byoa-project-wants-obsidian-as-agent-memory): memory/projects

@@ -1,0 +1,12 @@
+{
+  "slug": "memory/byoa-0.3.0-ships-the-extension-layer",
+  "filePath": "memory/BYOA 0.3.0 ships the extension layer.md",
+  "title": "BYOA 0.3.0 ships the extension layer",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "BYOA (github.com/UnixUserDev/byoa) shipped v0.3.0 with an extension layer built as one feature: plugins (~/.config/byoa/plugins, enabled by name only, tools namespaced plugin__), an MCP client (stdio + Streamable HTTP, tools as mcp__, default mutating so \u2014ask gates them), and subagents (the task tool, child sessions linked by sessions.parent_id, shown in byoa sessions --tree). Test count went 218 -&gt; 300; DB schema v2. Deliberate trust boundaries documented rather than implied: plugins run in-process with full privileges, MCP servers are host-side and \u2014net deny does not reach them. Supersedes the \u201cBYOA v0.2.0 release status\u201d note.\nInbox"
+}

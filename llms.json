@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 110 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 111 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -128,6 +128,16 @@
       "url": "https://unixuserdev.github.io/memory/byoa/index",
       "tags": [],
       "links": []
+    },
+    {
+      "title": "BYOA 0.3.0 ships the extension layer",
+      "url": "https://unixuserdev.github.io/memory/byoa-0.3.0-ships-the-extension-layer",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
+      ]
     },
     {
       "title": "BYOA is planned to be open-sourced",
