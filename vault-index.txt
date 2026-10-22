@@ -815,6 +815,17 @@
       "memory/linux"
     ]
   },
+  "memory/opencode-mobile-android-app-shipped": {
+    "slug": "memory/opencode-mobile-android-app-shipped",
+    "filePath": "memory/OpenCode Mobile Android app shipped.md",
+    "title": "OpenCode Mobile Android app shipped",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "memory/opencode-mobile-is-the-phone-client-for-this-box": {
     "slug": "memory/opencode-mobile-is-the-phone-client-for-this-box",
     "filePath": "memory/OpenCode Mobile is the phone client for this box.md",
