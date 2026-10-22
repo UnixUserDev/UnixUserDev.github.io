@@ -947,6 +947,17 @@
       "memory/projects"
     ]
   },
+  "memory/wiz-light-mapping-left-and-right": {
+    "slug": "memory/wiz-light-mapping-left-and-right",
+    "filePath": "memory/WiZ light mapping left and right.md",
+    "title": "WiZ light mapping left and right",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "memory/byoa/byoa-v0.2.0-release-status": {
     "slug": "memory/byoa/byoa-v0.2.0-release-status",
     "filePath": "memory/byoa/BYOA v0.2.0 release status.md",

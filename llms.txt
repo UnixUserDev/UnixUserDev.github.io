@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 106 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 107 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -119,3 +119,4 @@
 - [Web fetch by client](https://unixuserdev.github.io/web-fetch-by-client): note/agents
 - [Why CachyOS](https://unixuserdev.github.io/cachyos/why-cachyos): note/cachyos
 - [WiVRn replaced SteamVR for streaming to the Quest 3S](https://unixuserdev.github.io/memory/wivrn-replaced-steamvr-for-streaming-to-the-quest-3s): memory/projects
+- [WiZ light mapping left and right](https://unixuserdev.github.io/memory/wiz-light-mapping-left-and-right): memory/projects

@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 106 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 107 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -1076,6 +1076,16 @@
     {
       "title": "WiVRn replaced SteamVR for streaming to the Quest 3S",
       "url": "https://unixuserdev.github.io/memory/wivrn-replaced-steamvr-for-streaming-to-the-quest-3s",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "WiZ light mapping left and right",
+      "url": "https://unixuserdev.github.io/memory/wiz-light-mapping-left-and-right",
       "tags": [
         "memory/projects"
       ],
