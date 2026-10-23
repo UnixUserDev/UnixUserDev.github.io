@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 117 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 118 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -985,6 +985,16 @@
         "cachyos/cachyos-wiki-notes",
         "cachyos/switching-desktop-environments",
         "cachyos/cachyos-desktop-environments"
+      ]
+    },
+    {
+      "title": "Roblox AI agent skill repos that cover Luau",
+      "url": "https://unixuserdev.github.io/memory/roblox-ai-agent-skill-repos-that-cover-luau",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
       ]
     },
     {

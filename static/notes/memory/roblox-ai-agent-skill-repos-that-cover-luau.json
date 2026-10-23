@@ -1,0 +1,12 @@
+{
+  "slug": "memory/roblox-ai-agent-skill-repos-that-cover-luau",
+  "filePath": "memory/Roblox AI agent skill repos that cover Luau.md",
+  "title": "Roblox AI agent skill repos that cover Luau",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/projects"
+  ],
+  "content": "Agent skill packs that teach coding agents Roblox/Luau, for building games. Shortlist found 2026-10-22:\n\u2022 MSayib/roblox-dev-skill (54\u2605) \u2014 best quality: SKILL.md router + 14 reference guides (Luau, client-server, security, DataStores, UI, performance). Verified against Luau 0.743 / Studio 0.744, examples type-checked under \u2014!strict and run in a real place, has CI. Installs to Claude Code, Codex, Cursor, Copilot, Gemini.\n\u2022 nonlooped/roblox-suite (23\u2605) \u2014 \u201cAPI guidance for AI agents writing Roblox Luau\u201d, aimed at deprecated APIs (Humanoid:LoadAnimation, blind SetAsync). Each skill links official docs + review date. npx skills add nonlooped/roblox-suite.\n\u2022 luumenlabs/luau-skills (13\u2605) \u2014 literal name match: luau-core, luau-types, luau-performance, roblox-networking, roblox-data, roblox-oauth. npx skills add luumenlabs/luau-skills. Quiet since May.\n\u2022 TabooHarmony/roblox-brain (121\u2605) \u2014 29 skills, Luau/architecture/security Core set of 10 is the centrepiece.\n\u2022 m4bwav/roblox-agent \u2014 use if the goal is checking Luau WITHOUT Studio: rbx_check runs rojo build, selene, StyLua, luau-lsp.\n\u2022 Bigger umbrella: gamedev-skills/awesome-gamedev-agent-skills (~2.9k\u2605), 74 skills over 10 engines incl. Roblox, with a router.\n\u2022 Full agent apps (not skills): S4US/Roqer, paralov/app-bloxbot-ai, Roblox/roblox-studio-agent-plugin (official, Claude/ChatGPT/Codex).\nAvoid: shivamthe-coder/roblox-luau-atelier \u2014 ranks high for \u201cLuau agent skill\u201d but is SEO bait: fake SVG download button, \u201cSEO-Friendly Philosophy\u201d section, README self-renames to \u201cRoBlocks Studio Toolkit\u201d.\nVerdict: MSayib/roblox-dev-skill first, nonlooped/roblox-suite second. Both are plain Markdown, nothing runs until their installer is invoked.\nPart of Inbox.\nInbox"
+}

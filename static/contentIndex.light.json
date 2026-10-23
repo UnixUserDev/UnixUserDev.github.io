@@ -949,6 +949,17 @@
       "memory/gaming"
     ]
   },
+  "memory/roblox-ai-agent-skill-repos-that-cover-luau": {
+    "slug": "memory/roblox-ai-agent-skill-repos-that-cover-luau",
+    "filePath": "memory/Roblox AI agent skill repos that cover Luau.md",
+    "title": "Roblox AI agent skill repos that cover Luau",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "memory/roblox-studio-mcp-bridge-on-linux-via-vinegar": {
     "slug": "memory/roblox-studio-mcp-bridge-on-linux-via-vinegar",
     "filePath": "memory/Roblox Studio MCP bridge on Linux via Vinegar.md",
