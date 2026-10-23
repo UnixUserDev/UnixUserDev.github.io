@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 118 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 119 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -27,6 +27,7 @@
 - [Brick Rigs runs better without gamescope](https://unixuserdev.github.io/memory/brick-rigs-runs-better-without-gamescope): memory/gaming
 - [Brick Rigs SDK dump makes the whole game scriptable](https://unixuserdev.github.io/memory/brick-rigs-sdk-dump-makes-the-whole-game-scriptable): memory/gaming
 - [Brick Rigs server kick supports a duration and reason](https://unixuserdev.github.io/memory/brick-rigs-server-kick-supports-a-duration-and-reason): memory/gaming
+- [Brick Rigs walking NPCs spawn from BP Zombie](https://unixuserdev.github.io/memory/brick-rigs-walking-npcs-spawn-from-bp-zombie): memory/gaming
 - [Browser Hardware Acceleration](https://unixuserdev.github.io/cachyos/browser-hardware-acceleration): note/cachyos
 - [Btrfs Snapshots](https://unixuserdev.github.io/cachyos/btrfs-snapshots): note/cachyos
 - [byoa](https://unixuserdev.github.io/memory/byoa/index): -

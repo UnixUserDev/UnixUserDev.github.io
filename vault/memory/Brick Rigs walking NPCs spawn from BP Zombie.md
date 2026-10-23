@@ -1,0 +1,10 @@
+---
+tags:
+  - memory/gaming
+created: 2026-10-23T00:09:24
+source: agent
+---
+
+Brick Rigs can spawn a walking NPC with a working AI controller on any map, including normal sandbox maps. The concrete class is BlueprintGeneratedClass /Game/BrickRigs/Zombie/BP_Zombie.BP_Zombie_C (the native AZombie is abstract and spawns nothing; the Blueprint subclass is what the zombie game mode uses). Recipe: get GameplayStatics, build an FTransform table {Translation={X,Y,Z}, Rotation={Pitch,Yaw,Roll}, Scale3D={X,Y,Z}}, call BeginDeferredActorSpawnFromClass(PlayerController, Class, Transform, 0, nil), then FinishSpawningActor(Actor, Transform). The pawn arrives already possessed: read Pawn.Controller (UPROPERTY) rather than GetController() when checking. Measured 23.7 m in 6 s (about 4 m/s) walking on the map navmesh. Spawned dummies (ServerSpawnDummy) never get a controller, even with AutoPossessAI forced and AIControllerClass set, so they cannot walk; the zombie class is the way to get on-foot AI.
+
+[[Inbox]]

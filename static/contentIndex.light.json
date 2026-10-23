@@ -786,6 +786,17 @@
       "memory/gaming"
     ]
   },
+  "memory/brick-rigs-walking-npcs-spawn-from-bp-zombie": {
+    "slug": "memory/brick-rigs-walking-npcs-spawn-from-bp-zombie",
+    "filePath": "memory/Brick Rigs walking NPCs spawn from BP Zombie.md",
+    "title": "Brick Rigs walking NPCs spawn from BP Zombie",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/gaming"
+    ]
+  },
   "memory/ckan-installed-for-kerbal-space-program": {
     "slug": "memory/ckan-installed-for-kerbal-space-program",
     "filePath": "memory/CKAN installed for Kerbal Space Program.md",

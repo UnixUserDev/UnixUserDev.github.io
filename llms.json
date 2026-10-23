@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 118 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 119 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -141,6 +141,16 @@
     {
       "title": "Brick Rigs server kick supports a duration and reason",
       "url": "https://unixuserdev.github.io/memory/brick-rigs-server-kick-supports-a-duration-and-reason",
+      "tags": [
+        "memory/gaming"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "Brick Rigs walking NPCs spawn from BP Zombie",
+      "url": "https://unixuserdev.github.io/memory/brick-rigs-walking-npcs-spawn-from-bp-zombie",
       "tags": [
         "memory/gaming"
       ],
