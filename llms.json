@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 120 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 121 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -525,6 +525,16 @@
         "cachyos/cachyos-settings-package",
         "cachyos/dual-gpu-setup",
         "cachyos/general-system-tweaks"
+      ]
+    },
+    {
+      "title": "Garry's Mod native Linux hangs on Loading world until mat_queue_mode 0",
+      "url": "https://unixuserdev.github.io/memory/garry's-mod-native-linux-hangs-on-loading-world-until-mat_queue_mode-0",
+      "tags": [
+        "memory/gaming"
+      ],
+      "links": [
+        "inbox"
       ]
     },
     {
