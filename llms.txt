@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 115 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 117 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -20,8 +20,10 @@
 - [BONELAB PCVR setup on the CachyOS box](https://unixuserdev.github.io/memory/bonelab-pcvr-setup-on-the-cachyos-box): memory/projects
 - [BONELAB saves are encrypted blobs and Steam Cloud only stores settings](https://unixuserdev.github.io/memory/bonelab-saves-are-encrypted-blobs-and-steam-cloud-only-stores-settings): memory/guide
 - [Boot Manager Configuration](https://unixuserdev.github.io/cachyos/boot-manager-configuration): note/cachyos
+- [Brick Rigs chat and dispatch calls](https://unixuserdev.github.io/memory/brick-rigs-chat-and-dispatch-calls): memory/gaming
 - [Brick Rigs General AI Mod by Mr Microcontroller](https://unixuserdev.github.io/memory/brick-rigs-general-ai-mod-by-mr-microcontroller): memory/gaming
 - [Brick Rigs minimize crash fixed by running it in gamescope](https://unixuserdev.github.io/memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope): memory/linux
+- [Brick Rigs on-foot AI can use engine pathfinding](https://unixuserdev.github.io/memory/brick-rigs-on-foot-ai-can-use-engine-pathfinding): memory/gaming
 - [Brick Rigs runs better without gamescope](https://unixuserdev.github.io/memory/brick-rigs-runs-better-without-gamescope): memory/gaming
 - [Brick Rigs SDK dump makes the whole game scriptable](https://unixuserdev.github.io/memory/brick-rigs-sdk-dump-makes-the-whole-game-scriptable): memory/gaming
 - [Brick Rigs server kick supports a duration and reason](https://unixuserdev.github.io/memory/brick-rigs-server-kick-supports-a-duration-and-reason): memory/gaming

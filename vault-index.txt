@@ -731,6 +731,17 @@
       "memory/gaming"
     ]
   },
+  "memory/brick-rigs-chat-and-dispatch-calls": {
+    "slug": "memory/brick-rigs-chat-and-dispatch-calls",
+    "filePath": "memory/Brick Rigs chat and dispatch calls.md",
+    "title": "Brick Rigs chat and dispatch calls",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/gaming"
+    ]
+  },
   "memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope": {
     "slug": "memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope",
     "filePath": "memory/Brick Rigs minimize crash fixed by running it in gamescope.md",
@@ -740,6 +751,17 @@
     ],
     "tags": [
       "memory/linux"
+    ]
+  },
+  "memory/brick-rigs-on-foot-ai-can-use-engine-pathfinding": {
+    "slug": "memory/brick-rigs-on-foot-ai-can-use-engine-pathfinding",
+    "filePath": "memory/Brick Rigs on-foot AI can use engine pathfinding.md",
+    "title": "Brick Rigs on-foot AI can use engine pathfinding",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/gaming"
     ]
   },
   "memory/brick-rigs-runs-better-without-gamescope": {
@@ -919,6 +941,8 @@
     "filePath": "memory/PursuitAI anti-hijack locks AI police cars.md",
     "title": "PursuitAI anti-hijack locks AI police cars",
     "links": [
+      "memory/brick-rigs-server-kick-supports-a-duration-and-reason",
+      "memory/brick-rigs-sdk-dump-makes-the-whole-game-scriptable",
       "inbox"
     ],
     "tags": [

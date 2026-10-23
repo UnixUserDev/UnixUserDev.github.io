@@ -1,0 +1,12 @@
+{
+  "slug": "memory/brick-rigs-chat-and-dispatch-calls",
+  "filePath": "memory/Brick Rigs chat and dispatch calls.md",
+  "title": "Brick Rigs chat and dispatch calls",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/gaming"
+  ],
+  "content": "Chat from a Brick Rigs mod: ABrickPlayerController::Say(const FText&amp; Message) sends a plain line, and SendChatMessage(EChatContext Context, const FText&amp; Message) or ServerSendChatMessage sends a context-aware one. EChatContext is None=0, Global=1, Team=2, Admin=3, so Global reaches everyone and is not limited by the game mode\u2019s MaxLocalChatDistance. Build the FText with UKismetTextLibrary::Conv_StringToText(FString) before calling. FBrickChatMessage (the 0xA8 struct behind ClientReceiveChatMessage(s)) carries Type, Player, OtherPlayer, TextOption and option fields, but Say/SendChatMessage avoids laying it out by hand. This is the notification channel for anything the player cannot see happen, such as an incident director dispatching units.\nInbox"
+}

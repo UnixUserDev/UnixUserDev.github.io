@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 115 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 117 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -79,6 +79,16 @@
       ]
     },
     {
+      "title": "Brick Rigs chat and dispatch calls",
+      "url": "https://unixuserdev.github.io/memory/brick-rigs-chat-and-dispatch-calls",
+      "tags": [
+        "memory/gaming"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
       "title": "Brick Rigs General AI Mod by Mr Microcontroller",
       "url": "https://unixuserdev.github.io/memory/brick-rigs-general-ai-mod-by-mr-microcontroller",
       "tags": [
@@ -93,6 +103,16 @@
       "url": "https://unixuserdev.github.io/memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope",
       "tags": [
         "memory/linux"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "Brick Rigs on-foot AI can use engine pathfinding",
+      "url": "https://unixuserdev.github.io/memory/brick-rigs-on-foot-ai-can-use-engine-pathfinding",
+      "tags": [
+        "memory/gaming"
       ],
       "links": [
         "inbox"
@@ -916,6 +936,8 @@
         "memory/gaming"
       ],
       "links": [
+        "memory/brick-rigs-server-kick-supports-a-duration-and-reason",
+        "memory/brick-rigs-sdk-dump-makes-the-whole-game-scriptable",
         "inbox"
       ]
     },
