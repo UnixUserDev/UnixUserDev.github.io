@@ -1,0 +1,12 @@
+---
+tags:
+  - memory/preferences
+created: 2026-10-23T13:32:53
+source: agent
+---
+
+On long agent jobs the user would rather wait longer and not have to intervene than get a fast result they have to babysit and then be disappointed by. Do not cut the ship gate or skip live end-to-end checks to save time; do the full run, fix what it finds, and report once with the verdict.
+
+Related: [[Inbox]]
+
+[[Inbox]]

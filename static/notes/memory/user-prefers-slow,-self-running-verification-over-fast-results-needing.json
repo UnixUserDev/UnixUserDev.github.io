@@ -1,0 +1,12 @@
+{
+  "slug": "memory/user-prefers-slow,-self-running-verification-over-fast-results-needing",
+  "filePath": "memory/User prefers slow, self-running verification over fast results needing.md",
+  "title": "User prefers slow, self-running verification over fast results needing",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/preferences"
+  ],
+  "content": "On long agent jobs the user would rather wait longer and not have to intervene than get a fast result they have to babysit and then be disappointed by. Do not cut the ship gate or skip live end-to-end checks to save time; do the full run, fix what it finds, and report once with the verdict.\nRelated: Inbox\nInbox"
+}

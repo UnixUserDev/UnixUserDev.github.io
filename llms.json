@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 119 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 120 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -1131,6 +1131,16 @@
       "url": "https://unixuserdev.github.io/memory/use-the-agent-opencode-account-for-agent-github-work",
       "tags": [
         "memory/linux"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "User prefers slow, self-running verification over fast results needing",
+      "url": "https://unixuserdev.github.io/memory/user-prefers-slow,-self-running-verification-over-fast-results-needing",
+      "tags": [
+        "memory/preferences"
       ],
       "links": [
         "inbox"
