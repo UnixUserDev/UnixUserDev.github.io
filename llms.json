@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 113 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 115 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -101,6 +101,26 @@
     {
       "title": "Brick Rigs runs better without gamescope",
       "url": "https://unixuserdev.github.io/memory/brick-rigs-runs-better-without-gamescope",
+      "tags": [
+        "memory/gaming"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "Brick Rigs SDK dump makes the whole game scriptable",
+      "url": "https://unixuserdev.github.io/memory/brick-rigs-sdk-dump-makes-the-whole-game-scriptable",
+      "tags": [
+        "memory/gaming"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "Brick Rigs server kick supports a duration and reason",
+      "url": "https://unixuserdev.github.io/memory/brick-rigs-server-kick-supports-a-duration-and-reason",
       "tags": [
         "memory/gaming"
       ],

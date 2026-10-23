@@ -720,6 +720,17 @@
       "memory/gaming"
     ]
   },
+  "memory/brick-rigs-sdk-dump-makes-the-whole-game-scriptable": {
+    "slug": "memory/brick-rigs-sdk-dump-makes-the-whole-game-scriptable",
+    "filePath": "memory/Brick Rigs SDK dump makes the whole game scriptable.md",
+    "title": "Brick Rigs SDK dump makes the whole game scriptable",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/gaming"
+    ]
+  },
   "memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope": {
     "slug": "memory/brick-rigs-minimize-crash-fixed-by-running-it-in-gamescope",
     "filePath": "memory/Brick Rigs minimize crash fixed by running it in gamescope.md",
@@ -735,6 +746,17 @@
     "slug": "memory/brick-rigs-runs-better-without-gamescope",
     "filePath": "memory/Brick Rigs runs better without gamescope.md",
     "title": "Brick Rigs runs better without gamescope",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/gaming"
+    ]
+  },
+  "memory/brick-rigs-server-kick-supports-a-duration-and-reason": {
+    "slug": "memory/brick-rigs-server-kick-supports-a-duration-and-reason",
+    "filePath": "memory/Brick Rigs server kick supports a duration and reason.md",
+    "title": "Brick Rigs server kick supports a duration and reason",
     "links": [
       "inbox"
     ],

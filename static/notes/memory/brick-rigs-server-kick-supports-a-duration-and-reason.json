@@ -1,0 +1,12 @@
+{
+  "slug": "memory/brick-rigs-server-kick-supports-a-duration-and-reason",
+  "filePath": "memory/Brick Rigs server kick supports a duration and reason.md",
+  "title": "Brick Rigs server kick supports a duration and reason",
+  "links": [
+    "inbox"
+  ],
+  "tags": [
+    "memory/gaming"
+  ],
+  "content": "Brick Rigs has a real timed kick, not just a local ban: ABasePlayerController::ServerKickPlayer(FUniqueNetIdRepl&amp; OtherPlayerId, FString OtherPlayerName, FString KickReason, const FTimespan&amp; KickDuration). The session keeps FKickedPlayer entries (KickTime, KickDuration, KickReason) and EChatMessageType includes JoinBanned, so a repeat join is reported back. The host can call it with another player\u2019s UniqueId (UPROPERTY on the player state at 0x0250), which means a mod can remove a griefer for a fixed time with a reason instead of only blacklisting them in memory. Still unproven in-game: constructing FTimespan and passing FUniqueNetIdRepl from Lua needs a runtime test first.\nInbox"
+}
