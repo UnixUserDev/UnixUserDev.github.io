@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 122 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 124 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -45,8 +45,28 @@
       ]
     },
     {
+      "title": "BeamNG career crash log",
+      "url": "https://unixuserdev.github.io/memory/beamng-career-crash-log",
+      "tags": [
+        "memory/gaming"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
       "title": "BeamNG career permadeath run \u2014 light help only",
       "url": "https://unixuserdev.github.io/memory/beamng-career-permadeath-run-\u2014-light-help-only",
+      "tags": [
+        "memory/gaming"
+      ],
+      "links": [
+        "inbox"
+      ]
+    },
+    {
+      "title": "BeamNG permadeath rule hard crash or permanent injury ends the run",
+      "url": "https://unixuserdev.github.io/memory/beamng-permadeath-rule-hard-crash-or-permanent-injury-ends-the-run",
       "tags": [
         "memory/gaming"
       ],

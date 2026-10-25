@@ -709,10 +709,32 @@
       "memory/projects"
     ]
   },
+  "memory/beamng-career-crash-log": {
+    "slug": "memory/beamng-career-crash-log",
+    "filePath": "memory/BeamNG career crash log.md",
+    "title": "BeamNG career crash log",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/gaming"
+    ]
+  },
   "memory/beamng-career-permadeath-run-\u2014-light-help-only": {
     "slug": "memory/beamng-career-permadeath-run-\u2014-light-help-only",
     "filePath": "memory/BeamNG career permadeath run \u2014 light help only.md",
     "title": "BeamNG career permadeath run \u2014 light help only",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/gaming"
+    ]
+  },
+  "memory/beamng-permadeath-rule-hard-crash-or-permanent-injury-ends-the-run": {
+    "slug": "memory/beamng-permadeath-rule-hard-crash-or-permanent-injury-ends-the-run",
+    "filePath": "memory/BeamNG permadeath rule hard crash or permanent injury ends the run.md",
+    "title": "BeamNG permadeath rule hard crash or permanent injury ends the run",
     "links": [
       "inbox"
     ],
