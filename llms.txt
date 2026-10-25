@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 121 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 122 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -17,6 +17,7 @@
 - [Always distribute software via releases](https://unixuserdev.github.io/memory/always-distribute-software-via-releases): memory/preferences
 - [AppImage leaks LD_LIBRARY_PATH and breaks notify-send](https://unixuserdev.github.io/memory/appimage-leaks-ld_library_path-and-breaks-notify-send): memory/linux
 - [Automounting Drives at Boot](https://unixuserdev.github.io/cachyos/automounting-drives-at-boot): note/cachyos
+- [BeamNG career permadeath run — light help only](https://unixuserdev.github.io/memory/beamng-career-permadeath-run-—-light-help-only): memory/gaming
 - [BONELAB PCVR setup on the CachyOS box](https://unixuserdev.github.io/memory/bonelab-pcvr-setup-on-the-cachyos-box): memory/projects
 - [BONELAB saves are encrypted blobs and Steam Cloud only stores settings](https://unixuserdev.github.io/memory/bonelab-saves-are-encrypted-blobs-and-steam-cloud-only-stores-settings): memory/guide
 - [Boot Manager Configuration](https://unixuserdev.github.io/cachyos/boot-manager-configuration): note/cachyos
