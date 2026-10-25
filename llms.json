@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 125 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 124 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -47,16 +47,6 @@
     {
       "title": "BeamAlert career log",
       "url": "https://unixuserdev.github.io/memory/beamalert-career-log",
-      "tags": [
-        "memory/gaming"
-      ],
-      "links": [
-        "inbox"
-      ]
-    },
-    {
-      "title": "BeamNG career crash log",
-      "url": "https://unixuserdev.github.io/memory/beamng-career-crash-log",
       "tags": [
         "memory/gaming"
       ],

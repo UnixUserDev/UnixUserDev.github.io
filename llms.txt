@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-> A published Obsidian vault: 125 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
+> A published Obsidian vault: 124 markdown notes. Every page is plain HTML; pages cross-link, so start anywhere and follow links.
 
 ## Machine-readable
 
@@ -18,7 +18,6 @@
 - [AppImage leaks LD_LIBRARY_PATH and breaks notify-send](https://unixuserdev.github.io/memory/appimage-leaks-ld_library_path-and-breaks-notify-send): memory/linux
 - [Automounting Drives at Boot](https://unixuserdev.github.io/cachyos/automounting-drives-at-boot): note/cachyos
 - [BeamAlert career log](https://unixuserdev.github.io/memory/beamalert-career-log): memory/gaming
-- [BeamNG career crash log](https://unixuserdev.github.io/memory/beamng-career-crash-log): memory/gaming
 - [BeamNG career permadeath run — light help only](https://unixuserdev.github.io/memory/beamng-career-permadeath-run-—-light-help-only): memory/gaming
 - [BeamNG permadeath rule hard crash or permanent injury ends the run](https://unixuserdev.github.io/memory/beamng-permadeath-rule-hard-crash-or-permanent-injury-ends-the-run): memory/gaming
 - [BONELAB PCVR setup on the CachyOS box](https://unixuserdev.github.io/memory/bonelab-pcvr-setup-on-the-cachyos-box): memory/projects
