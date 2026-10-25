@@ -11,4 +11,8 @@ that ends a run.
 
 - **2026-10-24 21:33** — crash: +13% damage, total 17%, worst body.ML 8%, 53 km/h, @ 473, -378
 
+- **2026-10-24 21:33** — crash: +13% damage, total 17%, worst body.ML 8%, 53 km/h, @ 473, -378
+
+- **2026-10-24 21:40** — partLost: driveshaft_R, 53 km/h
+
 [[Inbox]]
