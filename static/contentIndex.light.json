@@ -870,6 +870,17 @@
     "links": [],
     "tags": []
   },
+  "memory/discord-bot-renamed-from-omnibot-to-opencode": {
+    "slug": "memory/discord-bot-renamed-from-omnibot-to-opencode",
+    "filePath": "memory/Discord bot renamed from OmniBot to OpenCode.md",
+    "title": "Discord bot renamed from OmniBot to OpenCode",
+    "links": [
+      "inbox"
+    ],
+    "tags": [
+      "memory/projects"
+    ]
+  },
   "memory/discord-updater-hangs-at-90-percent-on-a-stalled-cdn-download": {
     "slug": "memory/discord-updater-hangs-at-90-percent-on-a-stalled-cdn-download",
     "filePath": "memory/Discord updater hangs at 90 percent on a stalled CDN download.md",

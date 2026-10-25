@@ -1,6 +1,6 @@
 {
   "title": "Obsidian Vault",
-  "summary": "A published Obsidian vault: 124 markdown notes. Pages cross-link.",
+  "summary": "A published Obsidian vault: 125 markdown notes. Pages cross-link.",
   "machine_readable": {
     "index_html": "https://unixuserdev.github.io/vault-index.html",
     "index_json_full": "https://unixuserdev.github.io/static/contentIndex.json",
@@ -488,6 +488,16 @@
       "url": "https://unixuserdev.github.io/memory/desktop-pinned-to-kde-plasma-6.7.5-for-x11",
       "tags": [],
       "links": []
+    },
+    {
+      "title": "Discord bot renamed from OmniBot to OpenCode",
+      "url": "https://unixuserdev.github.io/memory/discord-bot-renamed-from-omnibot-to-opencode",
+      "tags": [
+        "memory/projects"
+      ],
+      "links": [
+        "inbox"
+      ]
     },
     {
       "title": "Discord updater hangs at 90 percent on a stalled CDN download",
